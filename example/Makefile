@@ -10,7 +10,11 @@ lint:
 
 #: Build the web app
 build:
-	flutter build web -v --release --web-renderer html
+	flutter build web -v --release --no-tree-shake-icons --web-renderer html
+
+#: Serve the web app
+serve:
+	cd build/web && npx -y serve@14.2.4
 
 #: Deploy to surge.sh
 deploy:

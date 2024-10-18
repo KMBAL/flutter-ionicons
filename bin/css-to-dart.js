@@ -38,7 +38,7 @@ stream.write('  const IoniconsData(int code)\n');
 stream.write('      : super(\n');
 stream.write('          code,\n');
 stream.write("          fontFamily: 'Ionicons',\n");
-stream.write("          fontPackage: 'Ionicons',\n");
+stream.write("          fontPackage: 'kmbal_ionicons',\n");
 stream.write('        );\n');
 stream.write('}\n\n');
 

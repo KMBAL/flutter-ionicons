@@ -24,7 +24,7 @@ init:
 
 #: Code formatting
 fmt:
-	flutter format --fix lib/
+	dart format lib/
 
 #: Analyzes the project's Dart source code
 lint:
@@ -60,6 +60,6 @@ endif
 
 #: Generate source from css
 gen:
-	node bin/css-to-dart.js bin/tmp/fonts/Ionicons.css lib/ionicons.dart
-	# node bin/css-to-dart.js bin/tmp/icons-master/icons.tsv lib/ionicons.dart
+	node bin/css-to-dart.js bin/tmp/fonts/Ionicons.css lib/kmbal_ionicons.dart
+	# node bin/css-to-dart.js bin/tmp/icons-master/icons.tsv lib/kmbal_ionicons.dart
 	@make -s fmt lint

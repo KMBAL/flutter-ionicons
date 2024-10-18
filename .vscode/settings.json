@@ -1,4 +1,4 @@
 {
     "files.eol": "\n",
-    "dart.runPubGetOnPubspecChanges": false
+    "dart.runPubGetOnPubspecChanges": "never"
 }

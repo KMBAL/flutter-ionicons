@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:ionicons/ionicons.dart';
+import 'package:kmbal_ionicons/kmbal_ionicons.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 void main() {
@@ -8,7 +8,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   // This widget is the root of your application.
   @override
@@ -28,7 +28,7 @@ class MyHomePage extends StatelessWidget {
   final _filledItems = ValueNotifier<List<MapEntry<String, String>>>([]);
   final _sharpItems = ValueNotifier<List<MapEntry<String, String>>>([]);
 
-  MyHomePage({Key? key}) : super(key: key) {
+  MyHomePage({super.key}) {
     _onTextChanged(''); // trigger the search
   }
 
@@ -116,12 +116,12 @@ class MyHomePage extends StatelessWidget {
 
   /// Handle on pressed GitHub button
   void _onPressedGitHub() {
-    launchUrlString('https://github.com/ez-connect/flutter-ionicons');
+    launchUrlString('https://github.com/KMBAL/flutter-ionicons');
   }
 
   /// Handle on pressed Pub button
   void _onPressedPub() {
-    launchUrlString('https://pub.dev/packages/ionicons');
+    launchUrlString('https://pub.dev/packages/kmbal_ionicons');
   }
 }
 
@@ -131,7 +131,7 @@ class _ItemList extends StatelessWidget {
 
   final _controller = ScrollController();
 
-  _ItemList({Key? key, required this.items}) : super(key: key);
+  _ItemList({super.key, required this.items});
 
   @override
   Widget build(BuildContext context) {

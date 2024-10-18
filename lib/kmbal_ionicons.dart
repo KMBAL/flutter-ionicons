@@ -6,7 +6,7 @@ class IoniconsData extends IconData {
       : super(
           code,
           fontFamily: 'Ionicons',
-          fontPackage: 'ionicons',
+          fontPackage: 'kmbal_ionicons',
         );
 }
 
