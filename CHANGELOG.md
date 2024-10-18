@@ -1,3 +1,9 @@
+## 0.2.3
+
+### Changed
+
+- Tidy up, update, and rename package to kmbal_ionicons
+
 ## 0.2.2
 
 ### Fixed
