@@ -3,7 +3,7 @@
 # https://github.com/ionic-team/ionicons
 #
 
-IONICON_VERSION	?= 6.0.2
+IONICON_VERSION	?= 7.4.0
 
 # Lists all targets
 help:

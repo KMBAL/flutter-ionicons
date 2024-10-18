@@ -1,3 +1,9 @@
+## 1.0.0
+
+### Changed
+
+- Upgrade to 7.4.0 of Ionicons
+
 ## 0.2.3
 
 ### Changed

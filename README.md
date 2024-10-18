@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/issues/KMBAL/flutter-ionicons)
 
 This package is a fork of the [ionicons](https://pub.dev/packages/ionicons) package. It includes the icons from
-[Ionicons](https://ionicons.com/) [v6.0.2](https://github.com/ionic-team/ionicons/releases/tag/v6.0.2). The naming
+[Ionicons](https://ionicons.com/) [v7.4.0](https://github.com/ionic-team/ionicons/releases/tag/v7.4.0). The naming
 convention is the same as the CSS names, all dashes replaced with underscores.
 
 ## Usage

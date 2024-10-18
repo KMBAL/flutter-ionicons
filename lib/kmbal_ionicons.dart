@@ -156,3857 +156,3929 @@ class Ionicons {
   /// arrow-down-circle
   static const arrow_down_circle = IoniconsData(0xea30);
 
+  /// arrow-down-left-box-outline
+  static const arrow_down_left_box_outline = IoniconsData(0xea31);
+
+  /// arrow-down-left-box-sharp
+  static const arrow_down_left_box_sharp = IoniconsData(0xea32);
+
+  /// arrow-down-left-box
+  static const arrow_down_left_box = IoniconsData(0xea33);
+
   /// arrow-down-outline
-  static const arrow_down_outline = IoniconsData(0xea31);
+  static const arrow_down_outline = IoniconsData(0xea34);
+
+  /// arrow-down-right-box-outline
+  static const arrow_down_right_box_outline = IoniconsData(0xea35);
+
+  /// arrow-down-right-box-sharp
+  static const arrow_down_right_box_sharp = IoniconsData(0xea36);
+
+  /// arrow-down-right-box
+  static const arrow_down_right_box = IoniconsData(0xea37);
 
   /// arrow-down-sharp
-  static const arrow_down_sharp = IoniconsData(0xea32);
+  static const arrow_down_sharp = IoniconsData(0xea38);
 
   /// arrow-down
-  static const arrow_down = IoniconsData(0xea33);
+  static const arrow_down = IoniconsData(0xea39);
 
   /// arrow-forward-circle-outline
-  static const arrow_forward_circle_outline = IoniconsData(0xea34);
+  static const arrow_forward_circle_outline = IoniconsData(0xea3a);
 
   /// arrow-forward-circle-sharp
-  static const arrow_forward_circle_sharp = IoniconsData(0xea35);
+  static const arrow_forward_circle_sharp = IoniconsData(0xea3b);
 
   /// arrow-forward-circle
-  static const arrow_forward_circle = IoniconsData(0xea36);
+  static const arrow_forward_circle = IoniconsData(0xea3c);
 
   /// arrow-forward-outline
-  static const arrow_forward_outline = IoniconsData(0xea37);
+  static const arrow_forward_outline = IoniconsData(0xea3d);
 
   /// arrow-forward-sharp
-  static const arrow_forward_sharp = IoniconsData(0xea38);
+  static const arrow_forward_sharp = IoniconsData(0xea3e);
 
   /// arrow-forward
-  static const arrow_forward = IoniconsData(0xea39);
+  static const arrow_forward = IoniconsData(0xea3f);
 
   /// arrow-redo-circle-outline
-  static const arrow_redo_circle_outline = IoniconsData(0xea3a);
+  static const arrow_redo_circle_outline = IoniconsData(0xea40);
 
   /// arrow-redo-circle-sharp
-  static const arrow_redo_circle_sharp = IoniconsData(0xea3b);
+  static const arrow_redo_circle_sharp = IoniconsData(0xea41);
 
   /// arrow-redo-circle
-  static const arrow_redo_circle = IoniconsData(0xea3c);
+  static const arrow_redo_circle = IoniconsData(0xea42);
 
   /// arrow-redo-outline
-  static const arrow_redo_outline = IoniconsData(0xea3d);
+  static const arrow_redo_outline = IoniconsData(0xea43);
 
   /// arrow-redo-sharp
-  static const arrow_redo_sharp = IoniconsData(0xea3e);
+  static const arrow_redo_sharp = IoniconsData(0xea44);
 
   /// arrow-redo
-  static const arrow_redo = IoniconsData(0xea3f);
+  static const arrow_redo = IoniconsData(0xea45);
 
   /// arrow-undo-circle-outline
-  static const arrow_undo_circle_outline = IoniconsData(0xea40);
+  static const arrow_undo_circle_outline = IoniconsData(0xea46);
 
   /// arrow-undo-circle-sharp
-  static const arrow_undo_circle_sharp = IoniconsData(0xea41);
+  static const arrow_undo_circle_sharp = IoniconsData(0xea47);
 
   /// arrow-undo-circle
-  static const arrow_undo_circle = IoniconsData(0xea42);
+  static const arrow_undo_circle = IoniconsData(0xea48);
 
   /// arrow-undo-outline
-  static const arrow_undo_outline = IoniconsData(0xea43);
+  static const arrow_undo_outline = IoniconsData(0xea49);
 
   /// arrow-undo-sharp
-  static const arrow_undo_sharp = IoniconsData(0xea44);
+  static const arrow_undo_sharp = IoniconsData(0xea4a);
 
   /// arrow-undo
-  static const arrow_undo = IoniconsData(0xea45);
+  static const arrow_undo = IoniconsData(0xea4b);
 
   /// arrow-up-circle-outline
-  static const arrow_up_circle_outline = IoniconsData(0xea46);
+  static const arrow_up_circle_outline = IoniconsData(0xea4c);
 
   /// arrow-up-circle-sharp
-  static const arrow_up_circle_sharp = IoniconsData(0xea47);
+  static const arrow_up_circle_sharp = IoniconsData(0xea4d);
 
   /// arrow-up-circle
-  static const arrow_up_circle = IoniconsData(0xea48);
+  static const arrow_up_circle = IoniconsData(0xea4e);
+
+  /// arrow-up-left-box-outline
+  static const arrow_up_left_box_outline = IoniconsData(0xea4f);
+
+  /// arrow-up-left-box-sharp
+  static const arrow_up_left_box_sharp = IoniconsData(0xea50);
+
+  /// arrow-up-left-box
+  static const arrow_up_left_box = IoniconsData(0xea51);
 
   /// arrow-up-outline
-  static const arrow_up_outline = IoniconsData(0xea49);
+  static const arrow_up_outline = IoniconsData(0xea52);
+
+  /// arrow-up-right-box-outline
+  static const arrow_up_right_box_outline = IoniconsData(0xea53);
+
+  /// arrow-up-right-box-sharp
+  static const arrow_up_right_box_sharp = IoniconsData(0xea54);
+
+  /// arrow-up-right-box
+  static const arrow_up_right_box = IoniconsData(0xea55);
 
   /// arrow-up-sharp
-  static const arrow_up_sharp = IoniconsData(0xea4a);
+  static const arrow_up_sharp = IoniconsData(0xea56);
 
   /// arrow-up
-  static const arrow_up = IoniconsData(0xea4b);
+  static const arrow_up = IoniconsData(0xea57);
 
   /// at-circle-outline
-  static const at_circle_outline = IoniconsData(0xea4c);
+  static const at_circle_outline = IoniconsData(0xea58);
 
   /// at-circle-sharp
-  static const at_circle_sharp = IoniconsData(0xea4d);
+  static const at_circle_sharp = IoniconsData(0xea59);
 
   /// at-circle
-  static const at_circle = IoniconsData(0xea4e);
+  static const at_circle = IoniconsData(0xea5a);
 
   /// at-outline
-  static const at_outline = IoniconsData(0xea4f);
+  static const at_outline = IoniconsData(0xea5b);
 
   /// at-sharp
-  static const at_sharp = IoniconsData(0xea50);
+  static const at_sharp = IoniconsData(0xea5c);
 
   /// at
-  static const at = IoniconsData(0xea51);
+  static const at = IoniconsData(0xea5d);
 
   /// attach-outline
-  static const attach_outline = IoniconsData(0xea52);
+  static const attach_outline = IoniconsData(0xea5e);
 
   /// attach-sharp
-  static const attach_sharp = IoniconsData(0xea53);
+  static const attach_sharp = IoniconsData(0xea5f);
 
   /// attach
-  static const attach = IoniconsData(0xea54);
+  static const attach = IoniconsData(0xea60);
 
   /// backspace-outline
-  static const backspace_outline = IoniconsData(0xea55);
+  static const backspace_outline = IoniconsData(0xea61);
 
   /// backspace-sharp
-  static const backspace_sharp = IoniconsData(0xea56);
+  static const backspace_sharp = IoniconsData(0xea62);
 
   /// backspace
-  static const backspace = IoniconsData(0xea57);
+  static const backspace = IoniconsData(0xea63);
 
   /// bag-add-outline
-  static const bag_add_outline = IoniconsData(0xea58);
+  static const bag_add_outline = IoniconsData(0xea64);
 
   /// bag-add-sharp
-  static const bag_add_sharp = IoniconsData(0xea59);
+  static const bag_add_sharp = IoniconsData(0xea65);
 
   /// bag-add
-  static const bag_add = IoniconsData(0xea5a);
+  static const bag_add = IoniconsData(0xea66);
 
   /// bag-check-outline
-  static const bag_check_outline = IoniconsData(0xea5b);
+  static const bag_check_outline = IoniconsData(0xea67);
 
   /// bag-check-sharp
-  static const bag_check_sharp = IoniconsData(0xea5c);
+  static const bag_check_sharp = IoniconsData(0xea68);
 
   /// bag-check
-  static const bag_check = IoniconsData(0xea5d);
+  static const bag_check = IoniconsData(0xea69);
 
   /// bag-handle-outline
-  static const bag_handle_outline = IoniconsData(0xea5e);
+  static const bag_handle_outline = IoniconsData(0xea6a);
 
   /// bag-handle-sharp
-  static const bag_handle_sharp = IoniconsData(0xea5f);
+  static const bag_handle_sharp = IoniconsData(0xea6b);
 
   /// bag-handle
-  static const bag_handle = IoniconsData(0xea60);
+  static const bag_handle = IoniconsData(0xea6c);
 
   /// bag-outline
-  static const bag_outline = IoniconsData(0xea61);
+  static const bag_outline = IoniconsData(0xea6d);
 
   /// bag-remove-outline
-  static const bag_remove_outline = IoniconsData(0xea62);
+  static const bag_remove_outline = IoniconsData(0xea6e);
 
   /// bag-remove-sharp
-  static const bag_remove_sharp = IoniconsData(0xea63);
+  static const bag_remove_sharp = IoniconsData(0xea6f);
 
   /// bag-remove
-  static const bag_remove = IoniconsData(0xea64);
+  static const bag_remove = IoniconsData(0xea70);
 
   /// bag-sharp
-  static const bag_sharp = IoniconsData(0xea65);
+  static const bag_sharp = IoniconsData(0xea71);
 
   /// bag
-  static const bag = IoniconsData(0xea66);
+  static const bag = IoniconsData(0xea72);
 
   /// balloon-outline
-  static const balloon_outline = IoniconsData(0xea67);
+  static const balloon_outline = IoniconsData(0xea73);
 
   /// balloon-sharp
-  static const balloon_sharp = IoniconsData(0xea68);
+  static const balloon_sharp = IoniconsData(0xea74);
 
   /// balloon
-  static const balloon = IoniconsData(0xea69);
+  static const balloon = IoniconsData(0xea75);
 
   /// ban-outline
-  static const ban_outline = IoniconsData(0xea6a);
+  static const ban_outline = IoniconsData(0xea76);
 
   /// ban-sharp
-  static const ban_sharp = IoniconsData(0xea6b);
+  static const ban_sharp = IoniconsData(0xea77);
 
   /// ban
-  static const ban = IoniconsData(0xea6c);
+  static const ban = IoniconsData(0xea78);
 
   /// bandage-outline
-  static const bandage_outline = IoniconsData(0xea6d);
+  static const bandage_outline = IoniconsData(0xea79);
 
   /// bandage-sharp
-  static const bandage_sharp = IoniconsData(0xea6e);
+  static const bandage_sharp = IoniconsData(0xea7a);
 
   /// bandage
-  static const bandage = IoniconsData(0xea6f);
+  static const bandage = IoniconsData(0xea7b);
 
   /// bar-chart-outline
-  static const bar_chart_outline = IoniconsData(0xea70);
+  static const bar_chart_outline = IoniconsData(0xea7c);
 
   /// bar-chart-sharp
-  static const bar_chart_sharp = IoniconsData(0xea71);
+  static const bar_chart_sharp = IoniconsData(0xea7d);
 
   /// bar-chart
-  static const bar_chart = IoniconsData(0xea72);
+  static const bar_chart = IoniconsData(0xea7e);
 
   /// barbell-outline
-  static const barbell_outline = IoniconsData(0xea73);
+  static const barbell_outline = IoniconsData(0xea7f);
 
   /// barbell-sharp
-  static const barbell_sharp = IoniconsData(0xea74);
+  static const barbell_sharp = IoniconsData(0xea80);
 
   /// barbell
-  static const barbell = IoniconsData(0xea75);
+  static const barbell = IoniconsData(0xea81);
 
   /// barcode-outline
-  static const barcode_outline = IoniconsData(0xea76);
+  static const barcode_outline = IoniconsData(0xea82);
 
   /// barcode-sharp
-  static const barcode_sharp = IoniconsData(0xea77);
+  static const barcode_sharp = IoniconsData(0xea83);
 
   /// barcode
-  static const barcode = IoniconsData(0xea78);
+  static const barcode = IoniconsData(0xea84);
 
   /// baseball-outline
-  static const baseball_outline = IoniconsData(0xea79);
+  static const baseball_outline = IoniconsData(0xea85);
 
   /// baseball-sharp
-  static const baseball_sharp = IoniconsData(0xea7a);
+  static const baseball_sharp = IoniconsData(0xea86);
 
   /// baseball
-  static const baseball = IoniconsData(0xea7b);
+  static const baseball = IoniconsData(0xea87);
 
   /// basket-outline
-  static const basket_outline = IoniconsData(0xea7c);
+  static const basket_outline = IoniconsData(0xea88);
 
   /// basket-sharp
-  static const basket_sharp = IoniconsData(0xea7d);
+  static const basket_sharp = IoniconsData(0xea89);
 
   /// basket
-  static const basket = IoniconsData(0xea7e);
+  static const basket = IoniconsData(0xea8a);
 
   /// basketball-outline
-  static const basketball_outline = IoniconsData(0xea7f);
+  static const basketball_outline = IoniconsData(0xea8b);
 
   /// basketball-sharp
-  static const basketball_sharp = IoniconsData(0xea80);
+  static const basketball_sharp = IoniconsData(0xea8c);
 
   /// basketball
-  static const basketball = IoniconsData(0xea81);
+  static const basketball = IoniconsData(0xea8d);
 
   /// battery-charging-outline
-  static const battery_charging_outline = IoniconsData(0xea82);
+  static const battery_charging_outline = IoniconsData(0xea8e);
 
   /// battery-charging-sharp
-  static const battery_charging_sharp = IoniconsData(0xea83);
+  static const battery_charging_sharp = IoniconsData(0xea8f);
 
   /// battery-charging
-  static const battery_charging = IoniconsData(0xea84);
+  static const battery_charging = IoniconsData(0xea90);
 
   /// battery-dead-outline
-  static const battery_dead_outline = IoniconsData(0xea85);
+  static const battery_dead_outline = IoniconsData(0xea91);
 
   /// battery-dead-sharp
-  static const battery_dead_sharp = IoniconsData(0xea86);
+  static const battery_dead_sharp = IoniconsData(0xea92);
 
   /// battery-dead
-  static const battery_dead = IoniconsData(0xea87);
+  static const battery_dead = IoniconsData(0xea93);
 
   /// battery-full-outline
-  static const battery_full_outline = IoniconsData(0xea88);
+  static const battery_full_outline = IoniconsData(0xea94);
 
   /// battery-full-sharp
-  static const battery_full_sharp = IoniconsData(0xea89);
+  static const battery_full_sharp = IoniconsData(0xea95);
 
   /// battery-full
-  static const battery_full = IoniconsData(0xea8a);
+  static const battery_full = IoniconsData(0xea96);
 
   /// battery-half-outline
-  static const battery_half_outline = IoniconsData(0xea8b);
+  static const battery_half_outline = IoniconsData(0xea97);
 
   /// battery-half-sharp
-  static const battery_half_sharp = IoniconsData(0xea8c);
+  static const battery_half_sharp = IoniconsData(0xea98);
 
   /// battery-half
-  static const battery_half = IoniconsData(0xea8d);
+  static const battery_half = IoniconsData(0xea99);
 
   /// beaker-outline
-  static const beaker_outline = IoniconsData(0xea8e);
+  static const beaker_outline = IoniconsData(0xea9a);
 
   /// beaker-sharp
-  static const beaker_sharp = IoniconsData(0xea8f);
+  static const beaker_sharp = IoniconsData(0xea9b);
 
   /// beaker
-  static const beaker = IoniconsData(0xea90);
+  static const beaker = IoniconsData(0xea9c);
 
   /// bed-outline
-  static const bed_outline = IoniconsData(0xea91);
+  static const bed_outline = IoniconsData(0xea9d);
 
   /// bed-sharp
-  static const bed_sharp = IoniconsData(0xea92);
+  static const bed_sharp = IoniconsData(0xea9e);
 
   /// bed
-  static const bed = IoniconsData(0xea93);
+  static const bed = IoniconsData(0xea9f);
 
   /// beer-outline
-  static const beer_outline = IoniconsData(0xea94);
+  static const beer_outline = IoniconsData(0xeaa0);
 
   /// beer-sharp
-  static const beer_sharp = IoniconsData(0xea95);
+  static const beer_sharp = IoniconsData(0xeaa1);
 
   /// beer
-  static const beer = IoniconsData(0xea96);
+  static const beer = IoniconsData(0xeaa2);
 
   /// bicycle-outline
-  static const bicycle_outline = IoniconsData(0xea97);
+  static const bicycle_outline = IoniconsData(0xeaa3);
 
   /// bicycle-sharp
-  static const bicycle_sharp = IoniconsData(0xea98);
+  static const bicycle_sharp = IoniconsData(0xeaa4);
 
   /// bicycle
-  static const bicycle = IoniconsData(0xea99);
+  static const bicycle = IoniconsData(0xeaa5);
+
+  /// binoculars-outline
+  static const binoculars_outline = IoniconsData(0xeaa6);
+
+  /// binoculars-sharp
+  static const binoculars_sharp = IoniconsData(0xeaa7);
+
+  /// binoculars
+  static const binoculars = IoniconsData(0xeaa8);
 
   /// bluetooth-outline
-  static const bluetooth_outline = IoniconsData(0xea9a);
+  static const bluetooth_outline = IoniconsData(0xeaa9);
 
   /// bluetooth-sharp
-  static const bluetooth_sharp = IoniconsData(0xea9b);
+  static const bluetooth_sharp = IoniconsData(0xeaaa);
 
   /// bluetooth
-  static const bluetooth = IoniconsData(0xea9c);
+  static const bluetooth = IoniconsData(0xeaab);
 
   /// boat-outline
-  static const boat_outline = IoniconsData(0xea9d);
+  static const boat_outline = IoniconsData(0xeaac);
 
   /// boat-sharp
-  static const boat_sharp = IoniconsData(0xea9e);
+  static const boat_sharp = IoniconsData(0xeaad);
 
   /// boat
-  static const boat = IoniconsData(0xea9f);
+  static const boat = IoniconsData(0xeaae);
 
   /// body-outline
-  static const body_outline = IoniconsData(0xeaa0);
+  static const body_outline = IoniconsData(0xeaaf);
 
   /// body-sharp
-  static const body_sharp = IoniconsData(0xeaa1);
+  static const body_sharp = IoniconsData(0xeab0);
 
   /// body
-  static const body = IoniconsData(0xeaa2);
+  static const body = IoniconsData(0xeab1);
 
   /// bonfire-outline
-  static const bonfire_outline = IoniconsData(0xeaa3);
+  static const bonfire_outline = IoniconsData(0xeab2);
 
   /// bonfire-sharp
-  static const bonfire_sharp = IoniconsData(0xeaa4);
+  static const bonfire_sharp = IoniconsData(0xeab3);
 
   /// bonfire
-  static const bonfire = IoniconsData(0xeaa5);
+  static const bonfire = IoniconsData(0xeab4);
 
   /// book-outline
-  static const book_outline = IoniconsData(0xeaa6);
+  static const book_outline = IoniconsData(0xeab5);
 
   /// book-sharp
-  static const book_sharp = IoniconsData(0xeaa7);
+  static const book_sharp = IoniconsData(0xeab6);
 
   /// book
-  static const book = IoniconsData(0xeaa8);
+  static const book = IoniconsData(0xeab7);
 
   /// bookmark-outline
-  static const bookmark_outline = IoniconsData(0xeaa9);
+  static const bookmark_outline = IoniconsData(0xeab8);
 
   /// bookmark-sharp
-  static const bookmark_sharp = IoniconsData(0xeaaa);
+  static const bookmark_sharp = IoniconsData(0xeab9);
 
   /// bookmark
-  static const bookmark = IoniconsData(0xeaab);
+  static const bookmark = IoniconsData(0xeaba);
 
   /// bookmarks-outline
-  static const bookmarks_outline = IoniconsData(0xeaac);
+  static const bookmarks_outline = IoniconsData(0xeabb);
 
   /// bookmarks-sharp
-  static const bookmarks_sharp = IoniconsData(0xeaad);
+  static const bookmarks_sharp = IoniconsData(0xeabc);
 
   /// bookmarks
-  static const bookmarks = IoniconsData(0xeaae);
+  static const bookmarks = IoniconsData(0xeabd);
 
   /// bowling-ball-outline
-  static const bowling_ball_outline = IoniconsData(0xeaaf);
+  static const bowling_ball_outline = IoniconsData(0xeabe);
 
   /// bowling-ball-sharp
-  static const bowling_ball_sharp = IoniconsData(0xeab0);
+  static const bowling_ball_sharp = IoniconsData(0xeabf);
 
   /// bowling-ball
-  static const bowling_ball = IoniconsData(0xeab1);
+  static const bowling_ball = IoniconsData(0xeac0);
 
   /// briefcase-outline
-  static const briefcase_outline = IoniconsData(0xeab2);
+  static const briefcase_outline = IoniconsData(0xeac1);
 
   /// briefcase-sharp
-  static const briefcase_sharp = IoniconsData(0xeab3);
+  static const briefcase_sharp = IoniconsData(0xeac2);
 
   /// briefcase
-  static const briefcase = IoniconsData(0xeab4);
+  static const briefcase = IoniconsData(0xeac3);
 
   /// browsers-outline
-  static const browsers_outline = IoniconsData(0xeab5);
+  static const browsers_outline = IoniconsData(0xeac4);
 
   /// browsers-sharp
-  static const browsers_sharp = IoniconsData(0xeab6);
+  static const browsers_sharp = IoniconsData(0xeac5);
 
   /// browsers
-  static const browsers = IoniconsData(0xeab7);
+  static const browsers = IoniconsData(0xeac6);
 
   /// brush-outline
-  static const brush_outline = IoniconsData(0xeab8);
+  static const brush_outline = IoniconsData(0xeac7);
 
   /// brush-sharp
-  static const brush_sharp = IoniconsData(0xeab9);
+  static const brush_sharp = IoniconsData(0xeac8);
 
   /// brush
-  static const brush = IoniconsData(0xeaba);
+  static const brush = IoniconsData(0xeac9);
 
   /// bug-outline
-  static const bug_outline = IoniconsData(0xeabb);
+  static const bug_outline = IoniconsData(0xeaca);
 
   /// bug-sharp
-  static const bug_sharp = IoniconsData(0xeabc);
+  static const bug_sharp = IoniconsData(0xeacb);
 
   /// bug
-  static const bug = IoniconsData(0xeabd);
+  static const bug = IoniconsData(0xeacc);
 
   /// build-outline
-  static const build_outline = IoniconsData(0xeabe);
+  static const build_outline = IoniconsData(0xeacd);
 
   /// build-sharp
-  static const build_sharp = IoniconsData(0xeabf);
+  static const build_sharp = IoniconsData(0xeace);
 
   /// build
-  static const build = IoniconsData(0xeac0);
+  static const build = IoniconsData(0xeacf);
 
   /// bulb-outline
-  static const bulb_outline = IoniconsData(0xeac1);
+  static const bulb_outline = IoniconsData(0xead0);
 
   /// bulb-sharp
-  static const bulb_sharp = IoniconsData(0xeac2);
+  static const bulb_sharp = IoniconsData(0xead1);
 
   /// bulb
-  static const bulb = IoniconsData(0xeac3);
+  static const bulb = IoniconsData(0xead2);
 
   /// bus-outline
-  static const bus_outline = IoniconsData(0xeac4);
+  static const bus_outline = IoniconsData(0xead3);
 
   /// bus-sharp
-  static const bus_sharp = IoniconsData(0xeac5);
+  static const bus_sharp = IoniconsData(0xead4);
 
   /// bus
-  static const bus = IoniconsData(0xeac6);
+  static const bus = IoniconsData(0xead5);
 
   /// business-outline
-  static const business_outline = IoniconsData(0xeac7);
+  static const business_outline = IoniconsData(0xead6);
 
   /// business-sharp
-  static const business_sharp = IoniconsData(0xeac8);
+  static const business_sharp = IoniconsData(0xead7);
 
   /// business
-  static const business = IoniconsData(0xeac9);
+  static const business = IoniconsData(0xead8);
 
   /// cafe-outline
-  static const cafe_outline = IoniconsData(0xeaca);
+  static const cafe_outline = IoniconsData(0xead9);
 
   /// cafe-sharp
-  static const cafe_sharp = IoniconsData(0xeacb);
+  static const cafe_sharp = IoniconsData(0xeada);
 
   /// cafe
-  static const cafe = IoniconsData(0xeacc);
+  static const cafe = IoniconsData(0xeadb);
 
   /// calculator-outline
-  static const calculator_outline = IoniconsData(0xeacd);
+  static const calculator_outline = IoniconsData(0xeadc);
 
   /// calculator-sharp
-  static const calculator_sharp = IoniconsData(0xeace);
+  static const calculator_sharp = IoniconsData(0xeadd);
 
   /// calculator
-  static const calculator = IoniconsData(0xeacf);
+  static const calculator = IoniconsData(0xeade);
 
   /// calendar-clear-outline
-  static const calendar_clear_outline = IoniconsData(0xead0);
+  static const calendar_clear_outline = IoniconsData(0xeadf);
 
   /// calendar-clear-sharp
-  static const calendar_clear_sharp = IoniconsData(0xead1);
+  static const calendar_clear_sharp = IoniconsData(0xeae0);
 
   /// calendar-clear
-  static const calendar_clear = IoniconsData(0xead2);
+  static const calendar_clear = IoniconsData(0xeae1);
 
   /// calendar-number-outline
-  static const calendar_number_outline = IoniconsData(0xead3);
+  static const calendar_number_outline = IoniconsData(0xeae2);
 
   /// calendar-number-sharp
-  static const calendar_number_sharp = IoniconsData(0xead4);
+  static const calendar_number_sharp = IoniconsData(0xeae3);
 
   /// calendar-number
-  static const calendar_number = IoniconsData(0xead5);
+  static const calendar_number = IoniconsData(0xeae4);
 
   /// calendar-outline
-  static const calendar_outline = IoniconsData(0xead6);
+  static const calendar_outline = IoniconsData(0xeae5);
 
   /// calendar-sharp
-  static const calendar_sharp = IoniconsData(0xead7);
+  static const calendar_sharp = IoniconsData(0xeae6);
 
   /// calendar
-  static const calendar = IoniconsData(0xead8);
+  static const calendar = IoniconsData(0xeae7);
 
   /// call-outline
-  static const call_outline = IoniconsData(0xead9);
+  static const call_outline = IoniconsData(0xeae8);
 
   /// call-sharp
-  static const call_sharp = IoniconsData(0xeada);
+  static const call_sharp = IoniconsData(0xeae9);
 
   /// call
-  static const call = IoniconsData(0xeadb);
+  static const call = IoniconsData(0xeaea);
 
   /// camera-outline
-  static const camera_outline = IoniconsData(0xeadc);
+  static const camera_outline = IoniconsData(0xeaeb);
 
   /// camera-reverse-outline
-  static const camera_reverse_outline = IoniconsData(0xeadd);
+  static const camera_reverse_outline = IoniconsData(0xeaec);
 
   /// camera-reverse-sharp
-  static const camera_reverse_sharp = IoniconsData(0xeade);
+  static const camera_reverse_sharp = IoniconsData(0xeaed);
 
   /// camera-reverse
-  static const camera_reverse = IoniconsData(0xeadf);
+  static const camera_reverse = IoniconsData(0xeaee);
 
   /// camera-sharp
-  static const camera_sharp = IoniconsData(0xeae0);
+  static const camera_sharp = IoniconsData(0xeaef);
 
   /// camera
-  static const camera = IoniconsData(0xeae1);
+  static const camera = IoniconsData(0xeaf0);
 
   /// car-outline
-  static const car_outline = IoniconsData(0xeae2);
+  static const car_outline = IoniconsData(0xeaf1);
 
   /// car-sharp
-  static const car_sharp = IoniconsData(0xeae3);
+  static const car_sharp = IoniconsData(0xeaf2);
 
   /// car-sport-outline
-  static const car_sport_outline = IoniconsData(0xeae4);
+  static const car_sport_outline = IoniconsData(0xeaf3);
 
   /// car-sport-sharp
-  static const car_sport_sharp = IoniconsData(0xeae5);
+  static const car_sport_sharp = IoniconsData(0xeaf4);
 
   /// car-sport
-  static const car_sport = IoniconsData(0xeae6);
+  static const car_sport = IoniconsData(0xeaf5);
 
   /// car
-  static const car = IoniconsData(0xeae7);
+  static const car = IoniconsData(0xeaf6);
 
   /// card-outline
-  static const card_outline = IoniconsData(0xeae8);
+  static const card_outline = IoniconsData(0xeaf7);
 
   /// card-sharp
-  static const card_sharp = IoniconsData(0xeae9);
+  static const card_sharp = IoniconsData(0xeaf8);
 
   /// card
-  static const card = IoniconsData(0xeaea);
+  static const card = IoniconsData(0xeaf9);
 
   /// caret-back-circle-outline
-  static const caret_back_circle_outline = IoniconsData(0xeaeb);
+  static const caret_back_circle_outline = IoniconsData(0xeafa);
 
   /// caret-back-circle-sharp
-  static const caret_back_circle_sharp = IoniconsData(0xeaec);
+  static const caret_back_circle_sharp = IoniconsData(0xeafb);
 
   /// caret-back-circle
-  static const caret_back_circle = IoniconsData(0xeaed);
+  static const caret_back_circle = IoniconsData(0xeafc);
 
   /// caret-back-outline
-  static const caret_back_outline = IoniconsData(0xeaee);
+  static const caret_back_outline = IoniconsData(0xeafd);
 
   /// caret-back-sharp
-  static const caret_back_sharp = IoniconsData(0xeaef);
+  static const caret_back_sharp = IoniconsData(0xeafe);
 
   /// caret-back
-  static const caret_back = IoniconsData(0xeaf0);
+  static const caret_back = IoniconsData(0xeaff);
 
   /// caret-down-circle-outline
-  static const caret_down_circle_outline = IoniconsData(0xeaf1);
+  static const caret_down_circle_outline = IoniconsData(0xeb00);
 
   /// caret-down-circle-sharp
-  static const caret_down_circle_sharp = IoniconsData(0xeaf2);
+  static const caret_down_circle_sharp = IoniconsData(0xeb01);
 
   /// caret-down-circle
-  static const caret_down_circle = IoniconsData(0xeaf3);
+  static const caret_down_circle = IoniconsData(0xeb02);
 
   /// caret-down-outline
-  static const caret_down_outline = IoniconsData(0xeaf4);
+  static const caret_down_outline = IoniconsData(0xeb03);
 
   /// caret-down-sharp
-  static const caret_down_sharp = IoniconsData(0xeaf5);
+  static const caret_down_sharp = IoniconsData(0xeb04);
 
   /// caret-down
-  static const caret_down = IoniconsData(0xeaf6);
+  static const caret_down = IoniconsData(0xeb05);
 
   /// caret-forward-circle-outline
-  static const caret_forward_circle_outline = IoniconsData(0xeaf7);
+  static const caret_forward_circle_outline = IoniconsData(0xeb06);
 
   /// caret-forward-circle-sharp
-  static const caret_forward_circle_sharp = IoniconsData(0xeaf8);
+  static const caret_forward_circle_sharp = IoniconsData(0xeb07);
 
   /// caret-forward-circle
-  static const caret_forward_circle = IoniconsData(0xeaf9);
+  static const caret_forward_circle = IoniconsData(0xeb08);
 
   /// caret-forward-outline
-  static const caret_forward_outline = IoniconsData(0xeafa);
+  static const caret_forward_outline = IoniconsData(0xeb09);
 
   /// caret-forward-sharp
-  static const caret_forward_sharp = IoniconsData(0xeafb);
+  static const caret_forward_sharp = IoniconsData(0xeb0a);
 
   /// caret-forward
-  static const caret_forward = IoniconsData(0xeafc);
+  static const caret_forward = IoniconsData(0xeb0b);
 
   /// caret-up-circle-outline
-  static const caret_up_circle_outline = IoniconsData(0xeafd);
+  static const caret_up_circle_outline = IoniconsData(0xeb0c);
 
   /// caret-up-circle-sharp
-  static const caret_up_circle_sharp = IoniconsData(0xeafe);
+  static const caret_up_circle_sharp = IoniconsData(0xeb0d);
 
   /// caret-up-circle
-  static const caret_up_circle = IoniconsData(0xeaff);
+  static const caret_up_circle = IoniconsData(0xeb0e);
 
   /// caret-up-outline
-  static const caret_up_outline = IoniconsData(0xeb00);
+  static const caret_up_outline = IoniconsData(0xeb0f);
 
   /// caret-up-sharp
-  static const caret_up_sharp = IoniconsData(0xeb01);
+  static const caret_up_sharp = IoniconsData(0xeb10);
 
   /// caret-up
-  static const caret_up = IoniconsData(0xeb02);
+  static const caret_up = IoniconsData(0xeb11);
 
   /// cart-outline
-  static const cart_outline = IoniconsData(0xeb03);
+  static const cart_outline = IoniconsData(0xeb12);
 
   /// cart-sharp
-  static const cart_sharp = IoniconsData(0xeb04);
+  static const cart_sharp = IoniconsData(0xeb13);
 
   /// cart
-  static const cart = IoniconsData(0xeb05);
+  static const cart = IoniconsData(0xeb14);
 
   /// cash-outline
-  static const cash_outline = IoniconsData(0xeb06);
+  static const cash_outline = IoniconsData(0xeb15);
 
   /// cash-sharp
-  static const cash_sharp = IoniconsData(0xeb07);
+  static const cash_sharp = IoniconsData(0xeb16);
 
   /// cash
-  static const cash = IoniconsData(0xeb08);
+  static const cash = IoniconsData(0xeb17);
 
   /// cellular-outline
-  static const cellular_outline = IoniconsData(0xeb09);
+  static const cellular_outline = IoniconsData(0xeb18);
 
   /// cellular-sharp
-  static const cellular_sharp = IoniconsData(0xeb0a);
+  static const cellular_sharp = IoniconsData(0xeb19);
 
   /// cellular
-  static const cellular = IoniconsData(0xeb0b);
+  static const cellular = IoniconsData(0xeb1a);
 
   /// chatbox-ellipses-outline
-  static const chatbox_ellipses_outline = IoniconsData(0xeb0c);
+  static const chatbox_ellipses_outline = IoniconsData(0xeb1b);
 
   /// chatbox-ellipses-sharp
-  static const chatbox_ellipses_sharp = IoniconsData(0xeb0d);
+  static const chatbox_ellipses_sharp = IoniconsData(0xeb1c);
 
   /// chatbox-ellipses
-  static const chatbox_ellipses = IoniconsData(0xeb0e);
+  static const chatbox_ellipses = IoniconsData(0xeb1d);
 
   /// chatbox-outline
-  static const chatbox_outline = IoniconsData(0xeb0f);
+  static const chatbox_outline = IoniconsData(0xeb1e);
 
   /// chatbox-sharp
-  static const chatbox_sharp = IoniconsData(0xeb10);
+  static const chatbox_sharp = IoniconsData(0xeb1f);
 
   /// chatbox
-  static const chatbox = IoniconsData(0xeb11);
+  static const chatbox = IoniconsData(0xeb20);
 
   /// chatbubble-ellipses-outline
-  static const chatbubble_ellipses_outline = IoniconsData(0xeb12);
+  static const chatbubble_ellipses_outline = IoniconsData(0xeb21);
 
   /// chatbubble-ellipses-sharp
-  static const chatbubble_ellipses_sharp = IoniconsData(0xeb13);
+  static const chatbubble_ellipses_sharp = IoniconsData(0xeb22);
 
   /// chatbubble-ellipses
-  static const chatbubble_ellipses = IoniconsData(0xeb14);
+  static const chatbubble_ellipses = IoniconsData(0xeb23);
 
   /// chatbubble-outline
-  static const chatbubble_outline = IoniconsData(0xeb15);
+  static const chatbubble_outline = IoniconsData(0xeb24);
 
   /// chatbubble-sharp
-  static const chatbubble_sharp = IoniconsData(0xeb16);
+  static const chatbubble_sharp = IoniconsData(0xeb25);
 
   /// chatbubble
-  static const chatbubble = IoniconsData(0xeb17);
+  static const chatbubble = IoniconsData(0xeb26);
 
   /// chatbubbles-outline
-  static const chatbubbles_outline = IoniconsData(0xeb18);
+  static const chatbubbles_outline = IoniconsData(0xeb27);
 
   /// chatbubbles-sharp
-  static const chatbubbles_sharp = IoniconsData(0xeb19);
+  static const chatbubbles_sharp = IoniconsData(0xeb28);
 
   /// chatbubbles
-  static const chatbubbles = IoniconsData(0xeb1a);
+  static const chatbubbles = IoniconsData(0xeb29);
 
   /// checkbox-outline
-  static const checkbox_outline = IoniconsData(0xeb1b);
+  static const checkbox_outline = IoniconsData(0xeb2a);
 
   /// checkbox-sharp
-  static const checkbox_sharp = IoniconsData(0xeb1c);
+  static const checkbox_sharp = IoniconsData(0xeb2b);
 
   /// checkbox
-  static const checkbox = IoniconsData(0xeb1d);
+  static const checkbox = IoniconsData(0xeb2c);
 
   /// checkmark-circle-outline
-  static const checkmark_circle_outline = IoniconsData(0xeb1e);
+  static const checkmark_circle_outline = IoniconsData(0xeb2d);
 
   /// checkmark-circle-sharp
-  static const checkmark_circle_sharp = IoniconsData(0xeb1f);
+  static const checkmark_circle_sharp = IoniconsData(0xeb2e);
 
   /// checkmark-circle
-  static const checkmark_circle = IoniconsData(0xeb20);
+  static const checkmark_circle = IoniconsData(0xeb2f);
 
   /// checkmark-done-circle-outline
-  static const checkmark_done_circle_outline = IoniconsData(0xeb21);
+  static const checkmark_done_circle_outline = IoniconsData(0xeb30);
 
   /// checkmark-done-circle-sharp
-  static const checkmark_done_circle_sharp = IoniconsData(0xeb22);
+  static const checkmark_done_circle_sharp = IoniconsData(0xeb31);
 
   /// checkmark-done-circle
-  static const checkmark_done_circle = IoniconsData(0xeb23);
+  static const checkmark_done_circle = IoniconsData(0xeb32);
 
   /// checkmark-done-outline
-  static const checkmark_done_outline = IoniconsData(0xeb24);
+  static const checkmark_done_outline = IoniconsData(0xeb33);
 
   /// checkmark-done-sharp
-  static const checkmark_done_sharp = IoniconsData(0xeb25);
+  static const checkmark_done_sharp = IoniconsData(0xeb34);
 
   /// checkmark-done
-  static const checkmark_done = IoniconsData(0xeb26);
+  static const checkmark_done = IoniconsData(0xeb35);
 
   /// checkmark-outline
-  static const checkmark_outline = IoniconsData(0xeb27);
+  static const checkmark_outline = IoniconsData(0xeb36);
 
   /// checkmark-sharp
-  static const checkmark_sharp = IoniconsData(0xeb28);
+  static const checkmark_sharp = IoniconsData(0xeb37);
 
   /// checkmark
-  static const checkmark = IoniconsData(0xeb29);
+  static const checkmark = IoniconsData(0xeb38);
 
   /// chevron-back-circle-outline
-  static const chevron_back_circle_outline = IoniconsData(0xeb2a);
+  static const chevron_back_circle_outline = IoniconsData(0xeb39);
 
   /// chevron-back-circle-sharp
-  static const chevron_back_circle_sharp = IoniconsData(0xeb2b);
+  static const chevron_back_circle_sharp = IoniconsData(0xeb3a);
 
   /// chevron-back-circle
-  static const chevron_back_circle = IoniconsData(0xeb2c);
+  static const chevron_back_circle = IoniconsData(0xeb3b);
 
   /// chevron-back-outline
-  static const chevron_back_outline = IoniconsData(0xeb2d);
+  static const chevron_back_outline = IoniconsData(0xeb3c);
 
   /// chevron-back-sharp
-  static const chevron_back_sharp = IoniconsData(0xeb2e);
+  static const chevron_back_sharp = IoniconsData(0xeb3d);
 
   /// chevron-back
-  static const chevron_back = IoniconsData(0xeb2f);
+  static const chevron_back = IoniconsData(0xeb3e);
+
+  /// chevron-collapse-outline
+  static const chevron_collapse_outline = IoniconsData(0xeb3f);
+
+  /// chevron-collapse-sharp
+  static const chevron_collapse_sharp = IoniconsData(0xeb40);
+
+  /// chevron-collapse
+  static const chevron_collapse = IoniconsData(0xeb41);
 
   /// chevron-down-circle-outline
-  static const chevron_down_circle_outline = IoniconsData(0xeb30);
+  static const chevron_down_circle_outline = IoniconsData(0xeb42);
 
   /// chevron-down-circle-sharp
-  static const chevron_down_circle_sharp = IoniconsData(0xeb31);
+  static const chevron_down_circle_sharp = IoniconsData(0xeb43);
 
   /// chevron-down-circle
-  static const chevron_down_circle = IoniconsData(0xeb32);
+  static const chevron_down_circle = IoniconsData(0xeb44);
 
   /// chevron-down-outline
-  static const chevron_down_outline = IoniconsData(0xeb33);
+  static const chevron_down_outline = IoniconsData(0xeb45);
 
   /// chevron-down-sharp
-  static const chevron_down_sharp = IoniconsData(0xeb34);
+  static const chevron_down_sharp = IoniconsData(0xeb46);
 
   /// chevron-down
-  static const chevron_down = IoniconsData(0xeb35);
+  static const chevron_down = IoniconsData(0xeb47);
+
+  /// chevron-expand-outline
+  static const chevron_expand_outline = IoniconsData(0xeb48);
+
+  /// chevron-expand-sharp
+  static const chevron_expand_sharp = IoniconsData(0xeb49);
+
+  /// chevron-expand
+  static const chevron_expand = IoniconsData(0xeb4a);
 
   /// chevron-forward-circle-outline
-  static const chevron_forward_circle_outline = IoniconsData(0xeb36);
+  static const chevron_forward_circle_outline = IoniconsData(0xeb4b);
 
   /// chevron-forward-circle-sharp
-  static const chevron_forward_circle_sharp = IoniconsData(0xeb37);
+  static const chevron_forward_circle_sharp = IoniconsData(0xeb4c);
 
   /// chevron-forward-circle
-  static const chevron_forward_circle = IoniconsData(0xeb38);
+  static const chevron_forward_circle = IoniconsData(0xeb4d);
 
   /// chevron-forward-outline
-  static const chevron_forward_outline = IoniconsData(0xeb39);
+  static const chevron_forward_outline = IoniconsData(0xeb4e);
 
   /// chevron-forward-sharp
-  static const chevron_forward_sharp = IoniconsData(0xeb3a);
+  static const chevron_forward_sharp = IoniconsData(0xeb4f);
 
   /// chevron-forward
-  static const chevron_forward = IoniconsData(0xeb3b);
+  static const chevron_forward = IoniconsData(0xeb50);
 
   /// chevron-up-circle-outline
-  static const chevron_up_circle_outline = IoniconsData(0xeb3c);
+  static const chevron_up_circle_outline = IoniconsData(0xeb51);
 
   /// chevron-up-circle-sharp
-  static const chevron_up_circle_sharp = IoniconsData(0xeb3d);
+  static const chevron_up_circle_sharp = IoniconsData(0xeb52);
 
   /// chevron-up-circle
-  static const chevron_up_circle = IoniconsData(0xeb3e);
+  static const chevron_up_circle = IoniconsData(0xeb53);
 
   /// chevron-up-outline
-  static const chevron_up_outline = IoniconsData(0xeb3f);
+  static const chevron_up_outline = IoniconsData(0xeb54);
 
   /// chevron-up-sharp
-  static const chevron_up_sharp = IoniconsData(0xeb40);
+  static const chevron_up_sharp = IoniconsData(0xeb55);
 
   /// chevron-up
-  static const chevron_up = IoniconsData(0xeb41);
+  static const chevron_up = IoniconsData(0xeb56);
 
   /// clipboard-outline
-  static const clipboard_outline = IoniconsData(0xeb42);
+  static const clipboard_outline = IoniconsData(0xeb57);
 
   /// clipboard-sharp
-  static const clipboard_sharp = IoniconsData(0xeb43);
+  static const clipboard_sharp = IoniconsData(0xeb58);
 
   /// clipboard
-  static const clipboard = IoniconsData(0xeb44);
+  static const clipboard = IoniconsData(0xeb59);
 
   /// close-circle-outline
-  static const close_circle_outline = IoniconsData(0xeb45);
+  static const close_circle_outline = IoniconsData(0xeb5a);
 
   /// close-circle-sharp
-  static const close_circle_sharp = IoniconsData(0xeb46);
+  static const close_circle_sharp = IoniconsData(0xeb5b);
 
   /// close-circle
-  static const close_circle = IoniconsData(0xeb47);
+  static const close_circle = IoniconsData(0xeb5c);
 
   /// close-outline
-  static const close_outline = IoniconsData(0xeb48);
+  static const close_outline = IoniconsData(0xeb5d);
 
   /// close-sharp
-  static const close_sharp = IoniconsData(0xeb49);
+  static const close_sharp = IoniconsData(0xeb5e);
 
   /// close
-  static const close = IoniconsData(0xeb4a);
+  static const close = IoniconsData(0xeb5f);
 
   /// cloud-circle-outline
-  static const cloud_circle_outline = IoniconsData(0xeb4b);
+  static const cloud_circle_outline = IoniconsData(0xeb60);
 
   /// cloud-circle-sharp
-  static const cloud_circle_sharp = IoniconsData(0xeb4c);
+  static const cloud_circle_sharp = IoniconsData(0xeb61);
 
   /// cloud-circle
-  static const cloud_circle = IoniconsData(0xeb4d);
+  static const cloud_circle = IoniconsData(0xeb62);
 
   /// cloud-done-outline
-  static const cloud_done_outline = IoniconsData(0xeb4e);
+  static const cloud_done_outline = IoniconsData(0xeb63);
 
   /// cloud-done-sharp
-  static const cloud_done_sharp = IoniconsData(0xeb4f);
+  static const cloud_done_sharp = IoniconsData(0xeb64);
 
   /// cloud-done
-  static const cloud_done = IoniconsData(0xeb50);
+  static const cloud_done = IoniconsData(0xeb65);
 
   /// cloud-download-outline
-  static const cloud_download_outline = IoniconsData(0xeb51);
+  static const cloud_download_outline = IoniconsData(0xeb66);
 
   /// cloud-download-sharp
-  static const cloud_download_sharp = IoniconsData(0xeb52);
+  static const cloud_download_sharp = IoniconsData(0xeb67);
 
   /// cloud-download
-  static const cloud_download = IoniconsData(0xeb53);
+  static const cloud_download = IoniconsData(0xeb68);
 
   /// cloud-offline-outline
-  static const cloud_offline_outline = IoniconsData(0xeb54);
+  static const cloud_offline_outline = IoniconsData(0xeb69);
 
   /// cloud-offline-sharp
-  static const cloud_offline_sharp = IoniconsData(0xeb55);
+  static const cloud_offline_sharp = IoniconsData(0xeb6a);
 
   /// cloud-offline
-  static const cloud_offline = IoniconsData(0xeb56);
+  static const cloud_offline = IoniconsData(0xeb6b);
 
   /// cloud-outline
-  static const cloud_outline = IoniconsData(0xeb57);
+  static const cloud_outline = IoniconsData(0xeb6c);
 
   /// cloud-sharp
-  static const cloud_sharp = IoniconsData(0xeb58);
+  static const cloud_sharp = IoniconsData(0xeb6d);
 
   /// cloud-upload-outline
-  static const cloud_upload_outline = IoniconsData(0xeb59);
+  static const cloud_upload_outline = IoniconsData(0xeb6e);
 
   /// cloud-upload-sharp
-  static const cloud_upload_sharp = IoniconsData(0xeb5a);
+  static const cloud_upload_sharp = IoniconsData(0xeb6f);
 
   /// cloud-upload
-  static const cloud_upload = IoniconsData(0xeb5b);
+  static const cloud_upload = IoniconsData(0xeb70);
 
   /// cloud
-  static const cloud = IoniconsData(0xeb5c);
+  static const cloud = IoniconsData(0xeb71);
 
   /// cloudy-night-outline
-  static const cloudy_night_outline = IoniconsData(0xeb5d);
+  static const cloudy_night_outline = IoniconsData(0xeb72);
 
   /// cloudy-night-sharp
-  static const cloudy_night_sharp = IoniconsData(0xeb5e);
+  static const cloudy_night_sharp = IoniconsData(0xeb73);
 
   /// cloudy-night
-  static const cloudy_night = IoniconsData(0xeb5f);
+  static const cloudy_night = IoniconsData(0xeb74);
 
   /// cloudy-outline
-  static const cloudy_outline = IoniconsData(0xeb60);
+  static const cloudy_outline = IoniconsData(0xeb75);
 
   /// cloudy-sharp
-  static const cloudy_sharp = IoniconsData(0xeb61);
+  static const cloudy_sharp = IoniconsData(0xeb76);
 
   /// cloudy
-  static const cloudy = IoniconsData(0xeb62);
+  static const cloudy = IoniconsData(0xeb77);
 
   /// code-download-outline
-  static const code_download_outline = IoniconsData(0xeb63);
+  static const code_download_outline = IoniconsData(0xeb78);
 
   /// code-download-sharp
-  static const code_download_sharp = IoniconsData(0xeb64);
+  static const code_download_sharp = IoniconsData(0xeb79);
 
   /// code-download
-  static const code_download = IoniconsData(0xeb65);
+  static const code_download = IoniconsData(0xeb7a);
 
   /// code-outline
-  static const code_outline = IoniconsData(0xeb66);
+  static const code_outline = IoniconsData(0xeb7b);
 
   /// code-sharp
-  static const code_sharp = IoniconsData(0xeb67);
+  static const code_sharp = IoniconsData(0xeb7c);
 
   /// code-slash-outline
-  static const code_slash_outline = IoniconsData(0xeb68);
+  static const code_slash_outline = IoniconsData(0xeb7d);
 
   /// code-slash-sharp
-  static const code_slash_sharp = IoniconsData(0xeb69);
+  static const code_slash_sharp = IoniconsData(0xeb7e);
 
   /// code-slash
-  static const code_slash = IoniconsData(0xeb6a);
+  static const code_slash = IoniconsData(0xeb7f);
 
   /// code-working-outline
-  static const code_working_outline = IoniconsData(0xeb6b);
+  static const code_working_outline = IoniconsData(0xeb80);
 
   /// code-working-sharp
-  static const code_working_sharp = IoniconsData(0xeb6c);
+  static const code_working_sharp = IoniconsData(0xeb81);
 
   /// code-working
-  static const code_working = IoniconsData(0xeb6d);
+  static const code_working = IoniconsData(0xeb82);
 
   /// code
-  static const code = IoniconsData(0xeb6e);
+  static const code = IoniconsData(0xeb83);
 
   /// cog-outline
-  static const cog_outline = IoniconsData(0xeb6f);
+  static const cog_outline = IoniconsData(0xeb84);
 
   /// cog-sharp
-  static const cog_sharp = IoniconsData(0xeb70);
+  static const cog_sharp = IoniconsData(0xeb85);
 
   /// cog
-  static const cog = IoniconsData(0xeb71);
+  static const cog = IoniconsData(0xeb86);
 
   /// color-fill-outline
-  static const color_fill_outline = IoniconsData(0xeb72);
+  static const color_fill_outline = IoniconsData(0xeb87);
 
   /// color-fill-sharp
-  static const color_fill_sharp = IoniconsData(0xeb73);
+  static const color_fill_sharp = IoniconsData(0xeb88);
 
   /// color-fill
-  static const color_fill = IoniconsData(0xeb74);
+  static const color_fill = IoniconsData(0xeb89);
 
   /// color-filter-outline
-  static const color_filter_outline = IoniconsData(0xeb75);
+  static const color_filter_outline = IoniconsData(0xeb8a);
 
   /// color-filter-sharp
-  static const color_filter_sharp = IoniconsData(0xeb76);
+  static const color_filter_sharp = IoniconsData(0xeb8b);
 
   /// color-filter
-  static const color_filter = IoniconsData(0xeb77);
+  static const color_filter = IoniconsData(0xeb8c);
 
   /// color-palette-outline
-  static const color_palette_outline = IoniconsData(0xeb78);
+  static const color_palette_outline = IoniconsData(0xeb8d);
 
   /// color-palette-sharp
-  static const color_palette_sharp = IoniconsData(0xeb79);
+  static const color_palette_sharp = IoniconsData(0xeb8e);
 
   /// color-palette
-  static const color_palette = IoniconsData(0xeb7a);
+  static const color_palette = IoniconsData(0xeb8f);
 
   /// color-wand-outline
-  static const color_wand_outline = IoniconsData(0xeb7b);
+  static const color_wand_outline = IoniconsData(0xeb90);
 
   /// color-wand-sharp
-  static const color_wand_sharp = IoniconsData(0xeb7c);
+  static const color_wand_sharp = IoniconsData(0xeb91);
 
   /// color-wand
-  static const color_wand = IoniconsData(0xeb7d);
+  static const color_wand = IoniconsData(0xeb92);
 
   /// compass-outline
-  static const compass_outline = IoniconsData(0xeb7e);
+  static const compass_outline = IoniconsData(0xeb93);
 
   /// compass-sharp
-  static const compass_sharp = IoniconsData(0xeb7f);
+  static const compass_sharp = IoniconsData(0xeb94);
 
   /// compass
-  static const compass = IoniconsData(0xeb80);
+  static const compass = IoniconsData(0xeb95);
 
   /// construct-outline
-  static const construct_outline = IoniconsData(0xeb81);
+  static const construct_outline = IoniconsData(0xeb96);
 
   /// construct-sharp
-  static const construct_sharp = IoniconsData(0xeb82);
+  static const construct_sharp = IoniconsData(0xeb97);
 
   /// construct
-  static const construct = IoniconsData(0xeb83);
+  static const construct = IoniconsData(0xeb98);
 
   /// contract-outline
-  static const contract_outline = IoniconsData(0xeb84);
+  static const contract_outline = IoniconsData(0xeb99);
 
   /// contract-sharp
-  static const contract_sharp = IoniconsData(0xeb85);
+  static const contract_sharp = IoniconsData(0xeb9a);
 
   /// contract
-  static const contract = IoniconsData(0xeb86);
+  static const contract = IoniconsData(0xeb9b);
 
   /// contrast-outline
-  static const contrast_outline = IoniconsData(0xeb87);
+  static const contrast_outline = IoniconsData(0xeb9c);
 
   /// contrast-sharp
-  static const contrast_sharp = IoniconsData(0xeb88);
+  static const contrast_sharp = IoniconsData(0xeb9d);
 
   /// contrast
-  static const contrast = IoniconsData(0xeb89);
+  static const contrast = IoniconsData(0xeb9e);
 
   /// copy-outline
-  static const copy_outline = IoniconsData(0xeb8a);
+  static const copy_outline = IoniconsData(0xeb9f);
 
   /// copy-sharp
-  static const copy_sharp = IoniconsData(0xeb8b);
+  static const copy_sharp = IoniconsData(0xeba0);
 
   /// copy
-  static const copy = IoniconsData(0xeb8c);
+  static const copy = IoniconsData(0xeba1);
 
   /// create-outline
-  static const create_outline = IoniconsData(0xeb8d);
+  static const create_outline = IoniconsData(0xeba2);
 
   /// create-sharp
-  static const create_sharp = IoniconsData(0xeb8e);
+  static const create_sharp = IoniconsData(0xeba3);
 
   /// create
-  static const create = IoniconsData(0xeb8f);
+  static const create = IoniconsData(0xeba4);
 
   /// crop-outline
-  static const crop_outline = IoniconsData(0xeb90);
+  static const crop_outline = IoniconsData(0xeba5);
 
   /// crop-sharp
-  static const crop_sharp = IoniconsData(0xeb91);
+  static const crop_sharp = IoniconsData(0xeba6);
 
   /// crop
-  static const crop = IoniconsData(0xeb92);
+  static const crop = IoniconsData(0xeba7);
 
   /// cube-outline
-  static const cube_outline = IoniconsData(0xeb93);
+  static const cube_outline = IoniconsData(0xeba8);
 
   /// cube-sharp
-  static const cube_sharp = IoniconsData(0xeb94);
+  static const cube_sharp = IoniconsData(0xeba9);
 
   /// cube
-  static const cube = IoniconsData(0xeb95);
+  static const cube = IoniconsData(0xebaa);
 
   /// cut-outline
-  static const cut_outline = IoniconsData(0xeb96);
+  static const cut_outline = IoniconsData(0xebab);
 
   /// cut-sharp
-  static const cut_sharp = IoniconsData(0xeb97);
+  static const cut_sharp = IoniconsData(0xebac);
 
   /// cut
-  static const cut = IoniconsData(0xeb98);
+  static const cut = IoniconsData(0xebad);
 
   /// desktop-outline
-  static const desktop_outline = IoniconsData(0xeb99);
+  static const desktop_outline = IoniconsData(0xebae);
 
   /// desktop-sharp
-  static const desktop_sharp = IoniconsData(0xeb9a);
+  static const desktop_sharp = IoniconsData(0xebaf);
 
   /// desktop
-  static const desktop = IoniconsData(0xeb9b);
+  static const desktop = IoniconsData(0xebb0);
 
   /// diamond-outline
-  static const diamond_outline = IoniconsData(0xeb9c);
+  static const diamond_outline = IoniconsData(0xebb1);
 
   /// diamond-sharp
-  static const diamond_sharp = IoniconsData(0xeb9d);
+  static const diamond_sharp = IoniconsData(0xebb2);
 
   /// diamond
-  static const diamond = IoniconsData(0xeb9e);
+  static const diamond = IoniconsData(0xebb3);
 
   /// dice-outline
-  static const dice_outline = IoniconsData(0xeb9f);
+  static const dice_outline = IoniconsData(0xebb4);
 
   /// dice-sharp
-  static const dice_sharp = IoniconsData(0xeba0);
+  static const dice_sharp = IoniconsData(0xebb5);
 
   /// dice
-  static const dice = IoniconsData(0xeba1);
+  static const dice = IoniconsData(0xebb6);
 
   /// disc-outline
-  static const disc_outline = IoniconsData(0xeba2);
+  static const disc_outline = IoniconsData(0xebb7);
 
   /// disc-sharp
-  static const disc_sharp = IoniconsData(0xeba3);
+  static const disc_sharp = IoniconsData(0xebb8);
 
   /// disc
-  static const disc = IoniconsData(0xeba4);
+  static const disc = IoniconsData(0xebb9);
 
   /// document-attach-outline
-  static const document_attach_outline = IoniconsData(0xeba5);
+  static const document_attach_outline = IoniconsData(0xebba);
 
   /// document-attach-sharp
-  static const document_attach_sharp = IoniconsData(0xeba6);
+  static const document_attach_sharp = IoniconsData(0xebbb);
 
   /// document-attach
-  static const document_attach = IoniconsData(0xeba7);
+  static const document_attach = IoniconsData(0xebbc);
 
   /// document-lock-outline
-  static const document_lock_outline = IoniconsData(0xeba8);
+  static const document_lock_outline = IoniconsData(0xebbd);
 
   /// document-lock-sharp
-  static const document_lock_sharp = IoniconsData(0xeba9);
+  static const document_lock_sharp = IoniconsData(0xebbe);
 
   /// document-lock
-  static const document_lock = IoniconsData(0xebaa);
+  static const document_lock = IoniconsData(0xebbf);
 
   /// document-outline
-  static const document_outline = IoniconsData(0xebab);
+  static const document_outline = IoniconsData(0xebc0);
 
   /// document-sharp
-  static const document_sharp = IoniconsData(0xebac);
+  static const document_sharp = IoniconsData(0xebc1);
 
   /// document-text-outline
-  static const document_text_outline = IoniconsData(0xebad);
+  static const document_text_outline = IoniconsData(0xebc2);
 
   /// document-text-sharp
-  static const document_text_sharp = IoniconsData(0xebae);
+  static const document_text_sharp = IoniconsData(0xebc3);
 
   /// document-text
-  static const document_text = IoniconsData(0xebaf);
+  static const document_text = IoniconsData(0xebc4);
 
   /// document
-  static const document = IoniconsData(0xebb0);
+  static const document = IoniconsData(0xebc5);
 
   /// documents-outline
-  static const documents_outline = IoniconsData(0xebb1);
+  static const documents_outline = IoniconsData(0xebc6);
 
   /// documents-sharp
-  static const documents_sharp = IoniconsData(0xebb2);
+  static const documents_sharp = IoniconsData(0xebc7);
 
   /// documents
-  static const documents = IoniconsData(0xebb3);
+  static const documents = IoniconsData(0xebc8);
 
   /// download-outline
-  static const download_outline = IoniconsData(0xebb4);
+  static const download_outline = IoniconsData(0xebc9);
 
   /// download-sharp
-  static const download_sharp = IoniconsData(0xebb5);
+  static const download_sharp = IoniconsData(0xebca);
 
   /// download
-  static const download = IoniconsData(0xebb6);
+  static const download = IoniconsData(0xebcb);
 
   /// duplicate-outline
-  static const duplicate_outline = IoniconsData(0xebb7);
+  static const duplicate_outline = IoniconsData(0xebcc);
 
   /// duplicate-sharp
-  static const duplicate_sharp = IoniconsData(0xebb8);
+  static const duplicate_sharp = IoniconsData(0xebcd);
 
   /// duplicate
-  static const duplicate = IoniconsData(0xebb9);
+  static const duplicate = IoniconsData(0xebce);
 
   /// ear-outline
-  static const ear_outline = IoniconsData(0xebba);
+  static const ear_outline = IoniconsData(0xebcf);
 
   /// ear-sharp
-  static const ear_sharp = IoniconsData(0xebbb);
+  static const ear_sharp = IoniconsData(0xebd0);
 
   /// ear
-  static const ear = IoniconsData(0xebbc);
+  static const ear = IoniconsData(0xebd1);
 
   /// earth-outline
-  static const earth_outline = IoniconsData(0xebbd);
+  static const earth_outline = IoniconsData(0xebd2);
 
   /// earth-sharp
-  static const earth_sharp = IoniconsData(0xebbe);
+  static const earth_sharp = IoniconsData(0xebd3);
 
   /// earth
-  static const earth = IoniconsData(0xebbf);
+  static const earth = IoniconsData(0xebd4);
 
   /// easel-outline
-  static const easel_outline = IoniconsData(0xebc0);
+  static const easel_outline = IoniconsData(0xebd5);
 
   /// easel-sharp
-  static const easel_sharp = IoniconsData(0xebc1);
+  static const easel_sharp = IoniconsData(0xebd6);
 
   /// easel
-  static const easel = IoniconsData(0xebc2);
+  static const easel = IoniconsData(0xebd7);
 
   /// egg-outline
-  static const egg_outline = IoniconsData(0xebc3);
+  static const egg_outline = IoniconsData(0xebd8);
 
   /// egg-sharp
-  static const egg_sharp = IoniconsData(0xebc4);
+  static const egg_sharp = IoniconsData(0xebd9);
 
   /// egg
-  static const egg = IoniconsData(0xebc5);
+  static const egg = IoniconsData(0xebda);
 
   /// ellipse-outline
-  static const ellipse_outline = IoniconsData(0xebc6);
+  static const ellipse_outline = IoniconsData(0xebdb);
 
   /// ellipse-sharp
-  static const ellipse_sharp = IoniconsData(0xebc7);
+  static const ellipse_sharp = IoniconsData(0xebdc);
 
   /// ellipse
-  static const ellipse = IoniconsData(0xebc8);
+  static const ellipse = IoniconsData(0xebdd);
 
   /// ellipsis-horizontal-circle-outline
-  static const ellipsis_horizontal_circle_outline = IoniconsData(0xebc9);
+  static const ellipsis_horizontal_circle_outline = IoniconsData(0xebde);
 
   /// ellipsis-horizontal-circle-sharp
-  static const ellipsis_horizontal_circle_sharp = IoniconsData(0xebca);
+  static const ellipsis_horizontal_circle_sharp = IoniconsData(0xebdf);
 
   /// ellipsis-horizontal-circle
-  static const ellipsis_horizontal_circle = IoniconsData(0xebcb);
+  static const ellipsis_horizontal_circle = IoniconsData(0xebe0);
 
   /// ellipsis-horizontal-outline
-  static const ellipsis_horizontal_outline = IoniconsData(0xebcc);
+  static const ellipsis_horizontal_outline = IoniconsData(0xebe1);
 
   /// ellipsis-horizontal-sharp
-  static const ellipsis_horizontal_sharp = IoniconsData(0xebcd);
+  static const ellipsis_horizontal_sharp = IoniconsData(0xebe2);
 
   /// ellipsis-horizontal
-  static const ellipsis_horizontal = IoniconsData(0xebce);
+  static const ellipsis_horizontal = IoniconsData(0xebe3);
 
   /// ellipsis-vertical-circle-outline
-  static const ellipsis_vertical_circle_outline = IoniconsData(0xebcf);
+  static const ellipsis_vertical_circle_outline = IoniconsData(0xebe4);
 
   /// ellipsis-vertical-circle-sharp
-  static const ellipsis_vertical_circle_sharp = IoniconsData(0xebd0);
+  static const ellipsis_vertical_circle_sharp = IoniconsData(0xebe5);
 
   /// ellipsis-vertical-circle
-  static const ellipsis_vertical_circle = IoniconsData(0xebd1);
+  static const ellipsis_vertical_circle = IoniconsData(0xebe6);
 
   /// ellipsis-vertical-outline
-  static const ellipsis_vertical_outline = IoniconsData(0xebd2);
+  static const ellipsis_vertical_outline = IoniconsData(0xebe7);
 
   /// ellipsis-vertical-sharp
-  static const ellipsis_vertical_sharp = IoniconsData(0xebd3);
+  static const ellipsis_vertical_sharp = IoniconsData(0xebe8);
 
   /// ellipsis-vertical
-  static const ellipsis_vertical = IoniconsData(0xebd4);
+  static const ellipsis_vertical = IoniconsData(0xebe9);
 
   /// enter-outline
-  static const enter_outline = IoniconsData(0xebd5);
+  static const enter_outline = IoniconsData(0xebea);
 
   /// enter-sharp
-  static const enter_sharp = IoniconsData(0xebd6);
+  static const enter_sharp = IoniconsData(0xebeb);
 
   /// enter
-  static const enter = IoniconsData(0xebd7);
+  static const enter = IoniconsData(0xebec);
 
   /// exit-outline
-  static const exit_outline = IoniconsData(0xebd8);
+  static const exit_outline = IoniconsData(0xebed);
 
   /// exit-sharp
-  static const exit_sharp = IoniconsData(0xebd9);
+  static const exit_sharp = IoniconsData(0xebee);
 
   /// exit
-  static const exit = IoniconsData(0xebda);
+  static const exit = IoniconsData(0xebef);
 
   /// expand-outline
-  static const expand_outline = IoniconsData(0xebdb);
+  static const expand_outline = IoniconsData(0xebf0);
 
   /// expand-sharp
-  static const expand_sharp = IoniconsData(0xebdc);
+  static const expand_sharp = IoniconsData(0xebf1);
 
   /// expand
-  static const expand = IoniconsData(0xebdd);
+  static const expand = IoniconsData(0xebf2);
 
   /// extension-puzzle-outline
-  static const extension_puzzle_outline = IoniconsData(0xebde);
+  static const extension_puzzle_outline = IoniconsData(0xebf3);
 
   /// extension-puzzle-sharp
-  static const extension_puzzle_sharp = IoniconsData(0xebdf);
+  static const extension_puzzle_sharp = IoniconsData(0xebf4);
 
   /// extension-puzzle
-  static const extension_puzzle = IoniconsData(0xebe0);
+  static const extension_puzzle = IoniconsData(0xebf5);
 
   /// eye-off-outline
-  static const eye_off_outline = IoniconsData(0xebe1);
+  static const eye_off_outline = IoniconsData(0xebf6);
 
   /// eye-off-sharp
-  static const eye_off_sharp = IoniconsData(0xebe2);
+  static const eye_off_sharp = IoniconsData(0xebf7);
 
   /// eye-off
-  static const eye_off = IoniconsData(0xebe3);
+  static const eye_off = IoniconsData(0xebf8);
 
   /// eye-outline
-  static const eye_outline = IoniconsData(0xebe4);
+  static const eye_outline = IoniconsData(0xebf9);
 
   /// eye-sharp
-  static const eye_sharp = IoniconsData(0xebe5);
+  static const eye_sharp = IoniconsData(0xebfa);
 
   /// eye
-  static const eye = IoniconsData(0xebe6);
+  static const eye = IoniconsData(0xebfb);
 
   /// eyedrop-outline
-  static const eyedrop_outline = IoniconsData(0xebe7);
+  static const eyedrop_outline = IoniconsData(0xebfc);
 
   /// eyedrop-sharp
-  static const eyedrop_sharp = IoniconsData(0xebe8);
+  static const eyedrop_sharp = IoniconsData(0xebfd);
 
   /// eyedrop
-  static const eyedrop = IoniconsData(0xebe9);
+  static const eyedrop = IoniconsData(0xebfe);
 
   /// fast-food-outline
-  static const fast_food_outline = IoniconsData(0xebea);
+  static const fast_food_outline = IoniconsData(0xebff);
 
   /// fast-food-sharp
-  static const fast_food_sharp = IoniconsData(0xebeb);
+  static const fast_food_sharp = IoniconsData(0xec00);
 
   /// fast-food
-  static const fast_food = IoniconsData(0xebec);
+  static const fast_food = IoniconsData(0xec01);
 
   /// female-outline
-  static const female_outline = IoniconsData(0xebed);
+  static const female_outline = IoniconsData(0xec02);
 
   /// female-sharp
-  static const female_sharp = IoniconsData(0xebee);
+  static const female_sharp = IoniconsData(0xec03);
 
   /// female
-  static const female = IoniconsData(0xebef);
+  static const female = IoniconsData(0xec04);
 
   /// file-tray-full-outline
-  static const file_tray_full_outline = IoniconsData(0xebf0);
+  static const file_tray_full_outline = IoniconsData(0xec05);
 
   /// file-tray-full-sharp
-  static const file_tray_full_sharp = IoniconsData(0xebf1);
+  static const file_tray_full_sharp = IoniconsData(0xec06);
 
   /// file-tray-full
-  static const file_tray_full = IoniconsData(0xebf2);
+  static const file_tray_full = IoniconsData(0xec07);
 
   /// file-tray-outline
-  static const file_tray_outline = IoniconsData(0xebf3);
+  static const file_tray_outline = IoniconsData(0xec08);
 
   /// file-tray-sharp
-  static const file_tray_sharp = IoniconsData(0xebf4);
+  static const file_tray_sharp = IoniconsData(0xec09);
 
   /// file-tray-stacked-outline
-  static const file_tray_stacked_outline = IoniconsData(0xebf5);
+  static const file_tray_stacked_outline = IoniconsData(0xec0a);
 
   /// file-tray-stacked-sharp
-  static const file_tray_stacked_sharp = IoniconsData(0xebf6);
+  static const file_tray_stacked_sharp = IoniconsData(0xec0b);
 
   /// file-tray-stacked
-  static const file_tray_stacked = IoniconsData(0xebf7);
+  static const file_tray_stacked = IoniconsData(0xec0c);
 
   /// file-tray
-  static const file_tray = IoniconsData(0xebf8);
+  static const file_tray = IoniconsData(0xec0d);
 
   /// film-outline
-  static const film_outline = IoniconsData(0xebf9);
+  static const film_outline = IoniconsData(0xec0e);
 
   /// film-sharp
-  static const film_sharp = IoniconsData(0xebfa);
+  static const film_sharp = IoniconsData(0xec0f);
 
   /// film
-  static const film = IoniconsData(0xebfb);
+  static const film = IoniconsData(0xec10);
 
   /// filter-circle-outline
-  static const filter_circle_outline = IoniconsData(0xebfc);
+  static const filter_circle_outline = IoniconsData(0xec11);
 
   /// filter-circle-sharp
-  static const filter_circle_sharp = IoniconsData(0xebfd);
+  static const filter_circle_sharp = IoniconsData(0xec12);
 
   /// filter-circle
-  static const filter_circle = IoniconsData(0xebfe);
+  static const filter_circle = IoniconsData(0xec13);
 
   /// filter-outline
-  static const filter_outline = IoniconsData(0xebff);
+  static const filter_outline = IoniconsData(0xec14);
 
   /// filter-sharp
-  static const filter_sharp = IoniconsData(0xec00);
+  static const filter_sharp = IoniconsData(0xec15);
 
   /// filter
-  static const filter = IoniconsData(0xec01);
+  static const filter = IoniconsData(0xec16);
 
   /// finger-print-outline
-  static const finger_print_outline = IoniconsData(0xec02);
+  static const finger_print_outline = IoniconsData(0xec17);
 
   /// finger-print-sharp
-  static const finger_print_sharp = IoniconsData(0xec03);
+  static const finger_print_sharp = IoniconsData(0xec18);
 
   /// finger-print
-  static const finger_print = IoniconsData(0xec04);
+  static const finger_print = IoniconsData(0xec19);
 
   /// fish-outline
-  static const fish_outline = IoniconsData(0xec05);
+  static const fish_outline = IoniconsData(0xec1a);
 
   /// fish-sharp
-  static const fish_sharp = IoniconsData(0xec06);
+  static const fish_sharp = IoniconsData(0xec1b);
 
   /// fish
-  static const fish = IoniconsData(0xec07);
+  static const fish = IoniconsData(0xec1c);
 
   /// fitness-outline
-  static const fitness_outline = IoniconsData(0xec08);
+  static const fitness_outline = IoniconsData(0xec1d);
 
   /// fitness-sharp
-  static const fitness_sharp = IoniconsData(0xec09);
+  static const fitness_sharp = IoniconsData(0xec1e);
 
   /// fitness
-  static const fitness = IoniconsData(0xec0a);
+  static const fitness = IoniconsData(0xec1f);
 
   /// flag-outline
-  static const flag_outline = IoniconsData(0xec0b);
+  static const flag_outline = IoniconsData(0xec20);
 
   /// flag-sharp
-  static const flag_sharp = IoniconsData(0xec0c);
+  static const flag_sharp = IoniconsData(0xec21);
 
   /// flag
-  static const flag = IoniconsData(0xec0d);
+  static const flag = IoniconsData(0xec22);
 
   /// flame-outline
-  static const flame_outline = IoniconsData(0xec0e);
+  static const flame_outline = IoniconsData(0xec23);
 
   /// flame-sharp
-  static const flame_sharp = IoniconsData(0xec0f);
+  static const flame_sharp = IoniconsData(0xec24);
 
   /// flame
-  static const flame = IoniconsData(0xec10);
+  static const flame = IoniconsData(0xec25);
 
   /// flash-off-outline
-  static const flash_off_outline = IoniconsData(0xec11);
+  static const flash_off_outline = IoniconsData(0xec26);
 
   /// flash-off-sharp
-  static const flash_off_sharp = IoniconsData(0xec12);
+  static const flash_off_sharp = IoniconsData(0xec27);
 
   /// flash-off
-  static const flash_off = IoniconsData(0xec13);
+  static const flash_off = IoniconsData(0xec28);
 
   /// flash-outline
-  static const flash_outline = IoniconsData(0xec14);
+  static const flash_outline = IoniconsData(0xec29);
 
   /// flash-sharp
-  static const flash_sharp = IoniconsData(0xec15);
+  static const flash_sharp = IoniconsData(0xec2a);
 
   /// flash
-  static const flash = IoniconsData(0xec16);
+  static const flash = IoniconsData(0xec2b);
 
   /// flashlight-outline
-  static const flashlight_outline = IoniconsData(0xec17);
+  static const flashlight_outline = IoniconsData(0xec2c);
 
   /// flashlight-sharp
-  static const flashlight_sharp = IoniconsData(0xec18);
+  static const flashlight_sharp = IoniconsData(0xec2d);
 
   /// flashlight
-  static const flashlight = IoniconsData(0xec19);
+  static const flashlight = IoniconsData(0xec2e);
 
   /// flask-outline
-  static const flask_outline = IoniconsData(0xec1a);
+  static const flask_outline = IoniconsData(0xec2f);
 
   /// flask-sharp
-  static const flask_sharp = IoniconsData(0xec1b);
+  static const flask_sharp = IoniconsData(0xec30);
 
   /// flask
-  static const flask = IoniconsData(0xec1c);
+  static const flask = IoniconsData(0xec31);
 
   /// flower-outline
-  static const flower_outline = IoniconsData(0xec1d);
+  static const flower_outline = IoniconsData(0xec32);
 
   /// flower-sharp
-  static const flower_sharp = IoniconsData(0xec1e);
+  static const flower_sharp = IoniconsData(0xec33);
 
   /// flower
-  static const flower = IoniconsData(0xec1f);
+  static const flower = IoniconsData(0xec34);
 
   /// folder-open-outline
-  static const folder_open_outline = IoniconsData(0xec20);
+  static const folder_open_outline = IoniconsData(0xec35);
 
   /// folder-open-sharp
-  static const folder_open_sharp = IoniconsData(0xec21);
+  static const folder_open_sharp = IoniconsData(0xec36);
 
   /// folder-open
-  static const folder_open = IoniconsData(0xec22);
+  static const folder_open = IoniconsData(0xec37);
 
   /// folder-outline
-  static const folder_outline = IoniconsData(0xec23);
+  static const folder_outline = IoniconsData(0xec38);
 
   /// folder-sharp
-  static const folder_sharp = IoniconsData(0xec24);
+  static const folder_sharp = IoniconsData(0xec39);
 
   /// folder
-  static const folder = IoniconsData(0xec25);
+  static const folder = IoniconsData(0xec3a);
 
   /// football-outline
-  static const football_outline = IoniconsData(0xec26);
+  static const football_outline = IoniconsData(0xec3b);
 
   /// football-sharp
-  static const football_sharp = IoniconsData(0xec27);
+  static const football_sharp = IoniconsData(0xec3c);
 
   /// football
-  static const football = IoniconsData(0xec28);
+  static const football = IoniconsData(0xec3d);
 
   /// footsteps-outline
-  static const footsteps_outline = IoniconsData(0xec29);
+  static const footsteps_outline = IoniconsData(0xec3e);
 
   /// footsteps-sharp
-  static const footsteps_sharp = IoniconsData(0xec2a);
+  static const footsteps_sharp = IoniconsData(0xec3f);
 
   /// footsteps
-  static const footsteps = IoniconsData(0xec2b);
+  static const footsteps = IoniconsData(0xec40);
 
   /// funnel-outline
-  static const funnel_outline = IoniconsData(0xec2c);
+  static const funnel_outline = IoniconsData(0xec41);
 
   /// funnel-sharp
-  static const funnel_sharp = IoniconsData(0xec2d);
+  static const funnel_sharp = IoniconsData(0xec42);
 
   /// funnel
-  static const funnel = IoniconsData(0xec2e);
+  static const funnel = IoniconsData(0xec43);
 
   /// game-controller-outline
-  static const game_controller_outline = IoniconsData(0xec2f);
+  static const game_controller_outline = IoniconsData(0xec44);
 
   /// game-controller-sharp
-  static const game_controller_sharp = IoniconsData(0xec30);
+  static const game_controller_sharp = IoniconsData(0xec45);
 
   /// game-controller
-  static const game_controller = IoniconsData(0xec31);
+  static const game_controller = IoniconsData(0xec46);
 
   /// gift-outline
-  static const gift_outline = IoniconsData(0xec32);
+  static const gift_outline = IoniconsData(0xec47);
 
   /// gift-sharp
-  static const gift_sharp = IoniconsData(0xec33);
+  static const gift_sharp = IoniconsData(0xec48);
 
   /// gift
-  static const gift = IoniconsData(0xec34);
+  static const gift = IoniconsData(0xec49);
 
   /// git-branch-outline
-  static const git_branch_outline = IoniconsData(0xec35);
+  static const git_branch_outline = IoniconsData(0xec4a);
 
   /// git-branch-sharp
-  static const git_branch_sharp = IoniconsData(0xec36);
+  static const git_branch_sharp = IoniconsData(0xec4b);
 
   /// git-branch
-  static const git_branch = IoniconsData(0xec37);
+  static const git_branch = IoniconsData(0xec4c);
 
   /// git-commit-outline
-  static const git_commit_outline = IoniconsData(0xec38);
+  static const git_commit_outline = IoniconsData(0xec4d);
 
   /// git-commit-sharp
-  static const git_commit_sharp = IoniconsData(0xec39);
+  static const git_commit_sharp = IoniconsData(0xec4e);
 
   /// git-commit
-  static const git_commit = IoniconsData(0xec3a);
+  static const git_commit = IoniconsData(0xec4f);
 
   /// git-compare-outline
-  static const git_compare_outline = IoniconsData(0xec3b);
+  static const git_compare_outline = IoniconsData(0xec50);
 
   /// git-compare-sharp
-  static const git_compare_sharp = IoniconsData(0xec3c);
+  static const git_compare_sharp = IoniconsData(0xec51);
 
   /// git-compare
-  static const git_compare = IoniconsData(0xec3d);
+  static const git_compare = IoniconsData(0xec52);
 
   /// git-merge-outline
-  static const git_merge_outline = IoniconsData(0xec3e);
+  static const git_merge_outline = IoniconsData(0xec53);
 
   /// git-merge-sharp
-  static const git_merge_sharp = IoniconsData(0xec3f);
+  static const git_merge_sharp = IoniconsData(0xec54);
 
   /// git-merge
-  static const git_merge = IoniconsData(0xec40);
+  static const git_merge = IoniconsData(0xec55);
 
   /// git-network-outline
-  static const git_network_outline = IoniconsData(0xec41);
+  static const git_network_outline = IoniconsData(0xec56);
 
   /// git-network-sharp
-  static const git_network_sharp = IoniconsData(0xec42);
+  static const git_network_sharp = IoniconsData(0xec57);
 
   /// git-network
-  static const git_network = IoniconsData(0xec43);
+  static const git_network = IoniconsData(0xec58);
 
   /// git-pull-request-outline
-  static const git_pull_request_outline = IoniconsData(0xec44);
+  static const git_pull_request_outline = IoniconsData(0xec59);
 
   /// git-pull-request-sharp
-  static const git_pull_request_sharp = IoniconsData(0xec45);
+  static const git_pull_request_sharp = IoniconsData(0xec5a);
 
   /// git-pull-request
-  static const git_pull_request = IoniconsData(0xec46);
+  static const git_pull_request = IoniconsData(0xec5b);
 
   /// glasses-outline
-  static const glasses_outline = IoniconsData(0xec47);
+  static const glasses_outline = IoniconsData(0xec5c);
 
   /// glasses-sharp
-  static const glasses_sharp = IoniconsData(0xec48);
+  static const glasses_sharp = IoniconsData(0xec5d);
 
   /// glasses
-  static const glasses = IoniconsData(0xec49);
+  static const glasses = IoniconsData(0xec5e);
 
   /// globe-outline
-  static const globe_outline = IoniconsData(0xec4a);
+  static const globe_outline = IoniconsData(0xec5f);
 
   /// globe-sharp
-  static const globe_sharp = IoniconsData(0xec4b);
+  static const globe_sharp = IoniconsData(0xec60);
 
   /// globe
-  static const globe = IoniconsData(0xec4c);
+  static const globe = IoniconsData(0xec61);
 
   /// golf-outline
-  static const golf_outline = IoniconsData(0xec4d);
+  static const golf_outline = IoniconsData(0xec62);
 
   /// golf-sharp
-  static const golf_sharp = IoniconsData(0xec4e);
+  static const golf_sharp = IoniconsData(0xec63);
 
   /// golf
-  static const golf = IoniconsData(0xec4f);
+  static const golf = IoniconsData(0xec64);
 
   /// grid-outline
-  static const grid_outline = IoniconsData(0xec50);
+  static const grid_outline = IoniconsData(0xec65);
 
   /// grid-sharp
-  static const grid_sharp = IoniconsData(0xec51);
+  static const grid_sharp = IoniconsData(0xec66);
 
   /// grid
-  static const grid = IoniconsData(0xec52);
+  static const grid = IoniconsData(0xec67);
 
   /// hammer-outline
-  static const hammer_outline = IoniconsData(0xec53);
+  static const hammer_outline = IoniconsData(0xec68);
 
   /// hammer-sharp
-  static const hammer_sharp = IoniconsData(0xec54);
+  static const hammer_sharp = IoniconsData(0xec69);
 
   /// hammer
-  static const hammer = IoniconsData(0xec55);
+  static const hammer = IoniconsData(0xec6a);
 
   /// hand-left-outline
-  static const hand_left_outline = IoniconsData(0xec56);
+  static const hand_left_outline = IoniconsData(0xec6b);
 
   /// hand-left-sharp
-  static const hand_left_sharp = IoniconsData(0xec57);
+  static const hand_left_sharp = IoniconsData(0xec6c);
 
   /// hand-left
-  static const hand_left = IoniconsData(0xec58);
+  static const hand_left = IoniconsData(0xec6d);
 
   /// hand-right-outline
-  static const hand_right_outline = IoniconsData(0xec59);
+  static const hand_right_outline = IoniconsData(0xec6e);
 
   /// hand-right-sharp
-  static const hand_right_sharp = IoniconsData(0xec5a);
+  static const hand_right_sharp = IoniconsData(0xec6f);
 
   /// hand-right
-  static const hand_right = IoniconsData(0xec5b);
+  static const hand_right = IoniconsData(0xec70);
 
   /// happy-outline
-  static const happy_outline = IoniconsData(0xec5c);
+  static const happy_outline = IoniconsData(0xec71);
 
   /// happy-sharp
-  static const happy_sharp = IoniconsData(0xec5d);
+  static const happy_sharp = IoniconsData(0xec72);
 
   /// happy
-  static const happy = IoniconsData(0xec5e);
+  static const happy = IoniconsData(0xec73);
 
   /// hardware-chip-outline
-  static const hardware_chip_outline = IoniconsData(0xec5f);
+  static const hardware_chip_outline = IoniconsData(0xec74);
 
   /// hardware-chip-sharp
-  static const hardware_chip_sharp = IoniconsData(0xec60);
+  static const hardware_chip_sharp = IoniconsData(0xec75);
 
   /// hardware-chip
-  static const hardware_chip = IoniconsData(0xec61);
+  static const hardware_chip = IoniconsData(0xec76);
 
   /// headset-outline
-  static const headset_outline = IoniconsData(0xec62);
+  static const headset_outline = IoniconsData(0xec77);
 
   /// headset-sharp
-  static const headset_sharp = IoniconsData(0xec63);
+  static const headset_sharp = IoniconsData(0xec78);
 
   /// headset
-  static const headset = IoniconsData(0xec64);
+  static const headset = IoniconsData(0xec79);
 
   /// heart-circle-outline
-  static const heart_circle_outline = IoniconsData(0xec65);
+  static const heart_circle_outline = IoniconsData(0xec7a);
 
   /// heart-circle-sharp
-  static const heart_circle_sharp = IoniconsData(0xec66);
+  static const heart_circle_sharp = IoniconsData(0xec7b);
 
   /// heart-circle
-  static const heart_circle = IoniconsData(0xec67);
+  static const heart_circle = IoniconsData(0xec7c);
 
   /// heart-dislike-circle-outline
-  static const heart_dislike_circle_outline = IoniconsData(0xec68);
+  static const heart_dislike_circle_outline = IoniconsData(0xec7d);
 
   /// heart-dislike-circle-sharp
-  static const heart_dislike_circle_sharp = IoniconsData(0xec69);
+  static const heart_dislike_circle_sharp = IoniconsData(0xec7e);
 
   /// heart-dislike-circle
-  static const heart_dislike_circle = IoniconsData(0xec6a);
+  static const heart_dislike_circle = IoniconsData(0xec7f);
 
   /// heart-dislike-outline
-  static const heart_dislike_outline = IoniconsData(0xec6b);
+  static const heart_dislike_outline = IoniconsData(0xec80);
 
   /// heart-dislike-sharp
-  static const heart_dislike_sharp = IoniconsData(0xec6c);
+  static const heart_dislike_sharp = IoniconsData(0xec81);
 
   /// heart-dislike
-  static const heart_dislike = IoniconsData(0xec6d);
+  static const heart_dislike = IoniconsData(0xec82);
 
   /// heart-half-outline
-  static const heart_half_outline = IoniconsData(0xec6e);
+  static const heart_half_outline = IoniconsData(0xec83);
 
   /// heart-half-sharp
-  static const heart_half_sharp = IoniconsData(0xec6f);
+  static const heart_half_sharp = IoniconsData(0xec84);
 
   /// heart-half
-  static const heart_half = IoniconsData(0xec70);
+  static const heart_half = IoniconsData(0xec85);
 
   /// heart-outline
-  static const heart_outline = IoniconsData(0xec71);
+  static const heart_outline = IoniconsData(0xec86);
 
   /// heart-sharp
-  static const heart_sharp = IoniconsData(0xec72);
+  static const heart_sharp = IoniconsData(0xec87);
 
   /// heart
-  static const heart = IoniconsData(0xec73);
+  static const heart = IoniconsData(0xec88);
 
   /// help-buoy-outline
-  static const help_buoy_outline = IoniconsData(0xec74);
+  static const help_buoy_outline = IoniconsData(0xec89);
 
   /// help-buoy-sharp
-  static const help_buoy_sharp = IoniconsData(0xec75);
+  static const help_buoy_sharp = IoniconsData(0xec8a);
 
   /// help-buoy
-  static const help_buoy = IoniconsData(0xec76);
+  static const help_buoy = IoniconsData(0xec8b);
 
   /// help-circle-outline
-  static const help_circle_outline = IoniconsData(0xec77);
+  static const help_circle_outline = IoniconsData(0xec8c);
 
   /// help-circle-sharp
-  static const help_circle_sharp = IoniconsData(0xec78);
+  static const help_circle_sharp = IoniconsData(0xec8d);
 
   /// help-circle
-  static const help_circle = IoniconsData(0xec79);
+  static const help_circle = IoniconsData(0xec8e);
 
   /// help-outline
-  static const help_outline = IoniconsData(0xec7a);
+  static const help_outline = IoniconsData(0xec8f);
 
   /// help-sharp
-  static const help_sharp = IoniconsData(0xec7b);
+  static const help_sharp = IoniconsData(0xec90);
 
   /// help
-  static const help = IoniconsData(0xec7c);
+  static const help = IoniconsData(0xec91);
 
   /// home-outline
-  static const home_outline = IoniconsData(0xec7d);
+  static const home_outline = IoniconsData(0xec92);
 
   /// home-sharp
-  static const home_sharp = IoniconsData(0xec7e);
+  static const home_sharp = IoniconsData(0xec93);
 
   /// home
-  static const home = IoniconsData(0xec7f);
+  static const home = IoniconsData(0xec94);
 
   /// hourglass-outline
-  static const hourglass_outline = IoniconsData(0xec80);
+  static const hourglass_outline = IoniconsData(0xec95);
 
   /// hourglass-sharp
-  static const hourglass_sharp = IoniconsData(0xec81);
+  static const hourglass_sharp = IoniconsData(0xec96);
 
   /// hourglass
-  static const hourglass = IoniconsData(0xec82);
+  static const hourglass = IoniconsData(0xec97);
 
   /// ice-cream-outline
-  static const ice_cream_outline = IoniconsData(0xec83);
+  static const ice_cream_outline = IoniconsData(0xec98);
 
   /// ice-cream-sharp
-  static const ice_cream_sharp = IoniconsData(0xec84);
+  static const ice_cream_sharp = IoniconsData(0xec99);
 
   /// ice-cream
-  static const ice_cream = IoniconsData(0xec85);
+  static const ice_cream = IoniconsData(0xec9a);
 
   /// id-card-outline
-  static const id_card_outline = IoniconsData(0xec86);
+  static const id_card_outline = IoniconsData(0xec9b);
 
   /// id-card-sharp
-  static const id_card_sharp = IoniconsData(0xec87);
+  static const id_card_sharp = IoniconsData(0xec9c);
 
   /// id-card
-  static const id_card = IoniconsData(0xec88);
+  static const id_card = IoniconsData(0xec9d);
 
   /// image-outline
-  static const image_outline = IoniconsData(0xec89);
+  static const image_outline = IoniconsData(0xec9e);
 
   /// image-sharp
-  static const image_sharp = IoniconsData(0xec8a);
+  static const image_sharp = IoniconsData(0xec9f);
 
   /// image
-  static const image = IoniconsData(0xec8b);
+  static const image = IoniconsData(0xeca0);
 
   /// images-outline
-  static const images_outline = IoniconsData(0xec8c);
+  static const images_outline = IoniconsData(0xeca1);
 
   /// images-sharp
-  static const images_sharp = IoniconsData(0xec8d);
+  static const images_sharp = IoniconsData(0xeca2);
 
   /// images
-  static const images = IoniconsData(0xec8e);
+  static const images = IoniconsData(0xeca3);
 
   /// infinite-outline
-  static const infinite_outline = IoniconsData(0xec8f);
+  static const infinite_outline = IoniconsData(0xeca4);
 
   /// infinite-sharp
-  static const infinite_sharp = IoniconsData(0xec90);
+  static const infinite_sharp = IoniconsData(0xeca5);
 
   /// infinite
-  static const infinite = IoniconsData(0xec91);
+  static const infinite = IoniconsData(0xeca6);
 
   /// information-circle-outline
-  static const information_circle_outline = IoniconsData(0xec92);
+  static const information_circle_outline = IoniconsData(0xeca7);
 
   /// information-circle-sharp
-  static const information_circle_sharp = IoniconsData(0xec93);
+  static const information_circle_sharp = IoniconsData(0xeca8);
 
   /// information-circle
-  static const information_circle = IoniconsData(0xec94);
+  static const information_circle = IoniconsData(0xeca9);
 
   /// information-outline
-  static const information_outline = IoniconsData(0xec95);
+  static const information_outline = IoniconsData(0xecaa);
 
   /// information-sharp
-  static const information_sharp = IoniconsData(0xec96);
+  static const information_sharp = IoniconsData(0xecab);
 
   /// information
-  static const information = IoniconsData(0xec97);
+  static const information = IoniconsData(0xecac);
 
   /// invert-mode-outline
-  static const invert_mode_outline = IoniconsData(0xec98);
+  static const invert_mode_outline = IoniconsData(0xecad);
 
   /// invert-mode-sharp
-  static const invert_mode_sharp = IoniconsData(0xec99);
+  static const invert_mode_sharp = IoniconsData(0xecae);
 
   /// invert-mode
-  static const invert_mode = IoniconsData(0xec9a);
+  static const invert_mode = IoniconsData(0xecaf);
 
   /// journal-outline
-  static const journal_outline = IoniconsData(0xec9b);
+  static const journal_outline = IoniconsData(0xecb0);
 
   /// journal-sharp
-  static const journal_sharp = IoniconsData(0xec9c);
+  static const journal_sharp = IoniconsData(0xecb1);
 
   /// journal
-  static const journal = IoniconsData(0xec9d);
+  static const journal = IoniconsData(0xecb2);
 
   /// key-outline
-  static const key_outline = IoniconsData(0xec9e);
+  static const key_outline = IoniconsData(0xecb3);
 
   /// key-sharp
-  static const key_sharp = IoniconsData(0xec9f);
+  static const key_sharp = IoniconsData(0xecb4);
 
   /// key
-  static const key = IoniconsData(0xeca0);
+  static const key = IoniconsData(0xecb5);
 
   /// keypad-outline
-  static const keypad_outline = IoniconsData(0xeca1);
+  static const keypad_outline = IoniconsData(0xecb6);
 
   /// keypad-sharp
-  static const keypad_sharp = IoniconsData(0xeca2);
+  static const keypad_sharp = IoniconsData(0xecb7);
 
   /// keypad
-  static const keypad = IoniconsData(0xeca3);
+  static const keypad = IoniconsData(0xecb8);
 
   /// language-outline
-  static const language_outline = IoniconsData(0xeca4);
+  static const language_outline = IoniconsData(0xecb9);
 
   /// language-sharp
-  static const language_sharp = IoniconsData(0xeca5);
+  static const language_sharp = IoniconsData(0xecba);
 
   /// language
-  static const language = IoniconsData(0xeca6);
+  static const language = IoniconsData(0xecbb);
 
   /// laptop-outline
-  static const laptop_outline = IoniconsData(0xeca7);
+  static const laptop_outline = IoniconsData(0xecbc);
 
   /// laptop-sharp
-  static const laptop_sharp = IoniconsData(0xeca8);
+  static const laptop_sharp = IoniconsData(0xecbd);
 
   /// laptop
-  static const laptop = IoniconsData(0xeca9);
+  static const laptop = IoniconsData(0xecbe);
 
   /// layers-outline
-  static const layers_outline = IoniconsData(0xecaa);
+  static const layers_outline = IoniconsData(0xecbf);
 
   /// layers-sharp
-  static const layers_sharp = IoniconsData(0xecab);
+  static const layers_sharp = IoniconsData(0xecc0);
 
   /// layers
-  static const layers = IoniconsData(0xecac);
+  static const layers = IoniconsData(0xecc1);
 
   /// leaf-outline
-  static const leaf_outline = IoniconsData(0xecad);
+  static const leaf_outline = IoniconsData(0xecc2);
 
   /// leaf-sharp
-  static const leaf_sharp = IoniconsData(0xecae);
+  static const leaf_sharp = IoniconsData(0xecc3);
 
   /// leaf
-  static const leaf = IoniconsData(0xecaf);
+  static const leaf = IoniconsData(0xecc4);
 
   /// library-outline
-  static const library_outline = IoniconsData(0xecb0);
+  static const library_outline = IoniconsData(0xecc5);
 
   /// library-sharp
-  static const library_sharp = IoniconsData(0xecb1);
+  static const library_sharp = IoniconsData(0xecc6);
 
   /// library
-  static const library = IoniconsData(0xecb2);
+  static const library = IoniconsData(0xecc7);
 
   /// link-outline
-  static const link_outline = IoniconsData(0xecb3);
+  static const link_outline = IoniconsData(0xecc8);
 
   /// link-sharp
-  static const link_sharp = IoniconsData(0xecb4);
+  static const link_sharp = IoniconsData(0xecc9);
 
   /// link
-  static const link = IoniconsData(0xecb5);
+  static const link = IoniconsData(0xecca);
 
   /// list-circle-outline
-  static const list_circle_outline = IoniconsData(0xecb6);
+  static const list_circle_outline = IoniconsData(0xeccb);
 
   /// list-circle-sharp
-  static const list_circle_sharp = IoniconsData(0xecb7);
+  static const list_circle_sharp = IoniconsData(0xeccc);
 
   /// list-circle
-  static const list_circle = IoniconsData(0xecb8);
+  static const list_circle = IoniconsData(0xeccd);
 
   /// list-outline
-  static const list_outline = IoniconsData(0xecb9);
+  static const list_outline = IoniconsData(0xecce);
 
   /// list-sharp
-  static const list_sharp = IoniconsData(0xecba);
+  static const list_sharp = IoniconsData(0xeccf);
 
   /// list
-  static const list = IoniconsData(0xecbb);
+  static const list = IoniconsData(0xecd0);
 
   /// locate-outline
-  static const locate_outline = IoniconsData(0xecbc);
+  static const locate_outline = IoniconsData(0xecd1);
 
   /// locate-sharp
-  static const locate_sharp = IoniconsData(0xecbd);
+  static const locate_sharp = IoniconsData(0xecd2);
 
   /// locate
-  static const locate = IoniconsData(0xecbe);
+  static const locate = IoniconsData(0xecd3);
 
   /// location-outline
-  static const location_outline = IoniconsData(0xecbf);
+  static const location_outline = IoniconsData(0xecd4);
 
   /// location-sharp
-  static const location_sharp = IoniconsData(0xecc0);
+  static const location_sharp = IoniconsData(0xecd5);
 
   /// location
-  static const location = IoniconsData(0xecc1);
+  static const location = IoniconsData(0xecd6);
 
   /// lock-closed-outline
-  static const lock_closed_outline = IoniconsData(0xecc2);
+  static const lock_closed_outline = IoniconsData(0xecd7);
 
   /// lock-closed-sharp
-  static const lock_closed_sharp = IoniconsData(0xecc3);
+  static const lock_closed_sharp = IoniconsData(0xecd8);
 
   /// lock-closed
-  static const lock_closed = IoniconsData(0xecc4);
+  static const lock_closed = IoniconsData(0xecd9);
 
   /// lock-open-outline
-  static const lock_open_outline = IoniconsData(0xecc5);
+  static const lock_open_outline = IoniconsData(0xecda);
 
   /// lock-open-sharp
-  static const lock_open_sharp = IoniconsData(0xecc6);
+  static const lock_open_sharp = IoniconsData(0xecdb);
 
   /// lock-open
-  static const lock_open = IoniconsData(0xecc7);
+  static const lock_open = IoniconsData(0xecdc);
 
   /// log-in-outline
-  static const log_in_outline = IoniconsData(0xecc8);
+  static const log_in_outline = IoniconsData(0xecdd);
 
   /// log-in-sharp
-  static const log_in_sharp = IoniconsData(0xecc9);
+  static const log_in_sharp = IoniconsData(0xecde);
 
   /// log-in
-  static const log_in = IoniconsData(0xecca);
+  static const log_in = IoniconsData(0xecdf);
 
   /// log-out-outline
-  static const log_out_outline = IoniconsData(0xeccb);
+  static const log_out_outline = IoniconsData(0xece0);
 
   /// log-out-sharp
-  static const log_out_sharp = IoniconsData(0xeccc);
+  static const log_out_sharp = IoniconsData(0xece1);
 
   /// log-out
-  static const log_out = IoniconsData(0xeccd);
+  static const log_out = IoniconsData(0xece2);
 
   /// logo-alipay
-  static const logo_alipay = IoniconsData(0xecce);
+  static const logo_alipay = IoniconsData(0xece3);
 
   /// logo-amazon
-  static const logo_amazon = IoniconsData(0xeccf);
+  static const logo_amazon = IoniconsData(0xece4);
 
   /// logo-amplify
-  static const logo_amplify = IoniconsData(0xecd0);
+  static const logo_amplify = IoniconsData(0xece5);
 
   /// logo-android
-  static const logo_android = IoniconsData(0xecd1);
+  static const logo_android = IoniconsData(0xece6);
 
   /// logo-angular
-  static const logo_angular = IoniconsData(0xecd2);
+  static const logo_angular = IoniconsData(0xece7);
+
+  /// logo-appflow
+  static const logo_appflow = IoniconsData(0xece8);
 
   /// logo-apple-appstore
-  static const logo_apple_appstore = IoniconsData(0xecd3);
+  static const logo_apple_appstore = IoniconsData(0xece9);
 
   /// logo-apple-ar
-  static const logo_apple_ar = IoniconsData(0xecd4);
+  static const logo_apple_ar = IoniconsData(0xecea);
 
   /// logo-apple
-  static const logo_apple = IoniconsData(0xecd5);
+  static const logo_apple = IoniconsData(0xeceb);
 
   /// logo-behance
-  static const logo_behance = IoniconsData(0xecd6);
+  static const logo_behance = IoniconsData(0xecec);
 
   /// logo-bitbucket
-  static const logo_bitbucket = IoniconsData(0xecd7);
+  static const logo_bitbucket = IoniconsData(0xeced);
 
   /// logo-bitcoin
-  static const logo_bitcoin = IoniconsData(0xecd8);
+  static const logo_bitcoin = IoniconsData(0xecee);
 
   /// logo-buffer
-  static const logo_buffer = IoniconsData(0xecd9);
+  static const logo_buffer = IoniconsData(0xecef);
 
   /// logo-capacitor
-  static const logo_capacitor = IoniconsData(0xecda);
+  static const logo_capacitor = IoniconsData(0xecf0);
 
   /// logo-chrome
-  static const logo_chrome = IoniconsData(0xecdb);
+  static const logo_chrome = IoniconsData(0xecf1);
 
   /// logo-closed-captioning
-  static const logo_closed_captioning = IoniconsData(0xecdc);
+  static const logo_closed_captioning = IoniconsData(0xecf2);
 
   /// logo-codepen
-  static const logo_codepen = IoniconsData(0xecdd);
+  static const logo_codepen = IoniconsData(0xecf3);
 
   /// logo-css3
-  static const logo_css3 = IoniconsData(0xecde);
+  static const logo_css3 = IoniconsData(0xecf4);
 
   /// logo-designernews
-  static const logo_designernews = IoniconsData(0xecdf);
+  static const logo_designernews = IoniconsData(0xecf5);
 
   /// logo-deviantart
-  static const logo_deviantart = IoniconsData(0xece0);
+  static const logo_deviantart = IoniconsData(0xecf6);
 
   /// logo-discord
-  static const logo_discord = IoniconsData(0xece1);
+  static const logo_discord = IoniconsData(0xecf7);
 
   /// logo-docker
-  static const logo_docker = IoniconsData(0xece2);
+  static const logo_docker = IoniconsData(0xecf8);
 
   /// logo-dribbble
-  static const logo_dribbble = IoniconsData(0xece3);
+  static const logo_dribbble = IoniconsData(0xecf9);
 
   /// logo-dropbox
-  static const logo_dropbox = IoniconsData(0xece4);
+  static const logo_dropbox = IoniconsData(0xecfa);
 
   /// logo-edge
-  static const logo_edge = IoniconsData(0xece5);
+  static const logo_edge = IoniconsData(0xecfb);
 
   /// logo-electron
-  static const logo_electron = IoniconsData(0xece6);
+  static const logo_electron = IoniconsData(0xecfc);
 
   /// logo-euro
-  static const logo_euro = IoniconsData(0xece7);
+  static const logo_euro = IoniconsData(0xecfd);
 
   /// logo-facebook
-  static const logo_facebook = IoniconsData(0xece8);
+  static const logo_facebook = IoniconsData(0xecfe);
 
   /// logo-figma
-  static const logo_figma = IoniconsData(0xece9);
+  static const logo_figma = IoniconsData(0xecff);
 
   /// logo-firebase
-  static const logo_firebase = IoniconsData(0xecea);
+  static const logo_firebase = IoniconsData(0xed00);
 
   /// logo-firefox
-  static const logo_firefox = IoniconsData(0xeceb);
+  static const logo_firefox = IoniconsData(0xed01);
 
   /// logo-flickr
-  static const logo_flickr = IoniconsData(0xecec);
+  static const logo_flickr = IoniconsData(0xed02);
 
   /// logo-foursquare
-  static const logo_foursquare = IoniconsData(0xeced);
+  static const logo_foursquare = IoniconsData(0xed03);
 
   /// logo-github
-  static const logo_github = IoniconsData(0xecee);
+  static const logo_github = IoniconsData(0xed04);
 
   /// logo-gitlab
-  static const logo_gitlab = IoniconsData(0xecef);
+  static const logo_gitlab = IoniconsData(0xed05);
 
   /// logo-google-playstore
-  static const logo_google_playstore = IoniconsData(0xecf0);
+  static const logo_google_playstore = IoniconsData(0xed06);
 
   /// logo-google
-  static const logo_google = IoniconsData(0xecf1);
+  static const logo_google = IoniconsData(0xed07);
 
   /// logo-hackernews
-  static const logo_hackernews = IoniconsData(0xecf2);
+  static const logo_hackernews = IoniconsData(0xed08);
 
   /// logo-html5
-  static const logo_html5 = IoniconsData(0xecf3);
+  static const logo_html5 = IoniconsData(0xed09);
 
   /// logo-instagram
-  static const logo_instagram = IoniconsData(0xecf4);
+  static const logo_instagram = IoniconsData(0xed0a);
 
   /// logo-ionic
-  static const logo_ionic = IoniconsData(0xecf5);
+  static const logo_ionic = IoniconsData(0xed0b);
 
   /// logo-ionitron
-  static const logo_ionitron = IoniconsData(0xecf6);
+  static const logo_ionitron = IoniconsData(0xed0c);
 
   /// logo-javascript
-  static const logo_javascript = IoniconsData(0xecf7);
+  static const logo_javascript = IoniconsData(0xed0d);
 
   /// logo-laravel
-  static const logo_laravel = IoniconsData(0xecf8);
+  static const logo_laravel = IoniconsData(0xed0e);
 
   /// logo-linkedin
-  static const logo_linkedin = IoniconsData(0xecf9);
+  static const logo_linkedin = IoniconsData(0xed0f);
 
   /// logo-markdown
-  static const logo_markdown = IoniconsData(0xecfa);
+  static const logo_markdown = IoniconsData(0xed10);
 
   /// logo-mastodon
-  static const logo_mastodon = IoniconsData(0xecfb);
+  static const logo_mastodon = IoniconsData(0xed11);
 
   /// logo-medium
-  static const logo_medium = IoniconsData(0xecfc);
+  static const logo_medium = IoniconsData(0xed12);
 
   /// logo-microsoft
-  static const logo_microsoft = IoniconsData(0xecfd);
+  static const logo_microsoft = IoniconsData(0xed13);
 
   /// logo-no-smoking
-  static const logo_no_smoking = IoniconsData(0xecfe);
+  static const logo_no_smoking = IoniconsData(0xed14);
 
   /// logo-nodejs
-  static const logo_nodejs = IoniconsData(0xecff);
+  static const logo_nodejs = IoniconsData(0xed15);
 
   /// logo-npm
-  static const logo_npm = IoniconsData(0xed00);
+  static const logo_npm = IoniconsData(0xed16);
 
   /// logo-octocat
-  static const logo_octocat = IoniconsData(0xed01);
+  static const logo_octocat = IoniconsData(0xed17);
 
   /// logo-paypal
-  static const logo_paypal = IoniconsData(0xed02);
+  static const logo_paypal = IoniconsData(0xed18);
 
   /// logo-pinterest
-  static const logo_pinterest = IoniconsData(0xed03);
+  static const logo_pinterest = IoniconsData(0xed19);
 
   /// logo-playstation
-  static const logo_playstation = IoniconsData(0xed04);
+  static const logo_playstation = IoniconsData(0xed1a);
 
   /// logo-pwa
-  static const logo_pwa = IoniconsData(0xed05);
+  static const logo_pwa = IoniconsData(0xed1b);
 
   /// logo-python
-  static const logo_python = IoniconsData(0xed06);
+  static const logo_python = IoniconsData(0xed1c);
 
   /// logo-react
-  static const logo_react = IoniconsData(0xed07);
+  static const logo_react = IoniconsData(0xed1d);
 
   /// logo-reddit
-  static const logo_reddit = IoniconsData(0xed08);
+  static const logo_reddit = IoniconsData(0xed1e);
 
   /// logo-rss
-  static const logo_rss = IoniconsData(0xed09);
+  static const logo_rss = IoniconsData(0xed1f);
 
   /// logo-sass
-  static const logo_sass = IoniconsData(0xed0a);
+  static const logo_sass = IoniconsData(0xed20);
 
   /// logo-skype
-  static const logo_skype = IoniconsData(0xed0b);
+  static const logo_skype = IoniconsData(0xed21);
 
   /// logo-slack
-  static const logo_slack = IoniconsData(0xed0c);
+  static const logo_slack = IoniconsData(0xed22);
 
   /// logo-snapchat
-  static const logo_snapchat = IoniconsData(0xed0d);
+  static const logo_snapchat = IoniconsData(0xed23);
 
   /// logo-soundcloud
-  static const logo_soundcloud = IoniconsData(0xed0e);
+  static const logo_soundcloud = IoniconsData(0xed24);
 
   /// logo-stackoverflow
-  static const logo_stackoverflow = IoniconsData(0xed0f);
+  static const logo_stackoverflow = IoniconsData(0xed25);
 
   /// logo-steam
-  static const logo_steam = IoniconsData(0xed10);
+  static const logo_steam = IoniconsData(0xed26);
 
   /// logo-stencil
-  static const logo_stencil = IoniconsData(0xed11);
+  static const logo_stencil = IoniconsData(0xed27);
 
   /// logo-tableau
-  static const logo_tableau = IoniconsData(0xed12);
+  static const logo_tableau = IoniconsData(0xed28);
 
   /// logo-tiktok
-  static const logo_tiktok = IoniconsData(0xed13);
+  static const logo_tiktok = IoniconsData(0xed29);
+
+  /// logo-trapeze
+  static const logo_trapeze = IoniconsData(0xed2a);
 
   /// logo-tumblr
-  static const logo_tumblr = IoniconsData(0xed14);
+  static const logo_tumblr = IoniconsData(0xed2b);
 
   /// logo-tux
-  static const logo_tux = IoniconsData(0xed15);
+  static const logo_tux = IoniconsData(0xed2c);
 
   /// logo-twitch
-  static const logo_twitch = IoniconsData(0xed16);
+  static const logo_twitch = IoniconsData(0xed2d);
 
   /// logo-twitter
-  static const logo_twitter = IoniconsData(0xed17);
+  static const logo_twitter = IoniconsData(0xed2e);
 
   /// logo-usd
-  static const logo_usd = IoniconsData(0xed18);
+  static const logo_usd = IoniconsData(0xed2f);
 
   /// logo-venmo
-  static const logo_venmo = IoniconsData(0xed19);
+  static const logo_venmo = IoniconsData(0xed30);
 
   /// logo-vercel
-  static const logo_vercel = IoniconsData(0xed1a);
+  static const logo_vercel = IoniconsData(0xed31);
 
   /// logo-vimeo
-  static const logo_vimeo = IoniconsData(0xed1b);
+  static const logo_vimeo = IoniconsData(0xed32);
 
   /// logo-vk
-  static const logo_vk = IoniconsData(0xed1c);
+  static const logo_vk = IoniconsData(0xed33);
 
   /// logo-vue
-  static const logo_vue = IoniconsData(0xed1d);
+  static const logo_vue = IoniconsData(0xed34);
 
   /// logo-web-component
-  static const logo_web_component = IoniconsData(0xed1e);
+  static const logo_web_component = IoniconsData(0xed35);
 
   /// logo-wechat
-  static const logo_wechat = IoniconsData(0xed1f);
+  static const logo_wechat = IoniconsData(0xed36);
 
   /// logo-whatsapp
-  static const logo_whatsapp = IoniconsData(0xed20);
+  static const logo_whatsapp = IoniconsData(0xed37);
 
   /// logo-windows
-  static const logo_windows = IoniconsData(0xed21);
+  static const logo_windows = IoniconsData(0xed38);
 
   /// logo-wordpress
-  static const logo_wordpress = IoniconsData(0xed22);
+  static const logo_wordpress = IoniconsData(0xed39);
+
+  /// logo-x
+  static const logo_x = IoniconsData(0xed3a);
 
   /// logo-xbox
-  static const logo_xbox = IoniconsData(0xed23);
+  static const logo_xbox = IoniconsData(0xed3b);
 
   /// logo-xing
-  static const logo_xing = IoniconsData(0xed24);
+  static const logo_xing = IoniconsData(0xed3c);
 
   /// logo-yahoo
-  static const logo_yahoo = IoniconsData(0xed25);
+  static const logo_yahoo = IoniconsData(0xed3d);
 
   /// logo-yen
-  static const logo_yen = IoniconsData(0xed26);
+  static const logo_yen = IoniconsData(0xed3e);
 
   /// logo-youtube
-  static const logo_youtube = IoniconsData(0xed27);
+  static const logo_youtube = IoniconsData(0xed3f);
 
   /// magnet-outline
-  static const magnet_outline = IoniconsData(0xed28);
+  static const magnet_outline = IoniconsData(0xed40);
 
   /// magnet-sharp
-  static const magnet_sharp = IoniconsData(0xed29);
+  static const magnet_sharp = IoniconsData(0xed41);
 
   /// magnet
-  static const magnet = IoniconsData(0xed2a);
+  static const magnet = IoniconsData(0xed42);
 
   /// mail-open-outline
-  static const mail_open_outline = IoniconsData(0xed2b);
+  static const mail_open_outline = IoniconsData(0xed43);
 
   /// mail-open-sharp
-  static const mail_open_sharp = IoniconsData(0xed2c);
+  static const mail_open_sharp = IoniconsData(0xed44);
 
   /// mail-open
-  static const mail_open = IoniconsData(0xed2d);
+  static const mail_open = IoniconsData(0xed45);
 
   /// mail-outline
-  static const mail_outline = IoniconsData(0xed2e);
+  static const mail_outline = IoniconsData(0xed46);
 
   /// mail-sharp
-  static const mail_sharp = IoniconsData(0xed2f);
+  static const mail_sharp = IoniconsData(0xed47);
 
   /// mail-unread-outline
-  static const mail_unread_outline = IoniconsData(0xed30);
+  static const mail_unread_outline = IoniconsData(0xed48);
 
   /// mail-unread-sharp
-  static const mail_unread_sharp = IoniconsData(0xed31);
+  static const mail_unread_sharp = IoniconsData(0xed49);
 
   /// mail-unread
-  static const mail_unread = IoniconsData(0xed32);
+  static const mail_unread = IoniconsData(0xed4a);
 
   /// mail
-  static const mail = IoniconsData(0xed33);
+  static const mail = IoniconsData(0xed4b);
 
   /// male-female-outline
-  static const male_female_outline = IoniconsData(0xed34);
+  static const male_female_outline = IoniconsData(0xed4c);
 
   /// male-female-sharp
-  static const male_female_sharp = IoniconsData(0xed35);
+  static const male_female_sharp = IoniconsData(0xed4d);
 
   /// male-female
-  static const male_female = IoniconsData(0xed36);
+  static const male_female = IoniconsData(0xed4e);
 
   /// male-outline
-  static const male_outline = IoniconsData(0xed37);
+  static const male_outline = IoniconsData(0xed4f);
 
   /// male-sharp
-  static const male_sharp = IoniconsData(0xed38);
+  static const male_sharp = IoniconsData(0xed50);
 
   /// male
-  static const male = IoniconsData(0xed39);
+  static const male = IoniconsData(0xed51);
 
   /// man-outline
-  static const man_outline = IoniconsData(0xed3a);
+  static const man_outline = IoniconsData(0xed52);
 
   /// man-sharp
-  static const man_sharp = IoniconsData(0xed3b);
+  static const man_sharp = IoniconsData(0xed53);
 
   /// man
-  static const man = IoniconsData(0xed3c);
+  static const man = IoniconsData(0xed54);
 
   /// map-outline
-  static const map_outline = IoniconsData(0xed3d);
+  static const map_outline = IoniconsData(0xed55);
 
   /// map-sharp
-  static const map_sharp = IoniconsData(0xed3e);
+  static const map_sharp = IoniconsData(0xed56);
 
   /// map
-  static const map = IoniconsData(0xed3f);
+  static const map = IoniconsData(0xed57);
 
   /// medal-outline
-  static const medal_outline = IoniconsData(0xed40);
+  static const medal_outline = IoniconsData(0xed58);
 
   /// medal-sharp
-  static const medal_sharp = IoniconsData(0xed41);
+  static const medal_sharp = IoniconsData(0xed59);
 
   /// medal
-  static const medal = IoniconsData(0xed42);
+  static const medal = IoniconsData(0xed5a);
 
   /// medical-outline
-  static const medical_outline = IoniconsData(0xed43);
+  static const medical_outline = IoniconsData(0xed5b);
 
   /// medical-sharp
-  static const medical_sharp = IoniconsData(0xed44);
+  static const medical_sharp = IoniconsData(0xed5c);
 
   /// medical
-  static const medical = IoniconsData(0xed45);
+  static const medical = IoniconsData(0xed5d);
 
   /// medkit-outline
-  static const medkit_outline = IoniconsData(0xed46);
+  static const medkit_outline = IoniconsData(0xed5e);
 
   /// medkit-sharp
-  static const medkit_sharp = IoniconsData(0xed47);
+  static const medkit_sharp = IoniconsData(0xed5f);
 
   /// medkit
-  static const medkit = IoniconsData(0xed48);
+  static const medkit = IoniconsData(0xed60);
 
   /// megaphone-outline
-  static const megaphone_outline = IoniconsData(0xed49);
+  static const megaphone_outline = IoniconsData(0xed61);
 
   /// megaphone-sharp
-  static const megaphone_sharp = IoniconsData(0xed4a);
+  static const megaphone_sharp = IoniconsData(0xed62);
 
   /// megaphone
-  static const megaphone = IoniconsData(0xed4b);
+  static const megaphone = IoniconsData(0xed63);
 
   /// menu-outline
-  static const menu_outline = IoniconsData(0xed4c);
+  static const menu_outline = IoniconsData(0xed64);
 
   /// menu-sharp
-  static const menu_sharp = IoniconsData(0xed4d);
+  static const menu_sharp = IoniconsData(0xed65);
 
   /// menu
-  static const menu = IoniconsData(0xed4e);
+  static const menu = IoniconsData(0xed66);
 
   /// mic-circle-outline
-  static const mic_circle_outline = IoniconsData(0xed4f);
+  static const mic_circle_outline = IoniconsData(0xed67);
 
   /// mic-circle-sharp
-  static const mic_circle_sharp = IoniconsData(0xed50);
+  static const mic_circle_sharp = IoniconsData(0xed68);
 
   /// mic-circle
-  static const mic_circle = IoniconsData(0xed51);
+  static const mic_circle = IoniconsData(0xed69);
 
   /// mic-off-circle-outline
-  static const mic_off_circle_outline = IoniconsData(0xed52);
+  static const mic_off_circle_outline = IoniconsData(0xed6a);
 
   /// mic-off-circle-sharp
-  static const mic_off_circle_sharp = IoniconsData(0xed53);
+  static const mic_off_circle_sharp = IoniconsData(0xed6b);
 
   /// mic-off-circle
-  static const mic_off_circle = IoniconsData(0xed54);
+  static const mic_off_circle = IoniconsData(0xed6c);
 
   /// mic-off-outline
-  static const mic_off_outline = IoniconsData(0xed55);
+  static const mic_off_outline = IoniconsData(0xed6d);
 
   /// mic-off-sharp
-  static const mic_off_sharp = IoniconsData(0xed56);
+  static const mic_off_sharp = IoniconsData(0xed6e);
 
   /// mic-off
-  static const mic_off = IoniconsData(0xed57);
+  static const mic_off = IoniconsData(0xed6f);
 
   /// mic-outline
-  static const mic_outline = IoniconsData(0xed58);
+  static const mic_outline = IoniconsData(0xed70);
 
   /// mic-sharp
-  static const mic_sharp = IoniconsData(0xed59);
+  static const mic_sharp = IoniconsData(0xed71);
 
   /// mic
-  static const mic = IoniconsData(0xed5a);
+  static const mic = IoniconsData(0xed72);
 
   /// moon-outline
-  static const moon_outline = IoniconsData(0xed5b);
+  static const moon_outline = IoniconsData(0xed73);
 
   /// moon-sharp
-  static const moon_sharp = IoniconsData(0xed5c);
+  static const moon_sharp = IoniconsData(0xed74);
 
   /// moon
-  static const moon = IoniconsData(0xed5d);
+  static const moon = IoniconsData(0xed75);
 
   /// move-outline
-  static const move_outline = IoniconsData(0xed5e);
+  static const move_outline = IoniconsData(0xed76);
 
   /// move-sharp
-  static const move_sharp = IoniconsData(0xed5f);
+  static const move_sharp = IoniconsData(0xed77);
 
   /// move
-  static const move = IoniconsData(0xed60);
+  static const move = IoniconsData(0xed78);
 
   /// musical-note-outline
-  static const musical_note_outline = IoniconsData(0xed61);
+  static const musical_note_outline = IoniconsData(0xed79);
 
   /// musical-note-sharp
-  static const musical_note_sharp = IoniconsData(0xed62);
+  static const musical_note_sharp = IoniconsData(0xed7a);
 
   /// musical-note
-  static const musical_note = IoniconsData(0xed63);
+  static const musical_note = IoniconsData(0xed7b);
 
   /// musical-notes-outline
-  static const musical_notes_outline = IoniconsData(0xed64);
+  static const musical_notes_outline = IoniconsData(0xed7c);
 
   /// musical-notes-sharp
-  static const musical_notes_sharp = IoniconsData(0xed65);
+  static const musical_notes_sharp = IoniconsData(0xed7d);
 
   /// musical-notes
-  static const musical_notes = IoniconsData(0xed66);
+  static const musical_notes = IoniconsData(0xed7e);
 
   /// navigate-circle-outline
-  static const navigate_circle_outline = IoniconsData(0xed67);
+  static const navigate_circle_outline = IoniconsData(0xed7f);
 
   /// navigate-circle-sharp
-  static const navigate_circle_sharp = IoniconsData(0xed68);
+  static const navigate_circle_sharp = IoniconsData(0xed80);
 
   /// navigate-circle
-  static const navigate_circle = IoniconsData(0xed69);
+  static const navigate_circle = IoniconsData(0xed81);
 
   /// navigate-outline
-  static const navigate_outline = IoniconsData(0xed6a);
+  static const navigate_outline = IoniconsData(0xed82);
 
   /// navigate-sharp
-  static const navigate_sharp = IoniconsData(0xed6b);
+  static const navigate_sharp = IoniconsData(0xed83);
 
   /// navigate
-  static const navigate = IoniconsData(0xed6c);
+  static const navigate = IoniconsData(0xed84);
 
   /// newspaper-outline
-  static const newspaper_outline = IoniconsData(0xed6d);
+  static const newspaper_outline = IoniconsData(0xed85);
 
   /// newspaper-sharp
-  static const newspaper_sharp = IoniconsData(0xed6e);
+  static const newspaper_sharp = IoniconsData(0xed86);
 
   /// newspaper
-  static const newspaper = IoniconsData(0xed6f);
+  static const newspaper = IoniconsData(0xed87);
 
   /// notifications-circle-outline
-  static const notifications_circle_outline = IoniconsData(0xed70);
+  static const notifications_circle_outline = IoniconsData(0xed88);
 
   /// notifications-circle-sharp
-  static const notifications_circle_sharp = IoniconsData(0xed71);
+  static const notifications_circle_sharp = IoniconsData(0xed89);
 
   /// notifications-circle
-  static const notifications_circle = IoniconsData(0xed72);
+  static const notifications_circle = IoniconsData(0xed8a);
 
   /// notifications-off-circle-outline
-  static const notifications_off_circle_outline = IoniconsData(0xed73);
+  static const notifications_off_circle_outline = IoniconsData(0xed8b);
 
   /// notifications-off-circle-sharp
-  static const notifications_off_circle_sharp = IoniconsData(0xed74);
+  static const notifications_off_circle_sharp = IoniconsData(0xed8c);
 
   /// notifications-off-circle
-  static const notifications_off_circle = IoniconsData(0xed75);
+  static const notifications_off_circle = IoniconsData(0xed8d);
 
   /// notifications-off-outline
-  static const notifications_off_outline = IoniconsData(0xed76);
+  static const notifications_off_outline = IoniconsData(0xed8e);
 
   /// notifications-off-sharp
-  static const notifications_off_sharp = IoniconsData(0xed77);
+  static const notifications_off_sharp = IoniconsData(0xed8f);
 
   /// notifications-off
-  static const notifications_off = IoniconsData(0xed78);
+  static const notifications_off = IoniconsData(0xed90);
 
   /// notifications-outline
-  static const notifications_outline = IoniconsData(0xed79);
+  static const notifications_outline = IoniconsData(0xed91);
 
   /// notifications-sharp
-  static const notifications_sharp = IoniconsData(0xed7a);
+  static const notifications_sharp = IoniconsData(0xed92);
 
   /// notifications
-  static const notifications = IoniconsData(0xed7b);
+  static const notifications = IoniconsData(0xed93);
 
   /// nuclear-outline
-  static const nuclear_outline = IoniconsData(0xed7c);
+  static const nuclear_outline = IoniconsData(0xed94);
 
   /// nuclear-sharp
-  static const nuclear_sharp = IoniconsData(0xed7d);
+  static const nuclear_sharp = IoniconsData(0xed95);
 
   /// nuclear
-  static const nuclear = IoniconsData(0xed7e);
+  static const nuclear = IoniconsData(0xed96);
 
   /// nutrition-outline
-  static const nutrition_outline = IoniconsData(0xed7f);
+  static const nutrition_outline = IoniconsData(0xed97);
 
   /// nutrition-sharp
-  static const nutrition_sharp = IoniconsData(0xed80);
+  static const nutrition_sharp = IoniconsData(0xed98);
 
   /// nutrition
-  static const nutrition = IoniconsData(0xed81);
+  static const nutrition = IoniconsData(0xed99);
 
   /// open-outline
-  static const open_outline = IoniconsData(0xed82);
+  static const open_outline = IoniconsData(0xed9a);
 
   /// open-sharp
-  static const open_sharp = IoniconsData(0xed83);
+  static const open_sharp = IoniconsData(0xed9b);
 
   /// open
-  static const open = IoniconsData(0xed84);
+  static const open = IoniconsData(0xed9c);
 
   /// options-outline
-  static const options_outline = IoniconsData(0xed85);
+  static const options_outline = IoniconsData(0xed9d);
 
   /// options-sharp
-  static const options_sharp = IoniconsData(0xed86);
+  static const options_sharp = IoniconsData(0xed9e);
 
   /// options
-  static const options = IoniconsData(0xed87);
+  static const options = IoniconsData(0xed9f);
 
   /// paper-plane-outline
-  static const paper_plane_outline = IoniconsData(0xed88);
+  static const paper_plane_outline = IoniconsData(0xeda0);
 
   /// paper-plane-sharp
-  static const paper_plane_sharp = IoniconsData(0xed89);
+  static const paper_plane_sharp = IoniconsData(0xeda1);
 
   /// paper-plane
-  static const paper_plane = IoniconsData(0xed8a);
+  static const paper_plane = IoniconsData(0xeda2);
 
   /// partly-sunny-outline
-  static const partly_sunny_outline = IoniconsData(0xed8b);
+  static const partly_sunny_outline = IoniconsData(0xeda3);
 
   /// partly-sunny-sharp
-  static const partly_sunny_sharp = IoniconsData(0xed8c);
+  static const partly_sunny_sharp = IoniconsData(0xeda4);
 
   /// partly-sunny
-  static const partly_sunny = IoniconsData(0xed8d);
+  static const partly_sunny = IoniconsData(0xeda5);
 
   /// pause-circle-outline
-  static const pause_circle_outline = IoniconsData(0xed8e);
+  static const pause_circle_outline = IoniconsData(0xeda6);
 
   /// pause-circle-sharp
-  static const pause_circle_sharp = IoniconsData(0xed8f);
+  static const pause_circle_sharp = IoniconsData(0xeda7);
 
   /// pause-circle
-  static const pause_circle = IoniconsData(0xed90);
+  static const pause_circle = IoniconsData(0xeda8);
 
   /// pause-outline
-  static const pause_outline = IoniconsData(0xed91);
+  static const pause_outline = IoniconsData(0xeda9);
 
   /// pause-sharp
-  static const pause_sharp = IoniconsData(0xed92);
+  static const pause_sharp = IoniconsData(0xedaa);
 
   /// pause
-  static const pause = IoniconsData(0xed93);
+  static const pause = IoniconsData(0xedab);
 
   /// paw-outline
-  static const paw_outline = IoniconsData(0xed94);
+  static const paw_outline = IoniconsData(0xedac);
 
   /// paw-sharp
-  static const paw_sharp = IoniconsData(0xed95);
+  static const paw_sharp = IoniconsData(0xedad);
 
   /// paw
-  static const paw = IoniconsData(0xed96);
+  static const paw = IoniconsData(0xedae);
 
   /// pencil-outline
-  static const pencil_outline = IoniconsData(0xed97);
+  static const pencil_outline = IoniconsData(0xedaf);
 
   /// pencil-sharp
-  static const pencil_sharp = IoniconsData(0xed98);
+  static const pencil_sharp = IoniconsData(0xedb0);
 
   /// pencil
-  static const pencil = IoniconsData(0xed99);
+  static const pencil = IoniconsData(0xedb1);
 
   /// people-circle-outline
-  static const people_circle_outline = IoniconsData(0xed9a);
+  static const people_circle_outline = IoniconsData(0xedb2);
 
   /// people-circle-sharp
-  static const people_circle_sharp = IoniconsData(0xed9b);
+  static const people_circle_sharp = IoniconsData(0xedb3);
 
   /// people-circle
-  static const people_circle = IoniconsData(0xed9c);
+  static const people_circle = IoniconsData(0xedb4);
 
   /// people-outline
-  static const people_outline = IoniconsData(0xed9d);
+  static const people_outline = IoniconsData(0xedb5);
 
   /// people-sharp
-  static const people_sharp = IoniconsData(0xed9e);
+  static const people_sharp = IoniconsData(0xedb6);
 
   /// people
-  static const people = IoniconsData(0xed9f);
+  static const people = IoniconsData(0xedb7);
 
   /// person-add-outline
-  static const person_add_outline = IoniconsData(0xeda0);
+  static const person_add_outline = IoniconsData(0xedb8);
 
   /// person-add-sharp
-  static const person_add_sharp = IoniconsData(0xeda1);
+  static const person_add_sharp = IoniconsData(0xedb9);
 
   /// person-add
-  static const person_add = IoniconsData(0xeda2);
+  static const person_add = IoniconsData(0xedba);
 
   /// person-circle-outline
-  static const person_circle_outline = IoniconsData(0xeda3);
+  static const person_circle_outline = IoniconsData(0xedbb);
 
   /// person-circle-sharp
-  static const person_circle_sharp = IoniconsData(0xeda4);
+  static const person_circle_sharp = IoniconsData(0xedbc);
 
   /// person-circle
-  static const person_circle = IoniconsData(0xeda5);
+  static const person_circle = IoniconsData(0xedbd);
 
   /// person-outline
-  static const person_outline = IoniconsData(0xeda6);
+  static const person_outline = IoniconsData(0xedbe);
 
   /// person-remove-outline
-  static const person_remove_outline = IoniconsData(0xeda7);
+  static const person_remove_outline = IoniconsData(0xedbf);
 
   /// person-remove-sharp
-  static const person_remove_sharp = IoniconsData(0xeda8);
+  static const person_remove_sharp = IoniconsData(0xedc0);
 
   /// person-remove
-  static const person_remove = IoniconsData(0xeda9);
+  static const person_remove = IoniconsData(0xedc1);
 
   /// person-sharp
-  static const person_sharp = IoniconsData(0xedaa);
+  static const person_sharp = IoniconsData(0xedc2);
 
   /// person
-  static const person = IoniconsData(0xedab);
+  static const person = IoniconsData(0xedc3);
 
   /// phone-landscape-outline
-  static const phone_landscape_outline = IoniconsData(0xedac);
+  static const phone_landscape_outline = IoniconsData(0xedc4);
 
   /// phone-landscape-sharp
-  static const phone_landscape_sharp = IoniconsData(0xedad);
+  static const phone_landscape_sharp = IoniconsData(0xedc5);
 
   /// phone-landscape
-  static const phone_landscape = IoniconsData(0xedae);
+  static const phone_landscape = IoniconsData(0xedc6);
 
   /// phone-portrait-outline
-  static const phone_portrait_outline = IoniconsData(0xedaf);
+  static const phone_portrait_outline = IoniconsData(0xedc7);
 
   /// phone-portrait-sharp
-  static const phone_portrait_sharp = IoniconsData(0xedb0);
+  static const phone_portrait_sharp = IoniconsData(0xedc8);
 
   /// phone-portrait
-  static const phone_portrait = IoniconsData(0xedb1);
+  static const phone_portrait = IoniconsData(0xedc9);
 
   /// pie-chart-outline
-  static const pie_chart_outline = IoniconsData(0xedb2);
+  static const pie_chart_outline = IoniconsData(0xedca);
 
   /// pie-chart-sharp
-  static const pie_chart_sharp = IoniconsData(0xedb3);
+  static const pie_chart_sharp = IoniconsData(0xedcb);
 
   /// pie-chart
-  static const pie_chart = IoniconsData(0xedb4);
+  static const pie_chart = IoniconsData(0xedcc);
 
   /// pin-outline
-  static const pin_outline = IoniconsData(0xedb5);
+  static const pin_outline = IoniconsData(0xedcd);
 
   /// pin-sharp
-  static const pin_sharp = IoniconsData(0xedb6);
+  static const pin_sharp = IoniconsData(0xedce);
 
   /// pin
-  static const pin = IoniconsData(0xedb7);
+  static const pin = IoniconsData(0xedcf);
 
   /// pint-outline
-  static const pint_outline = IoniconsData(0xedb8);
+  static const pint_outline = IoniconsData(0xedd0);
 
   /// pint-sharp
-  static const pint_sharp = IoniconsData(0xedb9);
+  static const pint_sharp = IoniconsData(0xedd1);
 
   /// pint
-  static const pint = IoniconsData(0xedba);
+  static const pint = IoniconsData(0xedd2);
 
   /// pizza-outline
-  static const pizza_outline = IoniconsData(0xedbb);
+  static const pizza_outline = IoniconsData(0xedd3);
 
   /// pizza-sharp
-  static const pizza_sharp = IoniconsData(0xedbc);
+  static const pizza_sharp = IoniconsData(0xedd4);
 
   /// pizza
-  static const pizza = IoniconsData(0xedbd);
+  static const pizza = IoniconsData(0xedd5);
 
   /// planet-outline
-  static const planet_outline = IoniconsData(0xedbe);
+  static const planet_outline = IoniconsData(0xedd6);
 
   /// planet-sharp
-  static const planet_sharp = IoniconsData(0xedbf);
+  static const planet_sharp = IoniconsData(0xedd7);
 
   /// planet
-  static const planet = IoniconsData(0xedc0);
+  static const planet = IoniconsData(0xedd8);
 
   /// play-back-circle-outline
-  static const play_back_circle_outline = IoniconsData(0xedc1);
+  static const play_back_circle_outline = IoniconsData(0xedd9);
 
   /// play-back-circle-sharp
-  static const play_back_circle_sharp = IoniconsData(0xedc2);
+  static const play_back_circle_sharp = IoniconsData(0xedda);
 
   /// play-back-circle
-  static const play_back_circle = IoniconsData(0xedc3);
+  static const play_back_circle = IoniconsData(0xeddb);
 
   /// play-back-outline
-  static const play_back_outline = IoniconsData(0xedc4);
+  static const play_back_outline = IoniconsData(0xeddc);
 
   /// play-back-sharp
-  static const play_back_sharp = IoniconsData(0xedc5);
+  static const play_back_sharp = IoniconsData(0xeddd);
 
   /// play-back
-  static const play_back = IoniconsData(0xedc6);
+  static const play_back = IoniconsData(0xedde);
 
   /// play-circle-outline
-  static const play_circle_outline = IoniconsData(0xedc7);
+  static const play_circle_outline = IoniconsData(0xeddf);
 
   /// play-circle-sharp
-  static const play_circle_sharp = IoniconsData(0xedc8);
+  static const play_circle_sharp = IoniconsData(0xede0);
 
   /// play-circle
-  static const play_circle = IoniconsData(0xedc9);
+  static const play_circle = IoniconsData(0xede1);
 
   /// play-forward-circle-outline
-  static const play_forward_circle_outline = IoniconsData(0xedca);
+  static const play_forward_circle_outline = IoniconsData(0xede2);
 
   /// play-forward-circle-sharp
-  static const play_forward_circle_sharp = IoniconsData(0xedcb);
+  static const play_forward_circle_sharp = IoniconsData(0xede3);
 
   /// play-forward-circle
-  static const play_forward_circle = IoniconsData(0xedcc);
+  static const play_forward_circle = IoniconsData(0xede4);
 
   /// play-forward-outline
-  static const play_forward_outline = IoniconsData(0xedcd);
+  static const play_forward_outline = IoniconsData(0xede5);
 
   /// play-forward-sharp
-  static const play_forward_sharp = IoniconsData(0xedce);
+  static const play_forward_sharp = IoniconsData(0xede6);
 
   /// play-forward
-  static const play_forward = IoniconsData(0xedcf);
+  static const play_forward = IoniconsData(0xede7);
 
   /// play-outline
-  static const play_outline = IoniconsData(0xedd0);
+  static const play_outline = IoniconsData(0xede8);
 
   /// play-sharp
-  static const play_sharp = IoniconsData(0xedd1);
+  static const play_sharp = IoniconsData(0xede9);
 
   /// play-skip-back-circle-outline
-  static const play_skip_back_circle_outline = IoniconsData(0xedd2);
+  static const play_skip_back_circle_outline = IoniconsData(0xedea);
 
   /// play-skip-back-circle-sharp
-  static const play_skip_back_circle_sharp = IoniconsData(0xedd3);
+  static const play_skip_back_circle_sharp = IoniconsData(0xedeb);
 
   /// play-skip-back-circle
-  static const play_skip_back_circle = IoniconsData(0xedd4);
+  static const play_skip_back_circle = IoniconsData(0xedec);
 
   /// play-skip-back-outline
-  static const play_skip_back_outline = IoniconsData(0xedd5);
+  static const play_skip_back_outline = IoniconsData(0xeded);
 
   /// play-skip-back-sharp
-  static const play_skip_back_sharp = IoniconsData(0xedd6);
+  static const play_skip_back_sharp = IoniconsData(0xedee);
 
   /// play-skip-back
-  static const play_skip_back = IoniconsData(0xedd7);
+  static const play_skip_back = IoniconsData(0xedef);
 
   /// play-skip-forward-circle-outline
-  static const play_skip_forward_circle_outline = IoniconsData(0xedd8);
+  static const play_skip_forward_circle_outline = IoniconsData(0xedf0);
 
   /// play-skip-forward-circle-sharp
-  static const play_skip_forward_circle_sharp = IoniconsData(0xedd9);
+  static const play_skip_forward_circle_sharp = IoniconsData(0xedf1);
 
   /// play-skip-forward-circle
-  static const play_skip_forward_circle = IoniconsData(0xedda);
+  static const play_skip_forward_circle = IoniconsData(0xedf2);
 
   /// play-skip-forward-outline
-  static const play_skip_forward_outline = IoniconsData(0xeddb);
+  static const play_skip_forward_outline = IoniconsData(0xedf3);
 
   /// play-skip-forward-sharp
-  static const play_skip_forward_sharp = IoniconsData(0xeddc);
+  static const play_skip_forward_sharp = IoniconsData(0xedf4);
 
   /// play-skip-forward
-  static const play_skip_forward = IoniconsData(0xeddd);
+  static const play_skip_forward = IoniconsData(0xedf5);
 
   /// play
-  static const play = IoniconsData(0xedde);
+  static const play = IoniconsData(0xedf6);
 
   /// podium-outline
-  static const podium_outline = IoniconsData(0xeddf);
+  static const podium_outline = IoniconsData(0xedf7);
 
   /// podium-sharp
-  static const podium_sharp = IoniconsData(0xede0);
+  static const podium_sharp = IoniconsData(0xedf8);
 
   /// podium
-  static const podium = IoniconsData(0xede1);
+  static const podium = IoniconsData(0xedf9);
 
   /// power-outline
-  static const power_outline = IoniconsData(0xede2);
+  static const power_outline = IoniconsData(0xedfa);
 
   /// power-sharp
-  static const power_sharp = IoniconsData(0xede3);
+  static const power_sharp = IoniconsData(0xedfb);
 
   /// power
-  static const power = IoniconsData(0xede4);
+  static const power = IoniconsData(0xedfc);
 
   /// pricetag-outline
-  static const pricetag_outline = IoniconsData(0xede5);
+  static const pricetag_outline = IoniconsData(0xedfd);
 
   /// pricetag-sharp
-  static const pricetag_sharp = IoniconsData(0xede6);
+  static const pricetag_sharp = IoniconsData(0xedfe);
 
   /// pricetag
-  static const pricetag = IoniconsData(0xede7);
+  static const pricetag = IoniconsData(0xedff);
 
   /// pricetags-outline
-  static const pricetags_outline = IoniconsData(0xede8);
+  static const pricetags_outline = IoniconsData(0xee00);
 
   /// pricetags-sharp
-  static const pricetags_sharp = IoniconsData(0xede9);
+  static const pricetags_sharp = IoniconsData(0xee01);
 
   /// pricetags
-  static const pricetags = IoniconsData(0xedea);
+  static const pricetags = IoniconsData(0xee02);
 
   /// print-outline
-  static const print_outline = IoniconsData(0xedeb);
+  static const print_outline = IoniconsData(0xee03);
 
   /// print-sharp
-  static const print_sharp = IoniconsData(0xedec);
+  static const print_sharp = IoniconsData(0xee04);
 
   /// print
-  static const print = IoniconsData(0xeded);
+  static const print = IoniconsData(0xee05);
 
   /// prism-outline
-  static const prism_outline = IoniconsData(0xedee);
+  static const prism_outline = IoniconsData(0xee06);
 
   /// prism-sharp
-  static const prism_sharp = IoniconsData(0xedef);
+  static const prism_sharp = IoniconsData(0xee07);
 
   /// prism
-  static const prism = IoniconsData(0xedf0);
+  static const prism = IoniconsData(0xee08);
 
   /// pulse-outline
-  static const pulse_outline = IoniconsData(0xedf1);
+  static const pulse_outline = IoniconsData(0xee09);
 
   /// pulse-sharp
-  static const pulse_sharp = IoniconsData(0xedf2);
+  static const pulse_sharp = IoniconsData(0xee0a);
 
   /// pulse
-  static const pulse = IoniconsData(0xedf3);
+  static const pulse = IoniconsData(0xee0b);
 
   /// push-outline
-  static const push_outline = IoniconsData(0xedf4);
+  static const push_outline = IoniconsData(0xee0c);
 
   /// push-sharp
-  static const push_sharp = IoniconsData(0xedf5);
+  static const push_sharp = IoniconsData(0xee0d);
 
   /// push
-  static const push = IoniconsData(0xedf6);
+  static const push = IoniconsData(0xee0e);
 
   /// qr-code-outline
-  static const qr_code_outline = IoniconsData(0xedf7);
+  static const qr_code_outline = IoniconsData(0xee0f);
 
   /// qr-code-sharp
-  static const qr_code_sharp = IoniconsData(0xedf8);
+  static const qr_code_sharp = IoniconsData(0xee10);
 
   /// qr-code
-  static const qr_code = IoniconsData(0xedf9);
+  static const qr_code = IoniconsData(0xee11);
 
   /// radio-button-off-outline
-  static const radio_button_off_outline = IoniconsData(0xedfa);
+  static const radio_button_off_outline = IoniconsData(0xee12);
 
   /// radio-button-off-sharp
-  static const radio_button_off_sharp = IoniconsData(0xedfb);
+  static const radio_button_off_sharp = IoniconsData(0xee13);
 
   /// radio-button-off
-  static const radio_button_off = IoniconsData(0xedfc);
+  static const radio_button_off = IoniconsData(0xee14);
 
   /// radio-button-on-outline
-  static const radio_button_on_outline = IoniconsData(0xedfd);
+  static const radio_button_on_outline = IoniconsData(0xee15);
 
   /// radio-button-on-sharp
-  static const radio_button_on_sharp = IoniconsData(0xedfe);
+  static const radio_button_on_sharp = IoniconsData(0xee16);
 
   /// radio-button-on
-  static const radio_button_on = IoniconsData(0xedff);
+  static const radio_button_on = IoniconsData(0xee17);
 
   /// radio-outline
-  static const radio_outline = IoniconsData(0xee00);
+  static const radio_outline = IoniconsData(0xee18);
 
   /// radio-sharp
-  static const radio_sharp = IoniconsData(0xee01);
+  static const radio_sharp = IoniconsData(0xee19);
 
   /// radio
-  static const radio = IoniconsData(0xee02);
+  static const radio = IoniconsData(0xee1a);
 
   /// rainy-outline
-  static const rainy_outline = IoniconsData(0xee03);
+  static const rainy_outline = IoniconsData(0xee1b);
 
   /// rainy-sharp
-  static const rainy_sharp = IoniconsData(0xee04);
+  static const rainy_sharp = IoniconsData(0xee1c);
 
   /// rainy
-  static const rainy = IoniconsData(0xee05);
+  static const rainy = IoniconsData(0xee1d);
 
   /// reader-outline
-  static const reader_outline = IoniconsData(0xee06);
+  static const reader_outline = IoniconsData(0xee1e);
 
   /// reader-sharp
-  static const reader_sharp = IoniconsData(0xee07);
+  static const reader_sharp = IoniconsData(0xee1f);
 
   /// reader
-  static const reader = IoniconsData(0xee08);
+  static const reader = IoniconsData(0xee20);
 
   /// receipt-outline
-  static const receipt_outline = IoniconsData(0xee09);
+  static const receipt_outline = IoniconsData(0xee21);
 
   /// receipt-sharp
-  static const receipt_sharp = IoniconsData(0xee0a);
+  static const receipt_sharp = IoniconsData(0xee22);
 
   /// receipt
-  static const receipt = IoniconsData(0xee0b);
+  static const receipt = IoniconsData(0xee23);
 
   /// recording-outline
-  static const recording_outline = IoniconsData(0xee0c);
+  static const recording_outline = IoniconsData(0xee24);
 
   /// recording-sharp
-  static const recording_sharp = IoniconsData(0xee0d);
+  static const recording_sharp = IoniconsData(0xee25);
 
   /// recording
-  static const recording = IoniconsData(0xee0e);
+  static const recording = IoniconsData(0xee26);
 
   /// refresh-circle-outline
-  static const refresh_circle_outline = IoniconsData(0xee0f);
+  static const refresh_circle_outline = IoniconsData(0xee27);
 
   /// refresh-circle-sharp
-  static const refresh_circle_sharp = IoniconsData(0xee10);
+  static const refresh_circle_sharp = IoniconsData(0xee28);
 
   /// refresh-circle
-  static const refresh_circle = IoniconsData(0xee11);
+  static const refresh_circle = IoniconsData(0xee29);
 
   /// refresh-outline
-  static const refresh_outline = IoniconsData(0xee12);
+  static const refresh_outline = IoniconsData(0xee2a);
 
   /// refresh-sharp
-  static const refresh_sharp = IoniconsData(0xee13);
+  static const refresh_sharp = IoniconsData(0xee2b);
 
   /// refresh
-  static const refresh = IoniconsData(0xee14);
+  static const refresh = IoniconsData(0xee2c);
 
   /// reload-circle-outline
-  static const reload_circle_outline = IoniconsData(0xee15);
+  static const reload_circle_outline = IoniconsData(0xee2d);
 
   /// reload-circle-sharp
-  static const reload_circle_sharp = IoniconsData(0xee16);
+  static const reload_circle_sharp = IoniconsData(0xee2e);
 
   /// reload-circle
-  static const reload_circle = IoniconsData(0xee17);
+  static const reload_circle = IoniconsData(0xee2f);
 
   /// reload-outline
-  static const reload_outline = IoniconsData(0xee18);
+  static const reload_outline = IoniconsData(0xee30);
 
   /// reload-sharp
-  static const reload_sharp = IoniconsData(0xee19);
+  static const reload_sharp = IoniconsData(0xee31);
 
   /// reload
-  static const reload = IoniconsData(0xee1a);
+  static const reload = IoniconsData(0xee32);
 
   /// remove-circle-outline
-  static const remove_circle_outline = IoniconsData(0xee1b);
+  static const remove_circle_outline = IoniconsData(0xee33);
 
   /// remove-circle-sharp
-  static const remove_circle_sharp = IoniconsData(0xee1c);
+  static const remove_circle_sharp = IoniconsData(0xee34);
 
   /// remove-circle
-  static const remove_circle = IoniconsData(0xee1d);
+  static const remove_circle = IoniconsData(0xee35);
 
   /// remove-outline
-  static const remove_outline = IoniconsData(0xee1e);
+  static const remove_outline = IoniconsData(0xee36);
 
   /// remove-sharp
-  static const remove_sharp = IoniconsData(0xee1f);
+  static const remove_sharp = IoniconsData(0xee37);
 
   /// remove
-  static const remove = IoniconsData(0xee20);
+  static const remove = IoniconsData(0xee38);
 
   /// reorder-four-outline
-  static const reorder_four_outline = IoniconsData(0xee21);
+  static const reorder_four_outline = IoniconsData(0xee39);
 
   /// reorder-four-sharp
-  static const reorder_four_sharp = IoniconsData(0xee22);
+  static const reorder_four_sharp = IoniconsData(0xee3a);
 
   /// reorder-four
-  static const reorder_four = IoniconsData(0xee23);
+  static const reorder_four = IoniconsData(0xee3b);
 
   /// reorder-three-outline
-  static const reorder_three_outline = IoniconsData(0xee24);
+  static const reorder_three_outline = IoniconsData(0xee3c);
 
   /// reorder-three-sharp
-  static const reorder_three_sharp = IoniconsData(0xee25);
+  static const reorder_three_sharp = IoniconsData(0xee3d);
 
   /// reorder-three
-  static const reorder_three = IoniconsData(0xee26);
+  static const reorder_three = IoniconsData(0xee3e);
 
   /// reorder-two-outline
-  static const reorder_two_outline = IoniconsData(0xee27);
+  static const reorder_two_outline = IoniconsData(0xee3f);
 
   /// reorder-two-sharp
-  static const reorder_two_sharp = IoniconsData(0xee28);
+  static const reorder_two_sharp = IoniconsData(0xee40);
 
   /// reorder-two
-  static const reorder_two = IoniconsData(0xee29);
+  static const reorder_two = IoniconsData(0xee41);
 
   /// repeat-outline
-  static const repeat_outline = IoniconsData(0xee2a);
+  static const repeat_outline = IoniconsData(0xee42);
 
   /// repeat-sharp
-  static const repeat_sharp = IoniconsData(0xee2b);
+  static const repeat_sharp = IoniconsData(0xee43);
 
   /// repeat
-  static const repeat = IoniconsData(0xee2c);
+  static const repeat = IoniconsData(0xee44);
 
   /// resize-outline
-  static const resize_outline = IoniconsData(0xee2d);
+  static const resize_outline = IoniconsData(0xee45);
 
   /// resize-sharp
-  static const resize_sharp = IoniconsData(0xee2e);
+  static const resize_sharp = IoniconsData(0xee46);
 
   /// resize
-  static const resize = IoniconsData(0xee2f);
+  static const resize = IoniconsData(0xee47);
 
   /// restaurant-outline
-  static const restaurant_outline = IoniconsData(0xee30);
+  static const restaurant_outline = IoniconsData(0xee48);
 
   /// restaurant-sharp
-  static const restaurant_sharp = IoniconsData(0xee31);
+  static const restaurant_sharp = IoniconsData(0xee49);
 
   /// restaurant
-  static const restaurant = IoniconsData(0xee32);
+  static const restaurant = IoniconsData(0xee4a);
 
   /// return-down-back-outline
-  static const return_down_back_outline = IoniconsData(0xee33);
+  static const return_down_back_outline = IoniconsData(0xee4b);
 
   /// return-down-back-sharp
-  static const return_down_back_sharp = IoniconsData(0xee34);
+  static const return_down_back_sharp = IoniconsData(0xee4c);
 
   /// return-down-back
-  static const return_down_back = IoniconsData(0xee35);
+  static const return_down_back = IoniconsData(0xee4d);
 
   /// return-down-forward-outline
-  static const return_down_forward_outline = IoniconsData(0xee36);
+  static const return_down_forward_outline = IoniconsData(0xee4e);
 
   /// return-down-forward-sharp
-  static const return_down_forward_sharp = IoniconsData(0xee37);
+  static const return_down_forward_sharp = IoniconsData(0xee4f);
 
   /// return-down-forward
-  static const return_down_forward = IoniconsData(0xee38);
+  static const return_down_forward = IoniconsData(0xee50);
 
   /// return-up-back-outline
-  static const return_up_back_outline = IoniconsData(0xee39);
+  static const return_up_back_outline = IoniconsData(0xee51);
 
   /// return-up-back-sharp
-  static const return_up_back_sharp = IoniconsData(0xee3a);
+  static const return_up_back_sharp = IoniconsData(0xee52);
 
   /// return-up-back
-  static const return_up_back = IoniconsData(0xee3b);
+  static const return_up_back = IoniconsData(0xee53);
 
   /// return-up-forward-outline
-  static const return_up_forward_outline = IoniconsData(0xee3c);
+  static const return_up_forward_outline = IoniconsData(0xee54);
 
   /// return-up-forward-sharp
-  static const return_up_forward_sharp = IoniconsData(0xee3d);
+  static const return_up_forward_sharp = IoniconsData(0xee55);
 
   /// return-up-forward
-  static const return_up_forward = IoniconsData(0xee3e);
+  static const return_up_forward = IoniconsData(0xee56);
 
   /// ribbon-outline
-  static const ribbon_outline = IoniconsData(0xee3f);
+  static const ribbon_outline = IoniconsData(0xee57);
 
   /// ribbon-sharp
-  static const ribbon_sharp = IoniconsData(0xee40);
+  static const ribbon_sharp = IoniconsData(0xee58);
 
   /// ribbon
-  static const ribbon = IoniconsData(0xee41);
+  static const ribbon = IoniconsData(0xee59);
 
   /// rocket-outline
-  static const rocket_outline = IoniconsData(0xee42);
+  static const rocket_outline = IoniconsData(0xee5a);
 
   /// rocket-sharp
-  static const rocket_sharp = IoniconsData(0xee43);
+  static const rocket_sharp = IoniconsData(0xee5b);
 
   /// rocket
-  static const rocket = IoniconsData(0xee44);
+  static const rocket = IoniconsData(0xee5c);
 
   /// rose-outline
-  static const rose_outline = IoniconsData(0xee45);
+  static const rose_outline = IoniconsData(0xee5d);
 
   /// rose-sharp
-  static const rose_sharp = IoniconsData(0xee46);
+  static const rose_sharp = IoniconsData(0xee5e);
 
   /// rose
-  static const rose = IoniconsData(0xee47);
+  static const rose = IoniconsData(0xee5f);
 
   /// sad-outline
-  static const sad_outline = IoniconsData(0xee48);
+  static const sad_outline = IoniconsData(0xee60);
 
   /// sad-sharp
-  static const sad_sharp = IoniconsData(0xee49);
+  static const sad_sharp = IoniconsData(0xee61);
 
   /// sad
-  static const sad = IoniconsData(0xee4a);
+  static const sad = IoniconsData(0xee62);
 
   /// save-outline
-  static const save_outline = IoniconsData(0xee4b);
+  static const save_outline = IoniconsData(0xee63);
 
   /// save-sharp
-  static const save_sharp = IoniconsData(0xee4c);
+  static const save_sharp = IoniconsData(0xee64);
 
   /// save
-  static const save = IoniconsData(0xee4d);
+  static const save = IoniconsData(0xee65);
 
   /// scale-outline
-  static const scale_outline = IoniconsData(0xee4e);
+  static const scale_outline = IoniconsData(0xee66);
 
   /// scale-sharp
-  static const scale_sharp = IoniconsData(0xee4f);
+  static const scale_sharp = IoniconsData(0xee67);
 
   /// scale
-  static const scale = IoniconsData(0xee50);
+  static const scale = IoniconsData(0xee68);
 
   /// scan-circle-outline
-  static const scan_circle_outline = IoniconsData(0xee51);
+  static const scan_circle_outline = IoniconsData(0xee69);
 
   /// scan-circle-sharp
-  static const scan_circle_sharp = IoniconsData(0xee52);
+  static const scan_circle_sharp = IoniconsData(0xee6a);
 
   /// scan-circle
-  static const scan_circle = IoniconsData(0xee53);
+  static const scan_circle = IoniconsData(0xee6b);
 
   /// scan-outline
-  static const scan_outline = IoniconsData(0xee54);
+  static const scan_outline = IoniconsData(0xee6c);
 
   /// scan-sharp
-  static const scan_sharp = IoniconsData(0xee55);
+  static const scan_sharp = IoniconsData(0xee6d);
 
   /// scan
-  static const scan = IoniconsData(0xee56);
+  static const scan = IoniconsData(0xee6e);
 
   /// school-outline
-  static const school_outline = IoniconsData(0xee57);
+  static const school_outline = IoniconsData(0xee6f);
 
   /// school-sharp
-  static const school_sharp = IoniconsData(0xee58);
+  static const school_sharp = IoniconsData(0xee70);
 
   /// school
-  static const school = IoniconsData(0xee59);
+  static const school = IoniconsData(0xee71);
 
   /// search-circle-outline
-  static const search_circle_outline = IoniconsData(0xee5a);
+  static const search_circle_outline = IoniconsData(0xee72);
 
   /// search-circle-sharp
-  static const search_circle_sharp = IoniconsData(0xee5b);
+  static const search_circle_sharp = IoniconsData(0xee73);
 
   /// search-circle
-  static const search_circle = IoniconsData(0xee5c);
+  static const search_circle = IoniconsData(0xee74);
 
   /// search-outline
-  static const search_outline = IoniconsData(0xee5d);
+  static const search_outline = IoniconsData(0xee75);
 
   /// search-sharp
-  static const search_sharp = IoniconsData(0xee5e);
+  static const search_sharp = IoniconsData(0xee76);
 
   /// search
-  static const search = IoniconsData(0xee5f);
+  static const search = IoniconsData(0xee77);
 
   /// send-outline
-  static const send_outline = IoniconsData(0xee60);
+  static const send_outline = IoniconsData(0xee78);
 
   /// send-sharp
-  static const send_sharp = IoniconsData(0xee61);
+  static const send_sharp = IoniconsData(0xee79);
 
   /// send
-  static const send = IoniconsData(0xee62);
+  static const send = IoniconsData(0xee7a);
 
   /// server-outline
-  static const server_outline = IoniconsData(0xee63);
+  static const server_outline = IoniconsData(0xee7b);
 
   /// server-sharp
-  static const server_sharp = IoniconsData(0xee64);
+  static const server_sharp = IoniconsData(0xee7c);
 
   /// server
-  static const server = IoniconsData(0xee65);
+  static const server = IoniconsData(0xee7d);
 
   /// settings-outline
-  static const settings_outline = IoniconsData(0xee66);
+  static const settings_outline = IoniconsData(0xee7e);
 
   /// settings-sharp
-  static const settings_sharp = IoniconsData(0xee67);
+  static const settings_sharp = IoniconsData(0xee7f);
 
   /// settings
-  static const settings = IoniconsData(0xee68);
+  static const settings = IoniconsData(0xee80);
 
   /// shapes-outline
-  static const shapes_outline = IoniconsData(0xee69);
+  static const shapes_outline = IoniconsData(0xee81);
 
   /// shapes-sharp
-  static const shapes_sharp = IoniconsData(0xee6a);
+  static const shapes_sharp = IoniconsData(0xee82);
 
   /// shapes
-  static const shapes = IoniconsData(0xee6b);
+  static const shapes = IoniconsData(0xee83);
 
   /// share-outline
-  static const share_outline = IoniconsData(0xee6c);
+  static const share_outline = IoniconsData(0xee84);
 
   /// share-sharp
-  static const share_sharp = IoniconsData(0xee6d);
+  static const share_sharp = IoniconsData(0xee85);
 
   /// share-social-outline
-  static const share_social_outline = IoniconsData(0xee6e);
+  static const share_social_outline = IoniconsData(0xee86);
 
   /// share-social-sharp
-  static const share_social_sharp = IoniconsData(0xee6f);
+  static const share_social_sharp = IoniconsData(0xee87);
 
   /// share-social
-  static const share_social = IoniconsData(0xee70);
+  static const share_social = IoniconsData(0xee88);
 
   /// share
-  static const share = IoniconsData(0xee71);
+  static const share = IoniconsData(0xee89);
 
   /// shield-checkmark-outline
-  static const shield_checkmark_outline = IoniconsData(0xee72);
+  static const shield_checkmark_outline = IoniconsData(0xee8a);
 
   /// shield-checkmark-sharp
-  static const shield_checkmark_sharp = IoniconsData(0xee73);
+  static const shield_checkmark_sharp = IoniconsData(0xee8b);
 
   /// shield-checkmark
-  static const shield_checkmark = IoniconsData(0xee74);
+  static const shield_checkmark = IoniconsData(0xee8c);
 
   /// shield-half-outline
-  static const shield_half_outline = IoniconsData(0xee75);
+  static const shield_half_outline = IoniconsData(0xee8d);
 
   /// shield-half-sharp
-  static const shield_half_sharp = IoniconsData(0xee76);
+  static const shield_half_sharp = IoniconsData(0xee8e);
 
   /// shield-half
-  static const shield_half = IoniconsData(0xee77);
+  static const shield_half = IoniconsData(0xee8f);
 
   /// shield-outline
-  static const shield_outline = IoniconsData(0xee78);
+  static const shield_outline = IoniconsData(0xee90);
 
   /// shield-sharp
-  static const shield_sharp = IoniconsData(0xee79);
+  static const shield_sharp = IoniconsData(0xee91);
 
   /// shield
-  static const shield = IoniconsData(0xee7a);
+  static const shield = IoniconsData(0xee92);
 
   /// shirt-outline
-  static const shirt_outline = IoniconsData(0xee7b);
+  static const shirt_outline = IoniconsData(0xee93);
 
   /// shirt-sharp
-  static const shirt_sharp = IoniconsData(0xee7c);
+  static const shirt_sharp = IoniconsData(0xee94);
 
   /// shirt
-  static const shirt = IoniconsData(0xee7d);
+  static const shirt = IoniconsData(0xee95);
 
   /// shuffle-outline
-  static const shuffle_outline = IoniconsData(0xee7e);
+  static const shuffle_outline = IoniconsData(0xee96);
 
   /// shuffle-sharp
-  static const shuffle_sharp = IoniconsData(0xee7f);
+  static const shuffle_sharp = IoniconsData(0xee97);
 
   /// shuffle
-  static const shuffle = IoniconsData(0xee80);
+  static const shuffle = IoniconsData(0xee98);
 
   /// skull-outline
-  static const skull_outline = IoniconsData(0xee81);
+  static const skull_outline = IoniconsData(0xee99);
 
   /// skull-sharp
-  static const skull_sharp = IoniconsData(0xee82);
+  static const skull_sharp = IoniconsData(0xee9a);
 
   /// skull
-  static const skull = IoniconsData(0xee83);
+  static const skull = IoniconsData(0xee9b);
 
   /// snow-outline
-  static const snow_outline = IoniconsData(0xee84);
+  static const snow_outline = IoniconsData(0xee9c);
 
   /// snow-sharp
-  static const snow_sharp = IoniconsData(0xee85);
+  static const snow_sharp = IoniconsData(0xee9d);
 
   /// snow
-  static const snow = IoniconsData(0xee86);
+  static const snow = IoniconsData(0xee9e);
 
   /// sparkles-outline
-  static const sparkles_outline = IoniconsData(0xee87);
+  static const sparkles_outline = IoniconsData(0xee9f);
 
   /// sparkles-sharp
-  static const sparkles_sharp = IoniconsData(0xee88);
+  static const sparkles_sharp = IoniconsData(0xeea0);
 
   /// sparkles
-  static const sparkles = IoniconsData(0xee89);
+  static const sparkles = IoniconsData(0xeea1);
 
   /// speedometer-outline
-  static const speedometer_outline = IoniconsData(0xee8a);
+  static const speedometer_outline = IoniconsData(0xeea2);
 
   /// speedometer-sharp
-  static const speedometer_sharp = IoniconsData(0xee8b);
+  static const speedometer_sharp = IoniconsData(0xeea3);
 
   /// speedometer
-  static const speedometer = IoniconsData(0xee8c);
+  static const speedometer = IoniconsData(0xeea4);
 
   /// square-outline
-  static const square_outline = IoniconsData(0xee8d);
+  static const square_outline = IoniconsData(0xeea5);
 
   /// square-sharp
-  static const square_sharp = IoniconsData(0xee8e);
+  static const square_sharp = IoniconsData(0xeea6);
 
   /// square
-  static const square = IoniconsData(0xee8f);
+  static const square = IoniconsData(0xeea7);
 
   /// star-half-outline
-  static const star_half_outline = IoniconsData(0xee90);
+  static const star_half_outline = IoniconsData(0xeea8);
 
   /// star-half-sharp
-  static const star_half_sharp = IoniconsData(0xee91);
+  static const star_half_sharp = IoniconsData(0xeea9);
 
   /// star-half
-  static const star_half = IoniconsData(0xee92);
+  static const star_half = IoniconsData(0xeeaa);
 
   /// star-outline
-  static const star_outline = IoniconsData(0xee93);
+  static const star_outline = IoniconsData(0xeeab);
 
   /// star-sharp
-  static const star_sharp = IoniconsData(0xee94);
+  static const star_sharp = IoniconsData(0xeeac);
 
   /// star
-  static const star = IoniconsData(0xee95);
+  static const star = IoniconsData(0xeead);
 
   /// stats-chart-outline
-  static const stats_chart_outline = IoniconsData(0xee96);
+  static const stats_chart_outline = IoniconsData(0xeeae);
 
   /// stats-chart-sharp
-  static const stats_chart_sharp = IoniconsData(0xee97);
+  static const stats_chart_sharp = IoniconsData(0xeeaf);
 
   /// stats-chart
-  static const stats_chart = IoniconsData(0xee98);
+  static const stats_chart = IoniconsData(0xeeb0);
 
   /// stop-circle-outline
-  static const stop_circle_outline = IoniconsData(0xee99);
+  static const stop_circle_outline = IoniconsData(0xeeb1);
 
   /// stop-circle-sharp
-  static const stop_circle_sharp = IoniconsData(0xee9a);
+  static const stop_circle_sharp = IoniconsData(0xeeb2);
 
   /// stop-circle
-  static const stop_circle = IoniconsData(0xee9b);
+  static const stop_circle = IoniconsData(0xeeb3);
 
   /// stop-outline
-  static const stop_outline = IoniconsData(0xee9c);
+  static const stop_outline = IoniconsData(0xeeb4);
 
   /// stop-sharp
-  static const stop_sharp = IoniconsData(0xee9d);
+  static const stop_sharp = IoniconsData(0xeeb5);
 
   /// stop
-  static const stop = IoniconsData(0xee9e);
+  static const stop = IoniconsData(0xeeb6);
 
   /// stopwatch-outline
-  static const stopwatch_outline = IoniconsData(0xee9f);
+  static const stopwatch_outline = IoniconsData(0xeeb7);
 
   /// stopwatch-sharp
-  static const stopwatch_sharp = IoniconsData(0xeea0);
+  static const stopwatch_sharp = IoniconsData(0xeeb8);
 
   /// stopwatch
-  static const stopwatch = IoniconsData(0xeea1);
+  static const stopwatch = IoniconsData(0xeeb9);
 
   /// storefront-outline
-  static const storefront_outline = IoniconsData(0xeea2);
+  static const storefront_outline = IoniconsData(0xeeba);
 
   /// storefront-sharp
-  static const storefront_sharp = IoniconsData(0xeea3);
+  static const storefront_sharp = IoniconsData(0xeebb);
 
   /// storefront
-  static const storefront = IoniconsData(0xeea4);
+  static const storefront = IoniconsData(0xeebc);
 
   /// subway-outline
-  static const subway_outline = IoniconsData(0xeea5);
+  static const subway_outline = IoniconsData(0xeebd);
 
   /// subway-sharp
-  static const subway_sharp = IoniconsData(0xeea6);
+  static const subway_sharp = IoniconsData(0xeebe);
 
   /// subway
-  static const subway = IoniconsData(0xeea7);
+  static const subway = IoniconsData(0xeebf);
 
   /// sunny-outline
-  static const sunny_outline = IoniconsData(0xeea8);
+  static const sunny_outline = IoniconsData(0xeec0);
 
   /// sunny-sharp
-  static const sunny_sharp = IoniconsData(0xeea9);
+  static const sunny_sharp = IoniconsData(0xeec1);
 
   /// sunny
-  static const sunny = IoniconsData(0xeeaa);
+  static const sunny = IoniconsData(0xeec2);
 
   /// swap-horizontal-outline
-  static const swap_horizontal_outline = IoniconsData(0xeeab);
+  static const swap_horizontal_outline = IoniconsData(0xeec3);
 
   /// swap-horizontal-sharp
-  static const swap_horizontal_sharp = IoniconsData(0xeeac);
+  static const swap_horizontal_sharp = IoniconsData(0xeec4);
 
   /// swap-horizontal
-  static const swap_horizontal = IoniconsData(0xeead);
+  static const swap_horizontal = IoniconsData(0xeec5);
 
   /// swap-vertical-outline
-  static const swap_vertical_outline = IoniconsData(0xeeae);
+  static const swap_vertical_outline = IoniconsData(0xeec6);
 
   /// swap-vertical-sharp
-  static const swap_vertical_sharp = IoniconsData(0xeeaf);
+  static const swap_vertical_sharp = IoniconsData(0xeec7);
 
   /// swap-vertical
-  static const swap_vertical = IoniconsData(0xeeb0);
+  static const swap_vertical = IoniconsData(0xeec8);
 
   /// sync-circle-outline
-  static const sync_circle_outline = IoniconsData(0xeeb1);
+  static const sync_circle_outline = IoniconsData(0xeec9);
 
   /// sync-circle-sharp
-  static const sync_circle_sharp = IoniconsData(0xeeb2);
+  static const sync_circle_sharp = IoniconsData(0xeeca);
 
   /// sync-circle
-  static const sync_circle = IoniconsData(0xeeb3);
+  static const sync_circle = IoniconsData(0xeecb);
 
   /// sync-outline
-  static const sync_outline = IoniconsData(0xeeb4);
+  static const sync_outline = IoniconsData(0xeecc);
 
   /// sync-sharp
-  static const sync_sharp = IoniconsData(0xeeb5);
+  static const sync_sharp = IoniconsData(0xeecd);
 
   /// sync
-  static const sync = IoniconsData(0xeeb6);
+  static const sync = IoniconsData(0xeece);
 
   /// tablet-landscape-outline
-  static const tablet_landscape_outline = IoniconsData(0xeeb7);
+  static const tablet_landscape_outline = IoniconsData(0xeecf);
 
   /// tablet-landscape-sharp
-  static const tablet_landscape_sharp = IoniconsData(0xeeb8);
+  static const tablet_landscape_sharp = IoniconsData(0xeed0);
 
   /// tablet-landscape
-  static const tablet_landscape = IoniconsData(0xeeb9);
+  static const tablet_landscape = IoniconsData(0xeed1);
 
   /// tablet-portrait-outline
-  static const tablet_portrait_outline = IoniconsData(0xeeba);
+  static const tablet_portrait_outline = IoniconsData(0xeed2);
 
   /// tablet-portrait-sharp
-  static const tablet_portrait_sharp = IoniconsData(0xeebb);
+  static const tablet_portrait_sharp = IoniconsData(0xeed3);
 
   /// tablet-portrait
-  static const tablet_portrait = IoniconsData(0xeebc);
+  static const tablet_portrait = IoniconsData(0xeed4);
 
   /// telescope-outline
-  static const telescope_outline = IoniconsData(0xeebd);
+  static const telescope_outline = IoniconsData(0xeed5);
 
   /// telescope-sharp
-  static const telescope_sharp = IoniconsData(0xeebe);
+  static const telescope_sharp = IoniconsData(0xeed6);
 
   /// telescope
-  static const telescope = IoniconsData(0xeebf);
+  static const telescope = IoniconsData(0xeed7);
 
   /// tennisball-outline
-  static const tennisball_outline = IoniconsData(0xeec0);
+  static const tennisball_outline = IoniconsData(0xeed8);
 
   /// tennisball-sharp
-  static const tennisball_sharp = IoniconsData(0xeec1);
+  static const tennisball_sharp = IoniconsData(0xeed9);
 
   /// tennisball
-  static const tennisball = IoniconsData(0xeec2);
+  static const tennisball = IoniconsData(0xeeda);
 
   /// terminal-outline
-  static const terminal_outline = IoniconsData(0xeec3);
+  static const terminal_outline = IoniconsData(0xeedb);
 
   /// terminal-sharp
-  static const terminal_sharp = IoniconsData(0xeec4);
+  static const terminal_sharp = IoniconsData(0xeedc);
 
   /// terminal
-  static const terminal = IoniconsData(0xeec5);
+  static const terminal = IoniconsData(0xeedd);
 
   /// text-outline
-  static const text_outline = IoniconsData(0xeec6);
+  static const text_outline = IoniconsData(0xeede);
 
   /// text-sharp
-  static const text_sharp = IoniconsData(0xeec7);
+  static const text_sharp = IoniconsData(0xeedf);
 
   /// text
-  static const text = IoniconsData(0xeec8);
+  static const text = IoniconsData(0xeee0);
 
   /// thermometer-outline
-  static const thermometer_outline = IoniconsData(0xeec9);
+  static const thermometer_outline = IoniconsData(0xeee1);
 
   /// thermometer-sharp
-  static const thermometer_sharp = IoniconsData(0xeeca);
+  static const thermometer_sharp = IoniconsData(0xeee2);
 
   /// thermometer
-  static const thermometer = IoniconsData(0xeecb);
+  static const thermometer = IoniconsData(0xeee3);
 
   /// thumbs-down-outline
-  static const thumbs_down_outline = IoniconsData(0xeecc);
+  static const thumbs_down_outline = IoniconsData(0xeee4);
 
   /// thumbs-down-sharp
-  static const thumbs_down_sharp = IoniconsData(0xeecd);
+  static const thumbs_down_sharp = IoniconsData(0xeee5);
 
   /// thumbs-down
-  static const thumbs_down = IoniconsData(0xeece);
+  static const thumbs_down = IoniconsData(0xeee6);
 
   /// thumbs-up-outline
-  static const thumbs_up_outline = IoniconsData(0xeecf);
+  static const thumbs_up_outline = IoniconsData(0xeee7);
 
   /// thumbs-up-sharp
-  static const thumbs_up_sharp = IoniconsData(0xeed0);
+  static const thumbs_up_sharp = IoniconsData(0xeee8);
 
   /// thumbs-up
-  static const thumbs_up = IoniconsData(0xeed1);
+  static const thumbs_up = IoniconsData(0xeee9);
 
   /// thunderstorm-outline
-  static const thunderstorm_outline = IoniconsData(0xeed2);
+  static const thunderstorm_outline = IoniconsData(0xeeea);
 
   /// thunderstorm-sharp
-  static const thunderstorm_sharp = IoniconsData(0xeed3);
+  static const thunderstorm_sharp = IoniconsData(0xeeeb);
 
   /// thunderstorm
-  static const thunderstorm = IoniconsData(0xeed4);
+  static const thunderstorm = IoniconsData(0xeeec);
 
   /// ticket-outline
-  static const ticket_outline = IoniconsData(0xeed5);
+  static const ticket_outline = IoniconsData(0xeeed);
 
   /// ticket-sharp
-  static const ticket_sharp = IoniconsData(0xeed6);
+  static const ticket_sharp = IoniconsData(0xeeee);
 
   /// ticket
-  static const ticket = IoniconsData(0xeed7);
+  static const ticket = IoniconsData(0xeeef);
 
   /// time-outline
-  static const time_outline = IoniconsData(0xeed8);
+  static const time_outline = IoniconsData(0xeef0);
 
   /// time-sharp
-  static const time_sharp = IoniconsData(0xeed9);
+  static const time_sharp = IoniconsData(0xeef1);
 
   /// time
-  static const time = IoniconsData(0xeeda);
+  static const time = IoniconsData(0xeef2);
 
   /// timer-outline
-  static const timer_outline = IoniconsData(0xeedb);
+  static const timer_outline = IoniconsData(0xeef3);
 
   /// timer-sharp
-  static const timer_sharp = IoniconsData(0xeedc);
+  static const timer_sharp = IoniconsData(0xeef4);
 
   /// timer
-  static const timer = IoniconsData(0xeedd);
+  static const timer = IoniconsData(0xeef5);
 
   /// today-outline
-  static const today_outline = IoniconsData(0xeede);
+  static const today_outline = IoniconsData(0xeef6);
 
   /// today-sharp
-  static const today_sharp = IoniconsData(0xeedf);
+  static const today_sharp = IoniconsData(0xeef7);
 
   /// today
-  static const today = IoniconsData(0xeee0);
+  static const today = IoniconsData(0xeef8);
 
   /// toggle-outline
-  static const toggle_outline = IoniconsData(0xeee1);
+  static const toggle_outline = IoniconsData(0xeef9);
 
   /// toggle-sharp
-  static const toggle_sharp = IoniconsData(0xeee2);
+  static const toggle_sharp = IoniconsData(0xeefa);
 
   /// toggle
-  static const toggle = IoniconsData(0xeee3);
+  static const toggle = IoniconsData(0xeefb);
 
   /// trail-sign-outline
-  static const trail_sign_outline = IoniconsData(0xeee4);
+  static const trail_sign_outline = IoniconsData(0xeefc);
 
   /// trail-sign-sharp
-  static const trail_sign_sharp = IoniconsData(0xeee5);
+  static const trail_sign_sharp = IoniconsData(0xeefd);
 
   /// trail-sign
-  static const trail_sign = IoniconsData(0xeee6);
+  static const trail_sign = IoniconsData(0xeefe);
 
   /// train-outline
-  static const train_outline = IoniconsData(0xeee7);
+  static const train_outline = IoniconsData(0xeeff);
 
   /// train-sharp
-  static const train_sharp = IoniconsData(0xeee8);
+  static const train_sharp = IoniconsData(0xef00);
 
   /// train
-  static const train = IoniconsData(0xeee9);
+  static const train = IoniconsData(0xef01);
 
   /// transgender-outline
-  static const transgender_outline = IoniconsData(0xeeea);
+  static const transgender_outline = IoniconsData(0xef02);
 
   /// transgender-sharp
-  static const transgender_sharp = IoniconsData(0xeeeb);
+  static const transgender_sharp = IoniconsData(0xef03);
 
   /// transgender
-  static const transgender = IoniconsData(0xeeec);
+  static const transgender = IoniconsData(0xef04);
 
   /// trash-bin-outline
-  static const trash_bin_outline = IoniconsData(0xeeed);
+  static const trash_bin_outline = IoniconsData(0xef05);
 
   /// trash-bin-sharp
-  static const trash_bin_sharp = IoniconsData(0xeeee);
+  static const trash_bin_sharp = IoniconsData(0xef06);
 
   /// trash-bin
-  static const trash_bin = IoniconsData(0xeeef);
+  static const trash_bin = IoniconsData(0xef07);
 
   /// trash-outline
-  static const trash_outline = IoniconsData(0xeef0);
+  static const trash_outline = IoniconsData(0xef08);
 
   /// trash-sharp
-  static const trash_sharp = IoniconsData(0xeef1);
+  static const trash_sharp = IoniconsData(0xef09);
 
   /// trash
-  static const trash = IoniconsData(0xeef2);
+  static const trash = IoniconsData(0xef0a);
 
   /// trending-down-outline
-  static const trending_down_outline = IoniconsData(0xeef3);
+  static const trending_down_outline = IoniconsData(0xef0b);
 
   /// trending-down-sharp
-  static const trending_down_sharp = IoniconsData(0xeef4);
+  static const trending_down_sharp = IoniconsData(0xef0c);
 
   /// trending-down
-  static const trending_down = IoniconsData(0xeef5);
+  static const trending_down = IoniconsData(0xef0d);
 
   /// trending-up-outline
-  static const trending_up_outline = IoniconsData(0xeef6);
+  static const trending_up_outline = IoniconsData(0xef0e);
 
   /// trending-up-sharp
-  static const trending_up_sharp = IoniconsData(0xeef7);
+  static const trending_up_sharp = IoniconsData(0xef0f);
 
   /// trending-up
-  static const trending_up = IoniconsData(0xeef8);
+  static const trending_up = IoniconsData(0xef10);
 
   /// triangle-outline
-  static const triangle_outline = IoniconsData(0xeef9);
+  static const triangle_outline = IoniconsData(0xef11);
 
   /// triangle-sharp
-  static const triangle_sharp = IoniconsData(0xeefa);
+  static const triangle_sharp = IoniconsData(0xef12);
 
   /// triangle
-  static const triangle = IoniconsData(0xeefb);
+  static const triangle = IoniconsData(0xef13);
 
   /// trophy-outline
-  static const trophy_outline = IoniconsData(0xeefc);
+  static const trophy_outline = IoniconsData(0xef14);
 
   /// trophy-sharp
-  static const trophy_sharp = IoniconsData(0xeefd);
+  static const trophy_sharp = IoniconsData(0xef15);
 
   /// trophy
-  static const trophy = IoniconsData(0xeefe);
+  static const trophy = IoniconsData(0xef16);
 
   /// tv-outline
-  static const tv_outline = IoniconsData(0xeeff);
+  static const tv_outline = IoniconsData(0xef17);
 
   /// tv-sharp
-  static const tv_sharp = IoniconsData(0xef00);
+  static const tv_sharp = IoniconsData(0xef18);
 
   /// tv
-  static const tv = IoniconsData(0xef01);
+  static const tv = IoniconsData(0xef19);
 
   /// umbrella-outline
-  static const umbrella_outline = IoniconsData(0xef02);
+  static const umbrella_outline = IoniconsData(0xef1a);
 
   /// umbrella-sharp
-  static const umbrella_sharp = IoniconsData(0xef03);
+  static const umbrella_sharp = IoniconsData(0xef1b);
 
   /// umbrella
-  static const umbrella = IoniconsData(0xef04);
+  static const umbrella = IoniconsData(0xef1c);
 
   /// unlink-outline
-  static const unlink_outline = IoniconsData(0xef05);
+  static const unlink_outline = IoniconsData(0xef1d);
 
   /// unlink-sharp
-  static const unlink_sharp = IoniconsData(0xef06);
+  static const unlink_sharp = IoniconsData(0xef1e);
 
   /// unlink
-  static const unlink = IoniconsData(0xef07);
+  static const unlink = IoniconsData(0xef1f);
 
   /// videocam-off-outline
-  static const videocam_off_outline = IoniconsData(0xef08);
+  static const videocam_off_outline = IoniconsData(0xef20);
 
   /// videocam-off-sharp
-  static const videocam_off_sharp = IoniconsData(0xef09);
+  static const videocam_off_sharp = IoniconsData(0xef21);
 
   /// videocam-off
-  static const videocam_off = IoniconsData(0xef0a);
+  static const videocam_off = IoniconsData(0xef22);
 
   /// videocam-outline
-  static const videocam_outline = IoniconsData(0xef0b);
+  static const videocam_outline = IoniconsData(0xef23);
 
   /// videocam-sharp
-  static const videocam_sharp = IoniconsData(0xef0c);
+  static const videocam_sharp = IoniconsData(0xef24);
 
   /// videocam
-  static const videocam = IoniconsData(0xef0d);
+  static const videocam = IoniconsData(0xef25);
 
   /// volume-high-outline
-  static const volume_high_outline = IoniconsData(0xef0e);
+  static const volume_high_outline = IoniconsData(0xef26);
 
   /// volume-high-sharp
-  static const volume_high_sharp = IoniconsData(0xef0f);
+  static const volume_high_sharp = IoniconsData(0xef27);
 
   /// volume-high
-  static const volume_high = IoniconsData(0xef10);
+  static const volume_high = IoniconsData(0xef28);
 
   /// volume-low-outline
-  static const volume_low_outline = IoniconsData(0xef11);
+  static const volume_low_outline = IoniconsData(0xef29);
 
   /// volume-low-sharp
-  static const volume_low_sharp = IoniconsData(0xef12);
+  static const volume_low_sharp = IoniconsData(0xef2a);
 
   /// volume-low
-  static const volume_low = IoniconsData(0xef13);
+  static const volume_low = IoniconsData(0xef2b);
 
   /// volume-medium-outline
-  static const volume_medium_outline = IoniconsData(0xef14);
+  static const volume_medium_outline = IoniconsData(0xef2c);
 
   /// volume-medium-sharp
-  static const volume_medium_sharp = IoniconsData(0xef15);
+  static const volume_medium_sharp = IoniconsData(0xef2d);
 
   /// volume-medium
-  static const volume_medium = IoniconsData(0xef16);
+  static const volume_medium = IoniconsData(0xef2e);
 
   /// volume-mute-outline
-  static const volume_mute_outline = IoniconsData(0xef17);
+  static const volume_mute_outline = IoniconsData(0xef2f);
 
   /// volume-mute-sharp
-  static const volume_mute_sharp = IoniconsData(0xef18);
+  static const volume_mute_sharp = IoniconsData(0xef30);
 
   /// volume-mute
-  static const volume_mute = IoniconsData(0xef19);
+  static const volume_mute = IoniconsData(0xef31);
 
   /// volume-off-outline
-  static const volume_off_outline = IoniconsData(0xef1a);
+  static const volume_off_outline = IoniconsData(0xef32);
 
   /// volume-off-sharp
-  static const volume_off_sharp = IoniconsData(0xef1b);
+  static const volume_off_sharp = IoniconsData(0xef33);
 
   /// volume-off
-  static const volume_off = IoniconsData(0xef1c);
+  static const volume_off = IoniconsData(0xef34);
 
   /// walk-outline
-  static const walk_outline = IoniconsData(0xef1d);
+  static const walk_outline = IoniconsData(0xef35);
 
   /// walk-sharp
-  static const walk_sharp = IoniconsData(0xef1e);
+  static const walk_sharp = IoniconsData(0xef36);
 
   /// walk
-  static const walk = IoniconsData(0xef1f);
+  static const walk = IoniconsData(0xef37);
 
   /// wallet-outline
-  static const wallet_outline = IoniconsData(0xef20);
+  static const wallet_outline = IoniconsData(0xef38);
 
   /// wallet-sharp
-  static const wallet_sharp = IoniconsData(0xef21);
+  static const wallet_sharp = IoniconsData(0xef39);
 
   /// wallet
-  static const wallet = IoniconsData(0xef22);
+  static const wallet = IoniconsData(0xef3a);
 
   /// warning-outline
-  static const warning_outline = IoniconsData(0xef23);
+  static const warning_outline = IoniconsData(0xef3b);
 
   /// warning-sharp
-  static const warning_sharp = IoniconsData(0xef24);
+  static const warning_sharp = IoniconsData(0xef3c);
 
   /// warning
-  static const warning = IoniconsData(0xef25);
+  static const warning = IoniconsData(0xef3d);
 
   /// watch-outline
-  static const watch_outline = IoniconsData(0xef26);
+  static const watch_outline = IoniconsData(0xef3e);
 
   /// watch-sharp
-  static const watch_sharp = IoniconsData(0xef27);
+  static const watch_sharp = IoniconsData(0xef3f);
 
   /// watch
-  static const watch = IoniconsData(0xef28);
+  static const watch = IoniconsData(0xef40);
 
   /// water-outline
-  static const water_outline = IoniconsData(0xef29);
+  static const water_outline = IoniconsData(0xef41);
 
   /// water-sharp
-  static const water_sharp = IoniconsData(0xef2a);
+  static const water_sharp = IoniconsData(0xef42);
 
   /// water
-  static const water = IoniconsData(0xef2b);
+  static const water = IoniconsData(0xef43);
 
   /// wifi-outline
-  static const wifi_outline = IoniconsData(0xef2c);
+  static const wifi_outline = IoniconsData(0xef44);
 
   /// wifi-sharp
-  static const wifi_sharp = IoniconsData(0xef2d);
+  static const wifi_sharp = IoniconsData(0xef45);
 
   /// wifi
-  static const wifi = IoniconsData(0xef2e);
+  static const wifi = IoniconsData(0xef46);
 
   /// wine-outline
-  static const wine_outline = IoniconsData(0xef2f);
+  static const wine_outline = IoniconsData(0xef47);
 
   /// wine-sharp
-  static const wine_sharp = IoniconsData(0xef30);
+  static const wine_sharp = IoniconsData(0xef48);
 
   /// wine
-  static const wine = IoniconsData(0xef31);
+  static const wine = IoniconsData(0xef49);
 
   /// woman-outline
-  static const woman_outline = IoniconsData(0xef32);
+  static const woman_outline = IoniconsData(0xef4a);
 
   /// woman-sharp
-  static const woman_sharp = IoniconsData(0xef33);
+  static const woman_sharp = IoniconsData(0xef4b);
 
   /// woman
-  static const woman = IoniconsData(0xef34);
+  static const woman = IoniconsData(0xef4c);
 }
 
 const ioniconsMapping = {
@@ -4058,1288 +4130,1312 @@ const ioniconsMapping = {
   "arrow-down-circle-outline": "0xea2e",
   "arrow-down-circle-sharp": "0xea2f",
   "arrow-down-circle": "0xea30",
-  "arrow-down-outline": "0xea31",
-  "arrow-down-sharp": "0xea32",
-  "arrow-down": "0xea33",
-  "arrow-forward-circle-outline": "0xea34",
-  "arrow-forward-circle-sharp": "0xea35",
-  "arrow-forward-circle": "0xea36",
-  "arrow-forward-outline": "0xea37",
-  "arrow-forward-sharp": "0xea38",
-  "arrow-forward": "0xea39",
-  "arrow-redo-circle-outline": "0xea3a",
-  "arrow-redo-circle-sharp": "0xea3b",
-  "arrow-redo-circle": "0xea3c",
-  "arrow-redo-outline": "0xea3d",
-  "arrow-redo-sharp": "0xea3e",
-  "arrow-redo": "0xea3f",
-  "arrow-undo-circle-outline": "0xea40",
-  "arrow-undo-circle-sharp": "0xea41",
-  "arrow-undo-circle": "0xea42",
-  "arrow-undo-outline": "0xea43",
-  "arrow-undo-sharp": "0xea44",
-  "arrow-undo": "0xea45",
-  "arrow-up-circle-outline": "0xea46",
-  "arrow-up-circle-sharp": "0xea47",
-  "arrow-up-circle": "0xea48",
-  "arrow-up-outline": "0xea49",
-  "arrow-up-sharp": "0xea4a",
-  "arrow-up": "0xea4b",
-  "at-circle-outline": "0xea4c",
-  "at-circle-sharp": "0xea4d",
-  "at-circle": "0xea4e",
-  "at-outline": "0xea4f",
-  "at-sharp": "0xea50",
-  "at": "0xea51",
-  "attach-outline": "0xea52",
-  "attach-sharp": "0xea53",
-  "attach": "0xea54",
-  "backspace-outline": "0xea55",
-  "backspace-sharp": "0xea56",
-  "backspace": "0xea57",
-  "bag-add-outline": "0xea58",
-  "bag-add-sharp": "0xea59",
-  "bag-add": "0xea5a",
-  "bag-check-outline": "0xea5b",
-  "bag-check-sharp": "0xea5c",
-  "bag-check": "0xea5d",
-  "bag-handle-outline": "0xea5e",
-  "bag-handle-sharp": "0xea5f",
-  "bag-handle": "0xea60",
-  "bag-outline": "0xea61",
-  "bag-remove-outline": "0xea62",
-  "bag-remove-sharp": "0xea63",
-  "bag-remove": "0xea64",
-  "bag-sharp": "0xea65",
-  "bag": "0xea66",
-  "balloon-outline": "0xea67",
-  "balloon-sharp": "0xea68",
-  "balloon": "0xea69",
-  "ban-outline": "0xea6a",
-  "ban-sharp": "0xea6b",
-  "ban": "0xea6c",
-  "bandage-outline": "0xea6d",
-  "bandage-sharp": "0xea6e",
-  "bandage": "0xea6f",
-  "bar-chart-outline": "0xea70",
-  "bar-chart-sharp": "0xea71",
-  "bar-chart": "0xea72",
-  "barbell-outline": "0xea73",
-  "barbell-sharp": "0xea74",
-  "barbell": "0xea75",
-  "barcode-outline": "0xea76",
-  "barcode-sharp": "0xea77",
-  "barcode": "0xea78",
-  "baseball-outline": "0xea79",
-  "baseball-sharp": "0xea7a",
-  "baseball": "0xea7b",
-  "basket-outline": "0xea7c",
-  "basket-sharp": "0xea7d",
-  "basket": "0xea7e",
-  "basketball-outline": "0xea7f",
-  "basketball-sharp": "0xea80",
-  "basketball": "0xea81",
-  "battery-charging-outline": "0xea82",
-  "battery-charging-sharp": "0xea83",
-  "battery-charging": "0xea84",
-  "battery-dead-outline": "0xea85",
-  "battery-dead-sharp": "0xea86",
-  "battery-dead": "0xea87",
-  "battery-full-outline": "0xea88",
-  "battery-full-sharp": "0xea89",
-  "battery-full": "0xea8a",
-  "battery-half-outline": "0xea8b",
-  "battery-half-sharp": "0xea8c",
-  "battery-half": "0xea8d",
-  "beaker-outline": "0xea8e",
-  "beaker-sharp": "0xea8f",
-  "beaker": "0xea90",
-  "bed-outline": "0xea91",
-  "bed-sharp": "0xea92",
-  "bed": "0xea93",
-  "beer-outline": "0xea94",
-  "beer-sharp": "0xea95",
-  "beer": "0xea96",
-  "bicycle-outline": "0xea97",
-  "bicycle-sharp": "0xea98",
-  "bicycle": "0xea99",
-  "bluetooth-outline": "0xea9a",
-  "bluetooth-sharp": "0xea9b",
-  "bluetooth": "0xea9c",
-  "boat-outline": "0xea9d",
-  "boat-sharp": "0xea9e",
-  "boat": "0xea9f",
-  "body-outline": "0xeaa0",
-  "body-sharp": "0xeaa1",
-  "body": "0xeaa2",
-  "bonfire-outline": "0xeaa3",
-  "bonfire-sharp": "0xeaa4",
-  "bonfire": "0xeaa5",
-  "book-outline": "0xeaa6",
-  "book-sharp": "0xeaa7",
-  "book": "0xeaa8",
-  "bookmark-outline": "0xeaa9",
-  "bookmark-sharp": "0xeaaa",
-  "bookmark": "0xeaab",
-  "bookmarks-outline": "0xeaac",
-  "bookmarks-sharp": "0xeaad",
-  "bookmarks": "0xeaae",
-  "bowling-ball-outline": "0xeaaf",
-  "bowling-ball-sharp": "0xeab0",
-  "bowling-ball": "0xeab1",
-  "briefcase-outline": "0xeab2",
-  "briefcase-sharp": "0xeab3",
-  "briefcase": "0xeab4",
-  "browsers-outline": "0xeab5",
-  "browsers-sharp": "0xeab6",
-  "browsers": "0xeab7",
-  "brush-outline": "0xeab8",
-  "brush-sharp": "0xeab9",
-  "brush": "0xeaba",
-  "bug-outline": "0xeabb",
-  "bug-sharp": "0xeabc",
-  "bug": "0xeabd",
-  "build-outline": "0xeabe",
-  "build-sharp": "0xeabf",
-  "build": "0xeac0",
-  "bulb-outline": "0xeac1",
-  "bulb-sharp": "0xeac2",
-  "bulb": "0xeac3",
-  "bus-outline": "0xeac4",
-  "bus-sharp": "0xeac5",
-  "bus": "0xeac6",
-  "business-outline": "0xeac7",
-  "business-sharp": "0xeac8",
-  "business": "0xeac9",
-  "cafe-outline": "0xeaca",
-  "cafe-sharp": "0xeacb",
-  "cafe": "0xeacc",
-  "calculator-outline": "0xeacd",
-  "calculator-sharp": "0xeace",
-  "calculator": "0xeacf",
-  "calendar-clear-outline": "0xead0",
-  "calendar-clear-sharp": "0xead1",
-  "calendar-clear": "0xead2",
-  "calendar-number-outline": "0xead3",
-  "calendar-number-sharp": "0xead4",
-  "calendar-number": "0xead5",
-  "calendar-outline": "0xead6",
-  "calendar-sharp": "0xead7",
-  "calendar": "0xead8",
-  "call-outline": "0xead9",
-  "call-sharp": "0xeada",
-  "call": "0xeadb",
-  "camera-outline": "0xeadc",
-  "camera-reverse-outline": "0xeadd",
-  "camera-reverse-sharp": "0xeade",
-  "camera-reverse": "0xeadf",
-  "camera-sharp": "0xeae0",
-  "camera": "0xeae1",
-  "car-outline": "0xeae2",
-  "car-sharp": "0xeae3",
-  "car-sport-outline": "0xeae4",
-  "car-sport-sharp": "0xeae5",
-  "car-sport": "0xeae6",
-  "car": "0xeae7",
-  "card-outline": "0xeae8",
-  "card-sharp": "0xeae9",
-  "card": "0xeaea",
-  "caret-back-circle-outline": "0xeaeb",
-  "caret-back-circle-sharp": "0xeaec",
-  "caret-back-circle": "0xeaed",
-  "caret-back-outline": "0xeaee",
-  "caret-back-sharp": "0xeaef",
-  "caret-back": "0xeaf0",
-  "caret-down-circle-outline": "0xeaf1",
-  "caret-down-circle-sharp": "0xeaf2",
-  "caret-down-circle": "0xeaf3",
-  "caret-down-outline": "0xeaf4",
-  "caret-down-sharp": "0xeaf5",
-  "caret-down": "0xeaf6",
-  "caret-forward-circle-outline": "0xeaf7",
-  "caret-forward-circle-sharp": "0xeaf8",
-  "caret-forward-circle": "0xeaf9",
-  "caret-forward-outline": "0xeafa",
-  "caret-forward-sharp": "0xeafb",
-  "caret-forward": "0xeafc",
-  "caret-up-circle-outline": "0xeafd",
-  "caret-up-circle-sharp": "0xeafe",
-  "caret-up-circle": "0xeaff",
-  "caret-up-outline": "0xeb00",
-  "caret-up-sharp": "0xeb01",
-  "caret-up": "0xeb02",
-  "cart-outline": "0xeb03",
-  "cart-sharp": "0xeb04",
-  "cart": "0xeb05",
-  "cash-outline": "0xeb06",
-  "cash-sharp": "0xeb07",
-  "cash": "0xeb08",
-  "cellular-outline": "0xeb09",
-  "cellular-sharp": "0xeb0a",
-  "cellular": "0xeb0b",
-  "chatbox-ellipses-outline": "0xeb0c",
-  "chatbox-ellipses-sharp": "0xeb0d",
-  "chatbox-ellipses": "0xeb0e",
-  "chatbox-outline": "0xeb0f",
-  "chatbox-sharp": "0xeb10",
-  "chatbox": "0xeb11",
-  "chatbubble-ellipses-outline": "0xeb12",
-  "chatbubble-ellipses-sharp": "0xeb13",
-  "chatbubble-ellipses": "0xeb14",
-  "chatbubble-outline": "0xeb15",
-  "chatbubble-sharp": "0xeb16",
-  "chatbubble": "0xeb17",
-  "chatbubbles-outline": "0xeb18",
-  "chatbubbles-sharp": "0xeb19",
-  "chatbubbles": "0xeb1a",
-  "checkbox-outline": "0xeb1b",
-  "checkbox-sharp": "0xeb1c",
-  "checkbox": "0xeb1d",
-  "checkmark-circle-outline": "0xeb1e",
-  "checkmark-circle-sharp": "0xeb1f",
-  "checkmark-circle": "0xeb20",
-  "checkmark-done-circle-outline": "0xeb21",
-  "checkmark-done-circle-sharp": "0xeb22",
-  "checkmark-done-circle": "0xeb23",
-  "checkmark-done-outline": "0xeb24",
-  "checkmark-done-sharp": "0xeb25",
-  "checkmark-done": "0xeb26",
-  "checkmark-outline": "0xeb27",
-  "checkmark-sharp": "0xeb28",
-  "checkmark": "0xeb29",
-  "chevron-back-circle-outline": "0xeb2a",
-  "chevron-back-circle-sharp": "0xeb2b",
-  "chevron-back-circle": "0xeb2c",
-  "chevron-back-outline": "0xeb2d",
-  "chevron-back-sharp": "0xeb2e",
-  "chevron-back": "0xeb2f",
-  "chevron-down-circle-outline": "0xeb30",
-  "chevron-down-circle-sharp": "0xeb31",
-  "chevron-down-circle": "0xeb32",
-  "chevron-down-outline": "0xeb33",
-  "chevron-down-sharp": "0xeb34",
-  "chevron-down": "0xeb35",
-  "chevron-forward-circle-outline": "0xeb36",
-  "chevron-forward-circle-sharp": "0xeb37",
-  "chevron-forward-circle": "0xeb38",
-  "chevron-forward-outline": "0xeb39",
-  "chevron-forward-sharp": "0xeb3a",
-  "chevron-forward": "0xeb3b",
-  "chevron-up-circle-outline": "0xeb3c",
-  "chevron-up-circle-sharp": "0xeb3d",
-  "chevron-up-circle": "0xeb3e",
-  "chevron-up-outline": "0xeb3f",
-  "chevron-up-sharp": "0xeb40",
-  "chevron-up": "0xeb41",
-  "clipboard-outline": "0xeb42",
-  "clipboard-sharp": "0xeb43",
-  "clipboard": "0xeb44",
-  "close-circle-outline": "0xeb45",
-  "close-circle-sharp": "0xeb46",
-  "close-circle": "0xeb47",
-  "close-outline": "0xeb48",
-  "close-sharp": "0xeb49",
-  "close": "0xeb4a",
-  "cloud-circle-outline": "0xeb4b",
-  "cloud-circle-sharp": "0xeb4c",
-  "cloud-circle": "0xeb4d",
-  "cloud-done-outline": "0xeb4e",
-  "cloud-done-sharp": "0xeb4f",
-  "cloud-done": "0xeb50",
-  "cloud-download-outline": "0xeb51",
-  "cloud-download-sharp": "0xeb52",
-  "cloud-download": "0xeb53",
-  "cloud-offline-outline": "0xeb54",
-  "cloud-offline-sharp": "0xeb55",
-  "cloud-offline": "0xeb56",
-  "cloud-outline": "0xeb57",
-  "cloud-sharp": "0xeb58",
-  "cloud-upload-outline": "0xeb59",
-  "cloud-upload-sharp": "0xeb5a",
-  "cloud-upload": "0xeb5b",
-  "cloud": "0xeb5c",
-  "cloudy-night-outline": "0xeb5d",
-  "cloudy-night-sharp": "0xeb5e",
-  "cloudy-night": "0xeb5f",
-  "cloudy-outline": "0xeb60",
-  "cloudy-sharp": "0xeb61",
-  "cloudy": "0xeb62",
-  "code-download-outline": "0xeb63",
-  "code-download-sharp": "0xeb64",
-  "code-download": "0xeb65",
-  "code-outline": "0xeb66",
-  "code-sharp": "0xeb67",
-  "code-slash-outline": "0xeb68",
-  "code-slash-sharp": "0xeb69",
-  "code-slash": "0xeb6a",
-  "code-working-outline": "0xeb6b",
-  "code-working-sharp": "0xeb6c",
-  "code-working": "0xeb6d",
-  "code": "0xeb6e",
-  "cog-outline": "0xeb6f",
-  "cog-sharp": "0xeb70",
-  "cog": "0xeb71",
-  "color-fill-outline": "0xeb72",
-  "color-fill-sharp": "0xeb73",
-  "color-fill": "0xeb74",
-  "color-filter-outline": "0xeb75",
-  "color-filter-sharp": "0xeb76",
-  "color-filter": "0xeb77",
-  "color-palette-outline": "0xeb78",
-  "color-palette-sharp": "0xeb79",
-  "color-palette": "0xeb7a",
-  "color-wand-outline": "0xeb7b",
-  "color-wand-sharp": "0xeb7c",
-  "color-wand": "0xeb7d",
-  "compass-outline": "0xeb7e",
-  "compass-sharp": "0xeb7f",
-  "compass": "0xeb80",
-  "construct-outline": "0xeb81",
-  "construct-sharp": "0xeb82",
-  "construct": "0xeb83",
-  "contract-outline": "0xeb84",
-  "contract-sharp": "0xeb85",
-  "contract": "0xeb86",
-  "contrast-outline": "0xeb87",
-  "contrast-sharp": "0xeb88",
-  "contrast": "0xeb89",
-  "copy-outline": "0xeb8a",
-  "copy-sharp": "0xeb8b",
-  "copy": "0xeb8c",
-  "create-outline": "0xeb8d",
-  "create-sharp": "0xeb8e",
-  "create": "0xeb8f",
-  "crop-outline": "0xeb90",
-  "crop-sharp": "0xeb91",
-  "crop": "0xeb92",
-  "cube-outline": "0xeb93",
-  "cube-sharp": "0xeb94",
-  "cube": "0xeb95",
-  "cut-outline": "0xeb96",
-  "cut-sharp": "0xeb97",
-  "cut": "0xeb98",
-  "desktop-outline": "0xeb99",
-  "desktop-sharp": "0xeb9a",
-  "desktop": "0xeb9b",
-  "diamond-outline": "0xeb9c",
-  "diamond-sharp": "0xeb9d",
-  "diamond": "0xeb9e",
-  "dice-outline": "0xeb9f",
-  "dice-sharp": "0xeba0",
-  "dice": "0xeba1",
-  "disc-outline": "0xeba2",
-  "disc-sharp": "0xeba3",
-  "disc": "0xeba4",
-  "document-attach-outline": "0xeba5",
-  "document-attach-sharp": "0xeba6",
-  "document-attach": "0xeba7",
-  "document-lock-outline": "0xeba8",
-  "document-lock-sharp": "0xeba9",
-  "document-lock": "0xebaa",
-  "document-outline": "0xebab",
-  "document-sharp": "0xebac",
-  "document-text-outline": "0xebad",
-  "document-text-sharp": "0xebae",
-  "document-text": "0xebaf",
-  "document": "0xebb0",
-  "documents-outline": "0xebb1",
-  "documents-sharp": "0xebb2",
-  "documents": "0xebb3",
-  "download-outline": "0xebb4",
-  "download-sharp": "0xebb5",
-  "download": "0xebb6",
-  "duplicate-outline": "0xebb7",
-  "duplicate-sharp": "0xebb8",
-  "duplicate": "0xebb9",
-  "ear-outline": "0xebba",
-  "ear-sharp": "0xebbb",
-  "ear": "0xebbc",
-  "earth-outline": "0xebbd",
-  "earth-sharp": "0xebbe",
-  "earth": "0xebbf",
-  "easel-outline": "0xebc0",
-  "easel-sharp": "0xebc1",
-  "easel": "0xebc2",
-  "egg-outline": "0xebc3",
-  "egg-sharp": "0xebc4",
-  "egg": "0xebc5",
-  "ellipse-outline": "0xebc6",
-  "ellipse-sharp": "0xebc7",
-  "ellipse": "0xebc8",
-  "ellipsis-horizontal-circle-outline": "0xebc9",
-  "ellipsis-horizontal-circle-sharp": "0xebca",
-  "ellipsis-horizontal-circle": "0xebcb",
-  "ellipsis-horizontal-outline": "0xebcc",
-  "ellipsis-horizontal-sharp": "0xebcd",
-  "ellipsis-horizontal": "0xebce",
-  "ellipsis-vertical-circle-outline": "0xebcf",
-  "ellipsis-vertical-circle-sharp": "0xebd0",
-  "ellipsis-vertical-circle": "0xebd1",
-  "ellipsis-vertical-outline": "0xebd2",
-  "ellipsis-vertical-sharp": "0xebd3",
-  "ellipsis-vertical": "0xebd4",
-  "enter-outline": "0xebd5",
-  "enter-sharp": "0xebd6",
-  "enter": "0xebd7",
-  "exit-outline": "0xebd8",
-  "exit-sharp": "0xebd9",
-  "exit": "0xebda",
-  "expand-outline": "0xebdb",
-  "expand-sharp": "0xebdc",
-  "expand": "0xebdd",
-  "extension-puzzle-outline": "0xebde",
-  "extension-puzzle-sharp": "0xebdf",
-  "extension-puzzle": "0xebe0",
-  "eye-off-outline": "0xebe1",
-  "eye-off-sharp": "0xebe2",
-  "eye-off": "0xebe3",
-  "eye-outline": "0xebe4",
-  "eye-sharp": "0xebe5",
-  "eye": "0xebe6",
-  "eyedrop-outline": "0xebe7",
-  "eyedrop-sharp": "0xebe8",
-  "eyedrop": "0xebe9",
-  "fast-food-outline": "0xebea",
-  "fast-food-sharp": "0xebeb",
-  "fast-food": "0xebec",
-  "female-outline": "0xebed",
-  "female-sharp": "0xebee",
-  "female": "0xebef",
-  "file-tray-full-outline": "0xebf0",
-  "file-tray-full-sharp": "0xebf1",
-  "file-tray-full": "0xebf2",
-  "file-tray-outline": "0xebf3",
-  "file-tray-sharp": "0xebf4",
-  "file-tray-stacked-outline": "0xebf5",
-  "file-tray-stacked-sharp": "0xebf6",
-  "file-tray-stacked": "0xebf7",
-  "file-tray": "0xebf8",
-  "film-outline": "0xebf9",
-  "film-sharp": "0xebfa",
-  "film": "0xebfb",
-  "filter-circle-outline": "0xebfc",
-  "filter-circle-sharp": "0xebfd",
-  "filter-circle": "0xebfe",
-  "filter-outline": "0xebff",
-  "filter-sharp": "0xec00",
-  "filter": "0xec01",
-  "finger-print-outline": "0xec02",
-  "finger-print-sharp": "0xec03",
-  "finger-print": "0xec04",
-  "fish-outline": "0xec05",
-  "fish-sharp": "0xec06",
-  "fish": "0xec07",
-  "fitness-outline": "0xec08",
-  "fitness-sharp": "0xec09",
-  "fitness": "0xec0a",
-  "flag-outline": "0xec0b",
-  "flag-sharp": "0xec0c",
-  "flag": "0xec0d",
-  "flame-outline": "0xec0e",
-  "flame-sharp": "0xec0f",
-  "flame": "0xec10",
-  "flash-off-outline": "0xec11",
-  "flash-off-sharp": "0xec12",
-  "flash-off": "0xec13",
-  "flash-outline": "0xec14",
-  "flash-sharp": "0xec15",
-  "flash": "0xec16",
-  "flashlight-outline": "0xec17",
-  "flashlight-sharp": "0xec18",
-  "flashlight": "0xec19",
-  "flask-outline": "0xec1a",
-  "flask-sharp": "0xec1b",
-  "flask": "0xec1c",
-  "flower-outline": "0xec1d",
-  "flower-sharp": "0xec1e",
-  "flower": "0xec1f",
-  "folder-open-outline": "0xec20",
-  "folder-open-sharp": "0xec21",
-  "folder-open": "0xec22",
-  "folder-outline": "0xec23",
-  "folder-sharp": "0xec24",
-  "folder": "0xec25",
-  "football-outline": "0xec26",
-  "football-sharp": "0xec27",
-  "football": "0xec28",
-  "footsteps-outline": "0xec29",
-  "footsteps-sharp": "0xec2a",
-  "footsteps": "0xec2b",
-  "funnel-outline": "0xec2c",
-  "funnel-sharp": "0xec2d",
-  "funnel": "0xec2e",
-  "game-controller-outline": "0xec2f",
-  "game-controller-sharp": "0xec30",
-  "game-controller": "0xec31",
-  "gift-outline": "0xec32",
-  "gift-sharp": "0xec33",
-  "gift": "0xec34",
-  "git-branch-outline": "0xec35",
-  "git-branch-sharp": "0xec36",
-  "git-branch": "0xec37",
-  "git-commit-outline": "0xec38",
-  "git-commit-sharp": "0xec39",
-  "git-commit": "0xec3a",
-  "git-compare-outline": "0xec3b",
-  "git-compare-sharp": "0xec3c",
-  "git-compare": "0xec3d",
-  "git-merge-outline": "0xec3e",
-  "git-merge-sharp": "0xec3f",
-  "git-merge": "0xec40",
-  "git-network-outline": "0xec41",
-  "git-network-sharp": "0xec42",
-  "git-network": "0xec43",
-  "git-pull-request-outline": "0xec44",
-  "git-pull-request-sharp": "0xec45",
-  "git-pull-request": "0xec46",
-  "glasses-outline": "0xec47",
-  "glasses-sharp": "0xec48",
-  "glasses": "0xec49",
-  "globe-outline": "0xec4a",
-  "globe-sharp": "0xec4b",
-  "globe": "0xec4c",
-  "golf-outline": "0xec4d",
-  "golf-sharp": "0xec4e",
-  "golf": "0xec4f",
-  "grid-outline": "0xec50",
-  "grid-sharp": "0xec51",
-  "grid": "0xec52",
-  "hammer-outline": "0xec53",
-  "hammer-sharp": "0xec54",
-  "hammer": "0xec55",
-  "hand-left-outline": "0xec56",
-  "hand-left-sharp": "0xec57",
-  "hand-left": "0xec58",
-  "hand-right-outline": "0xec59",
-  "hand-right-sharp": "0xec5a",
-  "hand-right": "0xec5b",
-  "happy-outline": "0xec5c",
-  "happy-sharp": "0xec5d",
-  "happy": "0xec5e",
-  "hardware-chip-outline": "0xec5f",
-  "hardware-chip-sharp": "0xec60",
-  "hardware-chip": "0xec61",
-  "headset-outline": "0xec62",
-  "headset-sharp": "0xec63",
-  "headset": "0xec64",
-  "heart-circle-outline": "0xec65",
-  "heart-circle-sharp": "0xec66",
-  "heart-circle": "0xec67",
-  "heart-dislike-circle-outline": "0xec68",
-  "heart-dislike-circle-sharp": "0xec69",
-  "heart-dislike-circle": "0xec6a",
-  "heart-dislike-outline": "0xec6b",
-  "heart-dislike-sharp": "0xec6c",
-  "heart-dislike": "0xec6d",
-  "heart-half-outline": "0xec6e",
-  "heart-half-sharp": "0xec6f",
-  "heart-half": "0xec70",
-  "heart-outline": "0xec71",
-  "heart-sharp": "0xec72",
-  "heart": "0xec73",
-  "help-buoy-outline": "0xec74",
-  "help-buoy-sharp": "0xec75",
-  "help-buoy": "0xec76",
-  "help-circle-outline": "0xec77",
-  "help-circle-sharp": "0xec78",
-  "help-circle": "0xec79",
-  "help-outline": "0xec7a",
-  "help-sharp": "0xec7b",
-  "help": "0xec7c",
-  "home-outline": "0xec7d",
-  "home-sharp": "0xec7e",
-  "home": "0xec7f",
-  "hourglass-outline": "0xec80",
-  "hourglass-sharp": "0xec81",
-  "hourglass": "0xec82",
-  "ice-cream-outline": "0xec83",
-  "ice-cream-sharp": "0xec84",
-  "ice-cream": "0xec85",
-  "id-card-outline": "0xec86",
-  "id-card-sharp": "0xec87",
-  "id-card": "0xec88",
-  "image-outline": "0xec89",
-  "image-sharp": "0xec8a",
-  "image": "0xec8b",
-  "images-outline": "0xec8c",
-  "images-sharp": "0xec8d",
-  "images": "0xec8e",
-  "infinite-outline": "0xec8f",
-  "infinite-sharp": "0xec90",
-  "infinite": "0xec91",
-  "information-circle-outline": "0xec92",
-  "information-circle-sharp": "0xec93",
-  "information-circle": "0xec94",
-  "information-outline": "0xec95",
-  "information-sharp": "0xec96",
-  "information": "0xec97",
-  "invert-mode-outline": "0xec98",
-  "invert-mode-sharp": "0xec99",
-  "invert-mode": "0xec9a",
-  "journal-outline": "0xec9b",
-  "journal-sharp": "0xec9c",
-  "journal": "0xec9d",
-  "key-outline": "0xec9e",
-  "key-sharp": "0xec9f",
-  "key": "0xeca0",
-  "keypad-outline": "0xeca1",
-  "keypad-sharp": "0xeca2",
-  "keypad": "0xeca3",
-  "language-outline": "0xeca4",
-  "language-sharp": "0xeca5",
-  "language": "0xeca6",
-  "laptop-outline": "0xeca7",
-  "laptop-sharp": "0xeca8",
-  "laptop": "0xeca9",
-  "layers-outline": "0xecaa",
-  "layers-sharp": "0xecab",
-  "layers": "0xecac",
-  "leaf-outline": "0xecad",
-  "leaf-sharp": "0xecae",
-  "leaf": "0xecaf",
-  "library-outline": "0xecb0",
-  "library-sharp": "0xecb1",
-  "library": "0xecb2",
-  "link-outline": "0xecb3",
-  "link-sharp": "0xecb4",
-  "link": "0xecb5",
-  "list-circle-outline": "0xecb6",
-  "list-circle-sharp": "0xecb7",
-  "list-circle": "0xecb8",
-  "list-outline": "0xecb9",
-  "list-sharp": "0xecba",
-  "list": "0xecbb",
-  "locate-outline": "0xecbc",
-  "locate-sharp": "0xecbd",
-  "locate": "0xecbe",
-  "location-outline": "0xecbf",
-  "location-sharp": "0xecc0",
-  "location": "0xecc1",
-  "lock-closed-outline": "0xecc2",
-  "lock-closed-sharp": "0xecc3",
-  "lock-closed": "0xecc4",
-  "lock-open-outline": "0xecc5",
-  "lock-open-sharp": "0xecc6",
-  "lock-open": "0xecc7",
-  "log-in-outline": "0xecc8",
-  "log-in-sharp": "0xecc9",
-  "log-in": "0xecca",
-  "log-out-outline": "0xeccb",
-  "log-out-sharp": "0xeccc",
-  "log-out": "0xeccd",
-  "logo-alipay": "0xecce",
-  "logo-amazon": "0xeccf",
-  "logo-amplify": "0xecd0",
-  "logo-android": "0xecd1",
-  "logo-angular": "0xecd2",
-  "logo-apple-appstore": "0xecd3",
-  "logo-apple-ar": "0xecd4",
-  "logo-apple": "0xecd5",
-  "logo-behance": "0xecd6",
-  "logo-bitbucket": "0xecd7",
-  "logo-bitcoin": "0xecd8",
-  "logo-buffer": "0xecd9",
-  "logo-capacitor": "0xecda",
-  "logo-chrome": "0xecdb",
-  "logo-closed-captioning": "0xecdc",
-  "logo-codepen": "0xecdd",
-  "logo-css3": "0xecde",
-  "logo-designernews": "0xecdf",
-  "logo-deviantart": "0xece0",
-  "logo-discord": "0xece1",
-  "logo-docker": "0xece2",
-  "logo-dribbble": "0xece3",
-  "logo-dropbox": "0xece4",
-  "logo-edge": "0xece5",
-  "logo-electron": "0xece6",
-  "logo-euro": "0xece7",
-  "logo-facebook": "0xece8",
-  "logo-figma": "0xece9",
-  "logo-firebase": "0xecea",
-  "logo-firefox": "0xeceb",
-  "logo-flickr": "0xecec",
-  "logo-foursquare": "0xeced",
-  "logo-github": "0xecee",
-  "logo-gitlab": "0xecef",
-  "logo-google-playstore": "0xecf0",
-  "logo-google": "0xecf1",
-  "logo-hackernews": "0xecf2",
-  "logo-html5": "0xecf3",
-  "logo-instagram": "0xecf4",
-  "logo-ionic": "0xecf5",
-  "logo-ionitron": "0xecf6",
-  "logo-javascript": "0xecf7",
-  "logo-laravel": "0xecf8",
-  "logo-linkedin": "0xecf9",
-  "logo-markdown": "0xecfa",
-  "logo-mastodon": "0xecfb",
-  "logo-medium": "0xecfc",
-  "logo-microsoft": "0xecfd",
-  "logo-no-smoking": "0xecfe",
-  "logo-nodejs": "0xecff",
-  "logo-npm": "0xed00",
-  "logo-octocat": "0xed01",
-  "logo-paypal": "0xed02",
-  "logo-pinterest": "0xed03",
-  "logo-playstation": "0xed04",
-  "logo-pwa": "0xed05",
-  "logo-python": "0xed06",
-  "logo-react": "0xed07",
-  "logo-reddit": "0xed08",
-  "logo-rss": "0xed09",
-  "logo-sass": "0xed0a",
-  "logo-skype": "0xed0b",
-  "logo-slack": "0xed0c",
-  "logo-snapchat": "0xed0d",
-  "logo-soundcloud": "0xed0e",
-  "logo-stackoverflow": "0xed0f",
-  "logo-steam": "0xed10",
-  "logo-stencil": "0xed11",
-  "logo-tableau": "0xed12",
-  "logo-tiktok": "0xed13",
-  "logo-tumblr": "0xed14",
-  "logo-tux": "0xed15",
-  "logo-twitch": "0xed16",
-  "logo-twitter": "0xed17",
-  "logo-usd": "0xed18",
-  "logo-venmo": "0xed19",
-  "logo-vercel": "0xed1a",
-  "logo-vimeo": "0xed1b",
-  "logo-vk": "0xed1c",
-  "logo-vue": "0xed1d",
-  "logo-web-component": "0xed1e",
-  "logo-wechat": "0xed1f",
-  "logo-whatsapp": "0xed20",
-  "logo-windows": "0xed21",
-  "logo-wordpress": "0xed22",
-  "logo-xbox": "0xed23",
-  "logo-xing": "0xed24",
-  "logo-yahoo": "0xed25",
-  "logo-yen": "0xed26",
-  "logo-youtube": "0xed27",
-  "magnet-outline": "0xed28",
-  "magnet-sharp": "0xed29",
-  "magnet": "0xed2a",
-  "mail-open-outline": "0xed2b",
-  "mail-open-sharp": "0xed2c",
-  "mail-open": "0xed2d",
-  "mail-outline": "0xed2e",
-  "mail-sharp": "0xed2f",
-  "mail-unread-outline": "0xed30",
-  "mail-unread-sharp": "0xed31",
-  "mail-unread": "0xed32",
-  "mail": "0xed33",
-  "male-female-outline": "0xed34",
-  "male-female-sharp": "0xed35",
-  "male-female": "0xed36",
-  "male-outline": "0xed37",
-  "male-sharp": "0xed38",
-  "male": "0xed39",
-  "man-outline": "0xed3a",
-  "man-sharp": "0xed3b",
-  "man": "0xed3c",
-  "map-outline": "0xed3d",
-  "map-sharp": "0xed3e",
-  "map": "0xed3f",
-  "medal-outline": "0xed40",
-  "medal-sharp": "0xed41",
-  "medal": "0xed42",
-  "medical-outline": "0xed43",
-  "medical-sharp": "0xed44",
-  "medical": "0xed45",
-  "medkit-outline": "0xed46",
-  "medkit-sharp": "0xed47",
-  "medkit": "0xed48",
-  "megaphone-outline": "0xed49",
-  "megaphone-sharp": "0xed4a",
-  "megaphone": "0xed4b",
-  "menu-outline": "0xed4c",
-  "menu-sharp": "0xed4d",
-  "menu": "0xed4e",
-  "mic-circle-outline": "0xed4f",
-  "mic-circle-sharp": "0xed50",
-  "mic-circle": "0xed51",
-  "mic-off-circle-outline": "0xed52",
-  "mic-off-circle-sharp": "0xed53",
-  "mic-off-circle": "0xed54",
-  "mic-off-outline": "0xed55",
-  "mic-off-sharp": "0xed56",
-  "mic-off": "0xed57",
-  "mic-outline": "0xed58",
-  "mic-sharp": "0xed59",
-  "mic": "0xed5a",
-  "moon-outline": "0xed5b",
-  "moon-sharp": "0xed5c",
-  "moon": "0xed5d",
-  "move-outline": "0xed5e",
-  "move-sharp": "0xed5f",
-  "move": "0xed60",
-  "musical-note-outline": "0xed61",
-  "musical-note-sharp": "0xed62",
-  "musical-note": "0xed63",
-  "musical-notes-outline": "0xed64",
-  "musical-notes-sharp": "0xed65",
-  "musical-notes": "0xed66",
-  "navigate-circle-outline": "0xed67",
-  "navigate-circle-sharp": "0xed68",
-  "navigate-circle": "0xed69",
-  "navigate-outline": "0xed6a",
-  "navigate-sharp": "0xed6b",
-  "navigate": "0xed6c",
-  "newspaper-outline": "0xed6d",
-  "newspaper-sharp": "0xed6e",
-  "newspaper": "0xed6f",
-  "notifications-circle-outline": "0xed70",
-  "notifications-circle-sharp": "0xed71",
-  "notifications-circle": "0xed72",
-  "notifications-off-circle-outline": "0xed73",
-  "notifications-off-circle-sharp": "0xed74",
-  "notifications-off-circle": "0xed75",
-  "notifications-off-outline": "0xed76",
-  "notifications-off-sharp": "0xed77",
-  "notifications-off": "0xed78",
-  "notifications-outline": "0xed79",
-  "notifications-sharp": "0xed7a",
-  "notifications": "0xed7b",
-  "nuclear-outline": "0xed7c",
-  "nuclear-sharp": "0xed7d",
-  "nuclear": "0xed7e",
-  "nutrition-outline": "0xed7f",
-  "nutrition-sharp": "0xed80",
-  "nutrition": "0xed81",
-  "open-outline": "0xed82",
-  "open-sharp": "0xed83",
-  "open": "0xed84",
-  "options-outline": "0xed85",
-  "options-sharp": "0xed86",
-  "options": "0xed87",
-  "paper-plane-outline": "0xed88",
-  "paper-plane-sharp": "0xed89",
-  "paper-plane": "0xed8a",
-  "partly-sunny-outline": "0xed8b",
-  "partly-sunny-sharp": "0xed8c",
-  "partly-sunny": "0xed8d",
-  "pause-circle-outline": "0xed8e",
-  "pause-circle-sharp": "0xed8f",
-  "pause-circle": "0xed90",
-  "pause-outline": "0xed91",
-  "pause-sharp": "0xed92",
-  "pause": "0xed93",
-  "paw-outline": "0xed94",
-  "paw-sharp": "0xed95",
-  "paw": "0xed96",
-  "pencil-outline": "0xed97",
-  "pencil-sharp": "0xed98",
-  "pencil": "0xed99",
-  "people-circle-outline": "0xed9a",
-  "people-circle-sharp": "0xed9b",
-  "people-circle": "0xed9c",
-  "people-outline": "0xed9d",
-  "people-sharp": "0xed9e",
-  "people": "0xed9f",
-  "person-add-outline": "0xeda0",
-  "person-add-sharp": "0xeda1",
-  "person-add": "0xeda2",
-  "person-circle-outline": "0xeda3",
-  "person-circle-sharp": "0xeda4",
-  "person-circle": "0xeda5",
-  "person-outline": "0xeda6",
-  "person-remove-outline": "0xeda7",
-  "person-remove-sharp": "0xeda8",
-  "person-remove": "0xeda9",
-  "person-sharp": "0xedaa",
-  "person": "0xedab",
-  "phone-landscape-outline": "0xedac",
-  "phone-landscape-sharp": "0xedad",
-  "phone-landscape": "0xedae",
-  "phone-portrait-outline": "0xedaf",
-  "phone-portrait-sharp": "0xedb0",
-  "phone-portrait": "0xedb1",
-  "pie-chart-outline": "0xedb2",
-  "pie-chart-sharp": "0xedb3",
-  "pie-chart": "0xedb4",
-  "pin-outline": "0xedb5",
-  "pin-sharp": "0xedb6",
-  "pin": "0xedb7",
-  "pint-outline": "0xedb8",
-  "pint-sharp": "0xedb9",
-  "pint": "0xedba",
-  "pizza-outline": "0xedbb",
-  "pizza-sharp": "0xedbc",
-  "pizza": "0xedbd",
-  "planet-outline": "0xedbe",
-  "planet-sharp": "0xedbf",
-  "planet": "0xedc0",
-  "play-back-circle-outline": "0xedc1",
-  "play-back-circle-sharp": "0xedc2",
-  "play-back-circle": "0xedc3",
-  "play-back-outline": "0xedc4",
-  "play-back-sharp": "0xedc5",
-  "play-back": "0xedc6",
-  "play-circle-outline": "0xedc7",
-  "play-circle-sharp": "0xedc8",
-  "play-circle": "0xedc9",
-  "play-forward-circle-outline": "0xedca",
-  "play-forward-circle-sharp": "0xedcb",
-  "play-forward-circle": "0xedcc",
-  "play-forward-outline": "0xedcd",
-  "play-forward-sharp": "0xedce",
-  "play-forward": "0xedcf",
-  "play-outline": "0xedd0",
-  "play-sharp": "0xedd1",
-  "play-skip-back-circle-outline": "0xedd2",
-  "play-skip-back-circle-sharp": "0xedd3",
-  "play-skip-back-circle": "0xedd4",
-  "play-skip-back-outline": "0xedd5",
-  "play-skip-back-sharp": "0xedd6",
-  "play-skip-back": "0xedd7",
-  "play-skip-forward-circle-outline": "0xedd8",
-  "play-skip-forward-circle-sharp": "0xedd9",
-  "play-skip-forward-circle": "0xedda",
-  "play-skip-forward-outline": "0xeddb",
-  "play-skip-forward-sharp": "0xeddc",
-  "play-skip-forward": "0xeddd",
-  "play": "0xedde",
-  "podium-outline": "0xeddf",
-  "podium-sharp": "0xede0",
-  "podium": "0xede1",
-  "power-outline": "0xede2",
-  "power-sharp": "0xede3",
-  "power": "0xede4",
-  "pricetag-outline": "0xede5",
-  "pricetag-sharp": "0xede6",
-  "pricetag": "0xede7",
-  "pricetags-outline": "0xede8",
-  "pricetags-sharp": "0xede9",
-  "pricetags": "0xedea",
-  "print-outline": "0xedeb",
-  "print-sharp": "0xedec",
-  "print": "0xeded",
-  "prism-outline": "0xedee",
-  "prism-sharp": "0xedef",
-  "prism": "0xedf0",
-  "pulse-outline": "0xedf1",
-  "pulse-sharp": "0xedf2",
-  "pulse": "0xedf3",
-  "push-outline": "0xedf4",
-  "push-sharp": "0xedf5",
-  "push": "0xedf6",
-  "qr-code-outline": "0xedf7",
-  "qr-code-sharp": "0xedf8",
-  "qr-code": "0xedf9",
-  "radio-button-off-outline": "0xedfa",
-  "radio-button-off-sharp": "0xedfb",
-  "radio-button-off": "0xedfc",
-  "radio-button-on-outline": "0xedfd",
-  "radio-button-on-sharp": "0xedfe",
-  "radio-button-on": "0xedff",
-  "radio-outline": "0xee00",
-  "radio-sharp": "0xee01",
-  "radio": "0xee02",
-  "rainy-outline": "0xee03",
-  "rainy-sharp": "0xee04",
-  "rainy": "0xee05",
-  "reader-outline": "0xee06",
-  "reader-sharp": "0xee07",
-  "reader": "0xee08",
-  "receipt-outline": "0xee09",
-  "receipt-sharp": "0xee0a",
-  "receipt": "0xee0b",
-  "recording-outline": "0xee0c",
-  "recording-sharp": "0xee0d",
-  "recording": "0xee0e",
-  "refresh-circle-outline": "0xee0f",
-  "refresh-circle-sharp": "0xee10",
-  "refresh-circle": "0xee11",
-  "refresh-outline": "0xee12",
-  "refresh-sharp": "0xee13",
-  "refresh": "0xee14",
-  "reload-circle-outline": "0xee15",
-  "reload-circle-sharp": "0xee16",
-  "reload-circle": "0xee17",
-  "reload-outline": "0xee18",
-  "reload-sharp": "0xee19",
-  "reload": "0xee1a",
-  "remove-circle-outline": "0xee1b",
-  "remove-circle-sharp": "0xee1c",
-  "remove-circle": "0xee1d",
-  "remove-outline": "0xee1e",
-  "remove-sharp": "0xee1f",
-  "remove": "0xee20",
-  "reorder-four-outline": "0xee21",
-  "reorder-four-sharp": "0xee22",
-  "reorder-four": "0xee23",
-  "reorder-three-outline": "0xee24",
-  "reorder-three-sharp": "0xee25",
-  "reorder-three": "0xee26",
-  "reorder-two-outline": "0xee27",
-  "reorder-two-sharp": "0xee28",
-  "reorder-two": "0xee29",
-  "repeat-outline": "0xee2a",
-  "repeat-sharp": "0xee2b",
-  "repeat": "0xee2c",
-  "resize-outline": "0xee2d",
-  "resize-sharp": "0xee2e",
-  "resize": "0xee2f",
-  "restaurant-outline": "0xee30",
-  "restaurant-sharp": "0xee31",
-  "restaurant": "0xee32",
-  "return-down-back-outline": "0xee33",
-  "return-down-back-sharp": "0xee34",
-  "return-down-back": "0xee35",
-  "return-down-forward-outline": "0xee36",
-  "return-down-forward-sharp": "0xee37",
-  "return-down-forward": "0xee38",
-  "return-up-back-outline": "0xee39",
-  "return-up-back-sharp": "0xee3a",
-  "return-up-back": "0xee3b",
-  "return-up-forward-outline": "0xee3c",
-  "return-up-forward-sharp": "0xee3d",
-  "return-up-forward": "0xee3e",
-  "ribbon-outline": "0xee3f",
-  "ribbon-sharp": "0xee40",
-  "ribbon": "0xee41",
-  "rocket-outline": "0xee42",
-  "rocket-sharp": "0xee43",
-  "rocket": "0xee44",
-  "rose-outline": "0xee45",
-  "rose-sharp": "0xee46",
-  "rose": "0xee47",
-  "sad-outline": "0xee48",
-  "sad-sharp": "0xee49",
-  "sad": "0xee4a",
-  "save-outline": "0xee4b",
-  "save-sharp": "0xee4c",
-  "save": "0xee4d",
-  "scale-outline": "0xee4e",
-  "scale-sharp": "0xee4f",
-  "scale": "0xee50",
-  "scan-circle-outline": "0xee51",
-  "scan-circle-sharp": "0xee52",
-  "scan-circle": "0xee53",
-  "scan-outline": "0xee54",
-  "scan-sharp": "0xee55",
-  "scan": "0xee56",
-  "school-outline": "0xee57",
-  "school-sharp": "0xee58",
-  "school": "0xee59",
-  "search-circle-outline": "0xee5a",
-  "search-circle-sharp": "0xee5b",
-  "search-circle": "0xee5c",
-  "search-outline": "0xee5d",
-  "search-sharp": "0xee5e",
-  "search": "0xee5f",
-  "send-outline": "0xee60",
-  "send-sharp": "0xee61",
-  "send": "0xee62",
-  "server-outline": "0xee63",
-  "server-sharp": "0xee64",
-  "server": "0xee65",
-  "settings-outline": "0xee66",
-  "settings-sharp": "0xee67",
-  "settings": "0xee68",
-  "shapes-outline": "0xee69",
-  "shapes-sharp": "0xee6a",
-  "shapes": "0xee6b",
-  "share-outline": "0xee6c",
-  "share-sharp": "0xee6d",
-  "share-social-outline": "0xee6e",
-  "share-social-sharp": "0xee6f",
-  "share-social": "0xee70",
-  "share": "0xee71",
-  "shield-checkmark-outline": "0xee72",
-  "shield-checkmark-sharp": "0xee73",
-  "shield-checkmark": "0xee74",
-  "shield-half-outline": "0xee75",
-  "shield-half-sharp": "0xee76",
-  "shield-half": "0xee77",
-  "shield-outline": "0xee78",
-  "shield-sharp": "0xee79",
-  "shield": "0xee7a",
-  "shirt-outline": "0xee7b",
-  "shirt-sharp": "0xee7c",
-  "shirt": "0xee7d",
-  "shuffle-outline": "0xee7e",
-  "shuffle-sharp": "0xee7f",
-  "shuffle": "0xee80",
-  "skull-outline": "0xee81",
-  "skull-sharp": "0xee82",
-  "skull": "0xee83",
-  "snow-outline": "0xee84",
-  "snow-sharp": "0xee85",
-  "snow": "0xee86",
-  "sparkles-outline": "0xee87",
-  "sparkles-sharp": "0xee88",
-  "sparkles": "0xee89",
-  "speedometer-outline": "0xee8a",
-  "speedometer-sharp": "0xee8b",
-  "speedometer": "0xee8c",
-  "square-outline": "0xee8d",
-  "square-sharp": "0xee8e",
-  "square": "0xee8f",
-  "star-half-outline": "0xee90",
-  "star-half-sharp": "0xee91",
-  "star-half": "0xee92",
-  "star-outline": "0xee93",
-  "star-sharp": "0xee94",
-  "star": "0xee95",
-  "stats-chart-outline": "0xee96",
-  "stats-chart-sharp": "0xee97",
-  "stats-chart": "0xee98",
-  "stop-circle-outline": "0xee99",
-  "stop-circle-sharp": "0xee9a",
-  "stop-circle": "0xee9b",
-  "stop-outline": "0xee9c",
-  "stop-sharp": "0xee9d",
-  "stop": "0xee9e",
-  "stopwatch-outline": "0xee9f",
-  "stopwatch-sharp": "0xeea0",
-  "stopwatch": "0xeea1",
-  "storefront-outline": "0xeea2",
-  "storefront-sharp": "0xeea3",
-  "storefront": "0xeea4",
-  "subway-outline": "0xeea5",
-  "subway-sharp": "0xeea6",
-  "subway": "0xeea7",
-  "sunny-outline": "0xeea8",
-  "sunny-sharp": "0xeea9",
-  "sunny": "0xeeaa",
-  "swap-horizontal-outline": "0xeeab",
-  "swap-horizontal-sharp": "0xeeac",
-  "swap-horizontal": "0xeead",
-  "swap-vertical-outline": "0xeeae",
-  "swap-vertical-sharp": "0xeeaf",
-  "swap-vertical": "0xeeb0",
-  "sync-circle-outline": "0xeeb1",
-  "sync-circle-sharp": "0xeeb2",
-  "sync-circle": "0xeeb3",
-  "sync-outline": "0xeeb4",
-  "sync-sharp": "0xeeb5",
-  "sync": "0xeeb6",
-  "tablet-landscape-outline": "0xeeb7",
-  "tablet-landscape-sharp": "0xeeb8",
-  "tablet-landscape": "0xeeb9",
-  "tablet-portrait-outline": "0xeeba",
-  "tablet-portrait-sharp": "0xeebb",
-  "tablet-portrait": "0xeebc",
-  "telescope-outline": "0xeebd",
-  "telescope-sharp": "0xeebe",
-  "telescope": "0xeebf",
-  "tennisball-outline": "0xeec0",
-  "tennisball-sharp": "0xeec1",
-  "tennisball": "0xeec2",
-  "terminal-outline": "0xeec3",
-  "terminal-sharp": "0xeec4",
-  "terminal": "0xeec5",
-  "text-outline": "0xeec6",
-  "text-sharp": "0xeec7",
-  "text": "0xeec8",
-  "thermometer-outline": "0xeec9",
-  "thermometer-sharp": "0xeeca",
-  "thermometer": "0xeecb",
-  "thumbs-down-outline": "0xeecc",
-  "thumbs-down-sharp": "0xeecd",
-  "thumbs-down": "0xeece",
-  "thumbs-up-outline": "0xeecf",
-  "thumbs-up-sharp": "0xeed0",
-  "thumbs-up": "0xeed1",
-  "thunderstorm-outline": "0xeed2",
-  "thunderstorm-sharp": "0xeed3",
-  "thunderstorm": "0xeed4",
-  "ticket-outline": "0xeed5",
-  "ticket-sharp": "0xeed6",
-  "ticket": "0xeed7",
-  "time-outline": "0xeed8",
-  "time-sharp": "0xeed9",
-  "time": "0xeeda",
-  "timer-outline": "0xeedb",
-  "timer-sharp": "0xeedc",
-  "timer": "0xeedd",
-  "today-outline": "0xeede",
-  "today-sharp": "0xeedf",
-  "today": "0xeee0",
-  "toggle-outline": "0xeee1",
-  "toggle-sharp": "0xeee2",
-  "toggle": "0xeee3",
-  "trail-sign-outline": "0xeee4",
-  "trail-sign-sharp": "0xeee5",
-  "trail-sign": "0xeee6",
-  "train-outline": "0xeee7",
-  "train-sharp": "0xeee8",
-  "train": "0xeee9",
-  "transgender-outline": "0xeeea",
-  "transgender-sharp": "0xeeeb",
-  "transgender": "0xeeec",
-  "trash-bin-outline": "0xeeed",
-  "trash-bin-sharp": "0xeeee",
-  "trash-bin": "0xeeef",
-  "trash-outline": "0xeef0",
-  "trash-sharp": "0xeef1",
-  "trash": "0xeef2",
-  "trending-down-outline": "0xeef3",
-  "trending-down-sharp": "0xeef4",
-  "trending-down": "0xeef5",
-  "trending-up-outline": "0xeef6",
-  "trending-up-sharp": "0xeef7",
-  "trending-up": "0xeef8",
-  "triangle-outline": "0xeef9",
-  "triangle-sharp": "0xeefa",
-  "triangle": "0xeefb",
-  "trophy-outline": "0xeefc",
-  "trophy-sharp": "0xeefd",
-  "trophy": "0xeefe",
-  "tv-outline": "0xeeff",
-  "tv-sharp": "0xef00",
-  "tv": "0xef01",
-  "umbrella-outline": "0xef02",
-  "umbrella-sharp": "0xef03",
-  "umbrella": "0xef04",
-  "unlink-outline": "0xef05",
-  "unlink-sharp": "0xef06",
-  "unlink": "0xef07",
-  "videocam-off-outline": "0xef08",
-  "videocam-off-sharp": "0xef09",
-  "videocam-off": "0xef0a",
-  "videocam-outline": "0xef0b",
-  "videocam-sharp": "0xef0c",
-  "videocam": "0xef0d",
-  "volume-high-outline": "0xef0e",
-  "volume-high-sharp": "0xef0f",
-  "volume-high": "0xef10",
-  "volume-low-outline": "0xef11",
-  "volume-low-sharp": "0xef12",
-  "volume-low": "0xef13",
-  "volume-medium-outline": "0xef14",
-  "volume-medium-sharp": "0xef15",
-  "volume-medium": "0xef16",
-  "volume-mute-outline": "0xef17",
-  "volume-mute-sharp": "0xef18",
-  "volume-mute": "0xef19",
-  "volume-off-outline": "0xef1a",
-  "volume-off-sharp": "0xef1b",
-  "volume-off": "0xef1c",
-  "walk-outline": "0xef1d",
-  "walk-sharp": "0xef1e",
-  "walk": "0xef1f",
-  "wallet-outline": "0xef20",
-  "wallet-sharp": "0xef21",
-  "wallet": "0xef22",
-  "warning-outline": "0xef23",
-  "warning-sharp": "0xef24",
-  "warning": "0xef25",
-  "watch-outline": "0xef26",
-  "watch-sharp": "0xef27",
-  "watch": "0xef28",
-  "water-outline": "0xef29",
-  "water-sharp": "0xef2a",
-  "water": "0xef2b",
-  "wifi-outline": "0xef2c",
-  "wifi-sharp": "0xef2d",
-  "wifi": "0xef2e",
-  "wine-outline": "0xef2f",
-  "wine-sharp": "0xef30",
-  "wine": "0xef31",
-  "woman-outline": "0xef32",
-  "woman-sharp": "0xef33",
-  "woman": "0xef34"
+  "arrow-down-left-box-outline": "0xea31",
+  "arrow-down-left-box-sharp": "0xea32",
+  "arrow-down-left-box": "0xea33",
+  "arrow-down-outline": "0xea34",
+  "arrow-down-right-box-outline": "0xea35",
+  "arrow-down-right-box-sharp": "0xea36",
+  "arrow-down-right-box": "0xea37",
+  "arrow-down-sharp": "0xea38",
+  "arrow-down": "0xea39",
+  "arrow-forward-circle-outline": "0xea3a",
+  "arrow-forward-circle-sharp": "0xea3b",
+  "arrow-forward-circle": "0xea3c",
+  "arrow-forward-outline": "0xea3d",
+  "arrow-forward-sharp": "0xea3e",
+  "arrow-forward": "0xea3f",
+  "arrow-redo-circle-outline": "0xea40",
+  "arrow-redo-circle-sharp": "0xea41",
+  "arrow-redo-circle": "0xea42",
+  "arrow-redo-outline": "0xea43",
+  "arrow-redo-sharp": "0xea44",
+  "arrow-redo": "0xea45",
+  "arrow-undo-circle-outline": "0xea46",
+  "arrow-undo-circle-sharp": "0xea47",
+  "arrow-undo-circle": "0xea48",
+  "arrow-undo-outline": "0xea49",
+  "arrow-undo-sharp": "0xea4a",
+  "arrow-undo": "0xea4b",
+  "arrow-up-circle-outline": "0xea4c",
+  "arrow-up-circle-sharp": "0xea4d",
+  "arrow-up-circle": "0xea4e",
+  "arrow-up-left-box-outline": "0xea4f",
+  "arrow-up-left-box-sharp": "0xea50",
+  "arrow-up-left-box": "0xea51",
+  "arrow-up-outline": "0xea52",
+  "arrow-up-right-box-outline": "0xea53",
+  "arrow-up-right-box-sharp": "0xea54",
+  "arrow-up-right-box": "0xea55",
+  "arrow-up-sharp": "0xea56",
+  "arrow-up": "0xea57",
+  "at-circle-outline": "0xea58",
+  "at-circle-sharp": "0xea59",
+  "at-circle": "0xea5a",
+  "at-outline": "0xea5b",
+  "at-sharp": "0xea5c",
+  "at": "0xea5d",
+  "attach-outline": "0xea5e",
+  "attach-sharp": "0xea5f",
+  "attach": "0xea60",
+  "backspace-outline": "0xea61",
+  "backspace-sharp": "0xea62",
+  "backspace": "0xea63",
+  "bag-add-outline": "0xea64",
+  "bag-add-sharp": "0xea65",
+  "bag-add": "0xea66",
+  "bag-check-outline": "0xea67",
+  "bag-check-sharp": "0xea68",
+  "bag-check": "0xea69",
+  "bag-handle-outline": "0xea6a",
+  "bag-handle-sharp": "0xea6b",
+  "bag-handle": "0xea6c",
+  "bag-outline": "0xea6d",
+  "bag-remove-outline": "0xea6e",
+  "bag-remove-sharp": "0xea6f",
+  "bag-remove": "0xea70",
+  "bag-sharp": "0xea71",
+  "bag": "0xea72",
+  "balloon-outline": "0xea73",
+  "balloon-sharp": "0xea74",
+  "balloon": "0xea75",
+  "ban-outline": "0xea76",
+  "ban-sharp": "0xea77",
+  "ban": "0xea78",
+  "bandage-outline": "0xea79",
+  "bandage-sharp": "0xea7a",
+  "bandage": "0xea7b",
+  "bar-chart-outline": "0xea7c",
+  "bar-chart-sharp": "0xea7d",
+  "bar-chart": "0xea7e",
+  "barbell-outline": "0xea7f",
+  "barbell-sharp": "0xea80",
+  "barbell": "0xea81",
+  "barcode-outline": "0xea82",
+  "barcode-sharp": "0xea83",
+  "barcode": "0xea84",
+  "baseball-outline": "0xea85",
+  "baseball-sharp": "0xea86",
+  "baseball": "0xea87",
+  "basket-outline": "0xea88",
+  "basket-sharp": "0xea89",
+  "basket": "0xea8a",
+  "basketball-outline": "0xea8b",
+  "basketball-sharp": "0xea8c",
+  "basketball": "0xea8d",
+  "battery-charging-outline": "0xea8e",
+  "battery-charging-sharp": "0xea8f",
+  "battery-charging": "0xea90",
+  "battery-dead-outline": "0xea91",
+  "battery-dead-sharp": "0xea92",
+  "battery-dead": "0xea93",
+  "battery-full-outline": "0xea94",
+  "battery-full-sharp": "0xea95",
+  "battery-full": "0xea96",
+  "battery-half-outline": "0xea97",
+  "battery-half-sharp": "0xea98",
+  "battery-half": "0xea99",
+  "beaker-outline": "0xea9a",
+  "beaker-sharp": "0xea9b",
+  "beaker": "0xea9c",
+  "bed-outline": "0xea9d",
+  "bed-sharp": "0xea9e",
+  "bed": "0xea9f",
+  "beer-outline": "0xeaa0",
+  "beer-sharp": "0xeaa1",
+  "beer": "0xeaa2",
+  "bicycle-outline": "0xeaa3",
+  "bicycle-sharp": "0xeaa4",
+  "bicycle": "0xeaa5",
+  "binoculars-outline": "0xeaa6",
+  "binoculars-sharp": "0xeaa7",
+  "binoculars": "0xeaa8",
+  "bluetooth-outline": "0xeaa9",
+  "bluetooth-sharp": "0xeaaa",
+  "bluetooth": "0xeaab",
+  "boat-outline": "0xeaac",
+  "boat-sharp": "0xeaad",
+  "boat": "0xeaae",
+  "body-outline": "0xeaaf",
+  "body-sharp": "0xeab0",
+  "body": "0xeab1",
+  "bonfire-outline": "0xeab2",
+  "bonfire-sharp": "0xeab3",
+  "bonfire": "0xeab4",
+  "book-outline": "0xeab5",
+  "book-sharp": "0xeab6",
+  "book": "0xeab7",
+  "bookmark-outline": "0xeab8",
+  "bookmark-sharp": "0xeab9",
+  "bookmark": "0xeaba",
+  "bookmarks-outline": "0xeabb",
+  "bookmarks-sharp": "0xeabc",
+  "bookmarks": "0xeabd",
+  "bowling-ball-outline": "0xeabe",
+  "bowling-ball-sharp": "0xeabf",
+  "bowling-ball": "0xeac0",
+  "briefcase-outline": "0xeac1",
+  "briefcase-sharp": "0xeac2",
+  "briefcase": "0xeac3",
+  "browsers-outline": "0xeac4",
+  "browsers-sharp": "0xeac5",
+  "browsers": "0xeac6",
+  "brush-outline": "0xeac7",
+  "brush-sharp": "0xeac8",
+  "brush": "0xeac9",
+  "bug-outline": "0xeaca",
+  "bug-sharp": "0xeacb",
+  "bug": "0xeacc",
+  "build-outline": "0xeacd",
+  "build-sharp": "0xeace",
+  "build": "0xeacf",
+  "bulb-outline": "0xead0",
+  "bulb-sharp": "0xead1",
+  "bulb": "0xead2",
+  "bus-outline": "0xead3",
+  "bus-sharp": "0xead4",
+  "bus": "0xead5",
+  "business-outline": "0xead6",
+  "business-sharp": "0xead7",
+  "business": "0xead8",
+  "cafe-outline": "0xead9",
+  "cafe-sharp": "0xeada",
+  "cafe": "0xeadb",
+  "calculator-outline": "0xeadc",
+  "calculator-sharp": "0xeadd",
+  "calculator": "0xeade",
+  "calendar-clear-outline": "0xeadf",
+  "calendar-clear-sharp": "0xeae0",
+  "calendar-clear": "0xeae1",
+  "calendar-number-outline": "0xeae2",
+  "calendar-number-sharp": "0xeae3",
+  "calendar-number": "0xeae4",
+  "calendar-outline": "0xeae5",
+  "calendar-sharp": "0xeae6",
+  "calendar": "0xeae7",
+  "call-outline": "0xeae8",
+  "call-sharp": "0xeae9",
+  "call": "0xeaea",
+  "camera-outline": "0xeaeb",
+  "camera-reverse-outline": "0xeaec",
+  "camera-reverse-sharp": "0xeaed",
+  "camera-reverse": "0xeaee",
+  "camera-sharp": "0xeaef",
+  "camera": "0xeaf0",
+  "car-outline": "0xeaf1",
+  "car-sharp": "0xeaf2",
+  "car-sport-outline": "0xeaf3",
+  "car-sport-sharp": "0xeaf4",
+  "car-sport": "0xeaf5",
+  "car": "0xeaf6",
+  "card-outline": "0xeaf7",
+  "card-sharp": "0xeaf8",
+  "card": "0xeaf9",
+  "caret-back-circle-outline": "0xeafa",
+  "caret-back-circle-sharp": "0xeafb",
+  "caret-back-circle": "0xeafc",
+  "caret-back-outline": "0xeafd",
+  "caret-back-sharp": "0xeafe",
+  "caret-back": "0xeaff",
+  "caret-down-circle-outline": "0xeb00",
+  "caret-down-circle-sharp": "0xeb01",
+  "caret-down-circle": "0xeb02",
+  "caret-down-outline": "0xeb03",
+  "caret-down-sharp": "0xeb04",
+  "caret-down": "0xeb05",
+  "caret-forward-circle-outline": "0xeb06",
+  "caret-forward-circle-sharp": "0xeb07",
+  "caret-forward-circle": "0xeb08",
+  "caret-forward-outline": "0xeb09",
+  "caret-forward-sharp": "0xeb0a",
+  "caret-forward": "0xeb0b",
+  "caret-up-circle-outline": "0xeb0c",
+  "caret-up-circle-sharp": "0xeb0d",
+  "caret-up-circle": "0xeb0e",
+  "caret-up-outline": "0xeb0f",
+  "caret-up-sharp": "0xeb10",
+  "caret-up": "0xeb11",
+  "cart-outline": "0xeb12",
+  "cart-sharp": "0xeb13",
+  "cart": "0xeb14",
+  "cash-outline": "0xeb15",
+  "cash-sharp": "0xeb16",
+  "cash": "0xeb17",
+  "cellular-outline": "0xeb18",
+  "cellular-sharp": "0xeb19",
+  "cellular": "0xeb1a",
+  "chatbox-ellipses-outline": "0xeb1b",
+  "chatbox-ellipses-sharp": "0xeb1c",
+  "chatbox-ellipses": "0xeb1d",
+  "chatbox-outline": "0xeb1e",
+  "chatbox-sharp": "0xeb1f",
+  "chatbox": "0xeb20",
+  "chatbubble-ellipses-outline": "0xeb21",
+  "chatbubble-ellipses-sharp": "0xeb22",
+  "chatbubble-ellipses": "0xeb23",
+  "chatbubble-outline": "0xeb24",
+  "chatbubble-sharp": "0xeb25",
+  "chatbubble": "0xeb26",
+  "chatbubbles-outline": "0xeb27",
+  "chatbubbles-sharp": "0xeb28",
+  "chatbubbles": "0xeb29",
+  "checkbox-outline": "0xeb2a",
+  "checkbox-sharp": "0xeb2b",
+  "checkbox": "0xeb2c",
+  "checkmark-circle-outline": "0xeb2d",
+  "checkmark-circle-sharp": "0xeb2e",
+  "checkmark-circle": "0xeb2f",
+  "checkmark-done-circle-outline": "0xeb30",
+  "checkmark-done-circle-sharp": "0xeb31",
+  "checkmark-done-circle": "0xeb32",
+  "checkmark-done-outline": "0xeb33",
+  "checkmark-done-sharp": "0xeb34",
+  "checkmark-done": "0xeb35",
+  "checkmark-outline": "0xeb36",
+  "checkmark-sharp": "0xeb37",
+  "checkmark": "0xeb38",
+  "chevron-back-circle-outline": "0xeb39",
+  "chevron-back-circle-sharp": "0xeb3a",
+  "chevron-back-circle": "0xeb3b",
+  "chevron-back-outline": "0xeb3c",
+  "chevron-back-sharp": "0xeb3d",
+  "chevron-back": "0xeb3e",
+  "chevron-collapse-outline": "0xeb3f",
+  "chevron-collapse-sharp": "0xeb40",
+  "chevron-collapse": "0xeb41",
+  "chevron-down-circle-outline": "0xeb42",
+  "chevron-down-circle-sharp": "0xeb43",
+  "chevron-down-circle": "0xeb44",
+  "chevron-down-outline": "0xeb45",
+  "chevron-down-sharp": "0xeb46",
+  "chevron-down": "0xeb47",
+  "chevron-expand-outline": "0xeb48",
+  "chevron-expand-sharp": "0xeb49",
+  "chevron-expand": "0xeb4a",
+  "chevron-forward-circle-outline": "0xeb4b",
+  "chevron-forward-circle-sharp": "0xeb4c",
+  "chevron-forward-circle": "0xeb4d",
+  "chevron-forward-outline": "0xeb4e",
+  "chevron-forward-sharp": "0xeb4f",
+  "chevron-forward": "0xeb50",
+  "chevron-up-circle-outline": "0xeb51",
+  "chevron-up-circle-sharp": "0xeb52",
+  "chevron-up-circle": "0xeb53",
+  "chevron-up-outline": "0xeb54",
+  "chevron-up-sharp": "0xeb55",
+  "chevron-up": "0xeb56",
+  "clipboard-outline": "0xeb57",
+  "clipboard-sharp": "0xeb58",
+  "clipboard": "0xeb59",
+  "close-circle-outline": "0xeb5a",
+  "close-circle-sharp": "0xeb5b",
+  "close-circle": "0xeb5c",
+  "close-outline": "0xeb5d",
+  "close-sharp": "0xeb5e",
+  "close": "0xeb5f",
+  "cloud-circle-outline": "0xeb60",
+  "cloud-circle-sharp": "0xeb61",
+  "cloud-circle": "0xeb62",
+  "cloud-done-outline": "0xeb63",
+  "cloud-done-sharp": "0xeb64",
+  "cloud-done": "0xeb65",
+  "cloud-download-outline": "0xeb66",
+  "cloud-download-sharp": "0xeb67",
+  "cloud-download": "0xeb68",
+  "cloud-offline-outline": "0xeb69",
+  "cloud-offline-sharp": "0xeb6a",
+  "cloud-offline": "0xeb6b",
+  "cloud-outline": "0xeb6c",
+  "cloud-sharp": "0xeb6d",
+  "cloud-upload-outline": "0xeb6e",
+  "cloud-upload-sharp": "0xeb6f",
+  "cloud-upload": "0xeb70",
+  "cloud": "0xeb71",
+  "cloudy-night-outline": "0xeb72",
+  "cloudy-night-sharp": "0xeb73",
+  "cloudy-night": "0xeb74",
+  "cloudy-outline": "0xeb75",
+  "cloudy-sharp": "0xeb76",
+  "cloudy": "0xeb77",
+  "code-download-outline": "0xeb78",
+  "code-download-sharp": "0xeb79",
+  "code-download": "0xeb7a",
+  "code-outline": "0xeb7b",
+  "code-sharp": "0xeb7c",
+  "code-slash-outline": "0xeb7d",
+  "code-slash-sharp": "0xeb7e",
+  "code-slash": "0xeb7f",
+  "code-working-outline": "0xeb80",
+  "code-working-sharp": "0xeb81",
+  "code-working": "0xeb82",
+  "code": "0xeb83",
+  "cog-outline": "0xeb84",
+  "cog-sharp": "0xeb85",
+  "cog": "0xeb86",
+  "color-fill-outline": "0xeb87",
+  "color-fill-sharp": "0xeb88",
+  "color-fill": "0xeb89",
+  "color-filter-outline": "0xeb8a",
+  "color-filter-sharp": "0xeb8b",
+  "color-filter": "0xeb8c",
+  "color-palette-outline": "0xeb8d",
+  "color-palette-sharp": "0xeb8e",
+  "color-palette": "0xeb8f",
+  "color-wand-outline": "0xeb90",
+  "color-wand-sharp": "0xeb91",
+  "color-wand": "0xeb92",
+  "compass-outline": "0xeb93",
+  "compass-sharp": "0xeb94",
+  "compass": "0xeb95",
+  "construct-outline": "0xeb96",
+  "construct-sharp": "0xeb97",
+  "construct": "0xeb98",
+  "contract-outline": "0xeb99",
+  "contract-sharp": "0xeb9a",
+  "contract": "0xeb9b",
+  "contrast-outline": "0xeb9c",
+  "contrast-sharp": "0xeb9d",
+  "contrast": "0xeb9e",
+  "copy-outline": "0xeb9f",
+  "copy-sharp": "0xeba0",
+  "copy": "0xeba1",
+  "create-outline": "0xeba2",
+  "create-sharp": "0xeba3",
+  "create": "0xeba4",
+  "crop-outline": "0xeba5",
+  "crop-sharp": "0xeba6",
+  "crop": "0xeba7",
+  "cube-outline": "0xeba8",
+  "cube-sharp": "0xeba9",
+  "cube": "0xebaa",
+  "cut-outline": "0xebab",
+  "cut-sharp": "0xebac",
+  "cut": "0xebad",
+  "desktop-outline": "0xebae",
+  "desktop-sharp": "0xebaf",
+  "desktop": "0xebb0",
+  "diamond-outline": "0xebb1",
+  "diamond-sharp": "0xebb2",
+  "diamond": "0xebb3",
+  "dice-outline": "0xebb4",
+  "dice-sharp": "0xebb5",
+  "dice": "0xebb6",
+  "disc-outline": "0xebb7",
+  "disc-sharp": "0xebb8",
+  "disc": "0xebb9",
+  "document-attach-outline": "0xebba",
+  "document-attach-sharp": "0xebbb",
+  "document-attach": "0xebbc",
+  "document-lock-outline": "0xebbd",
+  "document-lock-sharp": "0xebbe",
+  "document-lock": "0xebbf",
+  "document-outline": "0xebc0",
+  "document-sharp": "0xebc1",
+  "document-text-outline": "0xebc2",
+  "document-text-sharp": "0xebc3",
+  "document-text": "0xebc4",
+  "document": "0xebc5",
+  "documents-outline": "0xebc6",
+  "documents-sharp": "0xebc7",
+  "documents": "0xebc8",
+  "download-outline": "0xebc9",
+  "download-sharp": "0xebca",
+  "download": "0xebcb",
+  "duplicate-outline": "0xebcc",
+  "duplicate-sharp": "0xebcd",
+  "duplicate": "0xebce",
+  "ear-outline": "0xebcf",
+  "ear-sharp": "0xebd0",
+  "ear": "0xebd1",
+  "earth-outline": "0xebd2",
+  "earth-sharp": "0xebd3",
+  "earth": "0xebd4",
+  "easel-outline": "0xebd5",
+  "easel-sharp": "0xebd6",
+  "easel": "0xebd7",
+  "egg-outline": "0xebd8",
+  "egg-sharp": "0xebd9",
+  "egg": "0xebda",
+  "ellipse-outline": "0xebdb",
+  "ellipse-sharp": "0xebdc",
+  "ellipse": "0xebdd",
+  "ellipsis-horizontal-circle-outline": "0xebde",
+  "ellipsis-horizontal-circle-sharp": "0xebdf",
+  "ellipsis-horizontal-circle": "0xebe0",
+  "ellipsis-horizontal-outline": "0xebe1",
+  "ellipsis-horizontal-sharp": "0xebe2",
+  "ellipsis-horizontal": "0xebe3",
+  "ellipsis-vertical-circle-outline": "0xebe4",
+  "ellipsis-vertical-circle-sharp": "0xebe5",
+  "ellipsis-vertical-circle": "0xebe6",
+  "ellipsis-vertical-outline": "0xebe7",
+  "ellipsis-vertical-sharp": "0xebe8",
+  "ellipsis-vertical": "0xebe9",
+  "enter-outline": "0xebea",
+  "enter-sharp": "0xebeb",
+  "enter": "0xebec",
+  "exit-outline": "0xebed",
+  "exit-sharp": "0xebee",
+  "exit": "0xebef",
+  "expand-outline": "0xebf0",
+  "expand-sharp": "0xebf1",
+  "expand": "0xebf2",
+  "extension-puzzle-outline": "0xebf3",
+  "extension-puzzle-sharp": "0xebf4",
+  "extension-puzzle": "0xebf5",
+  "eye-off-outline": "0xebf6",
+  "eye-off-sharp": "0xebf7",
+  "eye-off": "0xebf8",
+  "eye-outline": "0xebf9",
+  "eye-sharp": "0xebfa",
+  "eye": "0xebfb",
+  "eyedrop-outline": "0xebfc",
+  "eyedrop-sharp": "0xebfd",
+  "eyedrop": "0xebfe",
+  "fast-food-outline": "0xebff",
+  "fast-food-sharp": "0xec00",
+  "fast-food": "0xec01",
+  "female-outline": "0xec02",
+  "female-sharp": "0xec03",
+  "female": "0xec04",
+  "file-tray-full-outline": "0xec05",
+  "file-tray-full-sharp": "0xec06",
+  "file-tray-full": "0xec07",
+  "file-tray-outline": "0xec08",
+  "file-tray-sharp": "0xec09",
+  "file-tray-stacked-outline": "0xec0a",
+  "file-tray-stacked-sharp": "0xec0b",
+  "file-tray-stacked": "0xec0c",
+  "file-tray": "0xec0d",
+  "film-outline": "0xec0e",
+  "film-sharp": "0xec0f",
+  "film": "0xec10",
+  "filter-circle-outline": "0xec11",
+  "filter-circle-sharp": "0xec12",
+  "filter-circle": "0xec13",
+  "filter-outline": "0xec14",
+  "filter-sharp": "0xec15",
+  "filter": "0xec16",
+  "finger-print-outline": "0xec17",
+  "finger-print-sharp": "0xec18",
+  "finger-print": "0xec19",
+  "fish-outline": "0xec1a",
+  "fish-sharp": "0xec1b",
+  "fish": "0xec1c",
+  "fitness-outline": "0xec1d",
+  "fitness-sharp": "0xec1e",
+  "fitness": "0xec1f",
+  "flag-outline": "0xec20",
+  "flag-sharp": "0xec21",
+  "flag": "0xec22",
+  "flame-outline": "0xec23",
+  "flame-sharp": "0xec24",
+  "flame": "0xec25",
+  "flash-off-outline": "0xec26",
+  "flash-off-sharp": "0xec27",
+  "flash-off": "0xec28",
+  "flash-outline": "0xec29",
+  "flash-sharp": "0xec2a",
+  "flash": "0xec2b",
+  "flashlight-outline": "0xec2c",
+  "flashlight-sharp": "0xec2d",
+  "flashlight": "0xec2e",
+  "flask-outline": "0xec2f",
+  "flask-sharp": "0xec30",
+  "flask": "0xec31",
+  "flower-outline": "0xec32",
+  "flower-sharp": "0xec33",
+  "flower": "0xec34",
+  "folder-open-outline": "0xec35",
+  "folder-open-sharp": "0xec36",
+  "folder-open": "0xec37",
+  "folder-outline": "0xec38",
+  "folder-sharp": "0xec39",
+  "folder": "0xec3a",
+  "football-outline": "0xec3b",
+  "football-sharp": "0xec3c",
+  "football": "0xec3d",
+  "footsteps-outline": "0xec3e",
+  "footsteps-sharp": "0xec3f",
+  "footsteps": "0xec40",
+  "funnel-outline": "0xec41",
+  "funnel-sharp": "0xec42",
+  "funnel": "0xec43",
+  "game-controller-outline": "0xec44",
+  "game-controller-sharp": "0xec45",
+  "game-controller": "0xec46",
+  "gift-outline": "0xec47",
+  "gift-sharp": "0xec48",
+  "gift": "0xec49",
+  "git-branch-outline": "0xec4a",
+  "git-branch-sharp": "0xec4b",
+  "git-branch": "0xec4c",
+  "git-commit-outline": "0xec4d",
+  "git-commit-sharp": "0xec4e",
+  "git-commit": "0xec4f",
+  "git-compare-outline": "0xec50",
+  "git-compare-sharp": "0xec51",
+  "git-compare": "0xec52",
+  "git-merge-outline": "0xec53",
+  "git-merge-sharp": "0xec54",
+  "git-merge": "0xec55",
+  "git-network-outline": "0xec56",
+  "git-network-sharp": "0xec57",
+  "git-network": "0xec58",
+  "git-pull-request-outline": "0xec59",
+  "git-pull-request-sharp": "0xec5a",
+  "git-pull-request": "0xec5b",
+  "glasses-outline": "0xec5c",
+  "glasses-sharp": "0xec5d",
+  "glasses": "0xec5e",
+  "globe-outline": "0xec5f",
+  "globe-sharp": "0xec60",
+  "globe": "0xec61",
+  "golf-outline": "0xec62",
+  "golf-sharp": "0xec63",
+  "golf": "0xec64",
+  "grid-outline": "0xec65",
+  "grid-sharp": "0xec66",
+  "grid": "0xec67",
+  "hammer-outline": "0xec68",
+  "hammer-sharp": "0xec69",
+  "hammer": "0xec6a",
+  "hand-left-outline": "0xec6b",
+  "hand-left-sharp": "0xec6c",
+  "hand-left": "0xec6d",
+  "hand-right-outline": "0xec6e",
+  "hand-right-sharp": "0xec6f",
+  "hand-right": "0xec70",
+  "happy-outline": "0xec71",
+  "happy-sharp": "0xec72",
+  "happy": "0xec73",
+  "hardware-chip-outline": "0xec74",
+  "hardware-chip-sharp": "0xec75",
+  "hardware-chip": "0xec76",
+  "headset-outline": "0xec77",
+  "headset-sharp": "0xec78",
+  "headset": "0xec79",
+  "heart-circle-outline": "0xec7a",
+  "heart-circle-sharp": "0xec7b",
+  "heart-circle": "0xec7c",
+  "heart-dislike-circle-outline": "0xec7d",
+  "heart-dislike-circle-sharp": "0xec7e",
+  "heart-dislike-circle": "0xec7f",
+  "heart-dislike-outline": "0xec80",
+  "heart-dislike-sharp": "0xec81",
+  "heart-dislike": "0xec82",
+  "heart-half-outline": "0xec83",
+  "heart-half-sharp": "0xec84",
+  "heart-half": "0xec85",
+  "heart-outline": "0xec86",
+  "heart-sharp": "0xec87",
+  "heart": "0xec88",
+  "help-buoy-outline": "0xec89",
+  "help-buoy-sharp": "0xec8a",
+  "help-buoy": "0xec8b",
+  "help-circle-outline": "0xec8c",
+  "help-circle-sharp": "0xec8d",
+  "help-circle": "0xec8e",
+  "help-outline": "0xec8f",
+  "help-sharp": "0xec90",
+  "help": "0xec91",
+  "home-outline": "0xec92",
+  "home-sharp": "0xec93",
+  "home": "0xec94",
+  "hourglass-outline": "0xec95",
+  "hourglass-sharp": "0xec96",
+  "hourglass": "0xec97",
+  "ice-cream-outline": "0xec98",
+  "ice-cream-sharp": "0xec99",
+  "ice-cream": "0xec9a",
+  "id-card-outline": "0xec9b",
+  "id-card-sharp": "0xec9c",
+  "id-card": "0xec9d",
+  "image-outline": "0xec9e",
+  "image-sharp": "0xec9f",
+  "image": "0xeca0",
+  "images-outline": "0xeca1",
+  "images-sharp": "0xeca2",
+  "images": "0xeca3",
+  "infinite-outline": "0xeca4",
+  "infinite-sharp": "0xeca5",
+  "infinite": "0xeca6",
+  "information-circle-outline": "0xeca7",
+  "information-circle-sharp": "0xeca8",
+  "information-circle": "0xeca9",
+  "information-outline": "0xecaa",
+  "information-sharp": "0xecab",
+  "information": "0xecac",
+  "invert-mode-outline": "0xecad",
+  "invert-mode-sharp": "0xecae",
+  "invert-mode": "0xecaf",
+  "journal-outline": "0xecb0",
+  "journal-sharp": "0xecb1",
+  "journal": "0xecb2",
+  "key-outline": "0xecb3",
+  "key-sharp": "0xecb4",
+  "key": "0xecb5",
+  "keypad-outline": "0xecb6",
+  "keypad-sharp": "0xecb7",
+  "keypad": "0xecb8",
+  "language-outline": "0xecb9",
+  "language-sharp": "0xecba",
+  "language": "0xecbb",
+  "laptop-outline": "0xecbc",
+  "laptop-sharp": "0xecbd",
+  "laptop": "0xecbe",
+  "layers-outline": "0xecbf",
+  "layers-sharp": "0xecc0",
+  "layers": "0xecc1",
+  "leaf-outline": "0xecc2",
+  "leaf-sharp": "0xecc3",
+  "leaf": "0xecc4",
+  "library-outline": "0xecc5",
+  "library-sharp": "0xecc6",
+  "library": "0xecc7",
+  "link-outline": "0xecc8",
+  "link-sharp": "0xecc9",
+  "link": "0xecca",
+  "list-circle-outline": "0xeccb",
+  "list-circle-sharp": "0xeccc",
+  "list-circle": "0xeccd",
+  "list-outline": "0xecce",
+  "list-sharp": "0xeccf",
+  "list": "0xecd0",
+  "locate-outline": "0xecd1",
+  "locate-sharp": "0xecd2",
+  "locate": "0xecd3",
+  "location-outline": "0xecd4",
+  "location-sharp": "0xecd5",
+  "location": "0xecd6",
+  "lock-closed-outline": "0xecd7",
+  "lock-closed-sharp": "0xecd8",
+  "lock-closed": "0xecd9",
+  "lock-open-outline": "0xecda",
+  "lock-open-sharp": "0xecdb",
+  "lock-open": "0xecdc",
+  "log-in-outline": "0xecdd",
+  "log-in-sharp": "0xecde",
+  "log-in": "0xecdf",
+  "log-out-outline": "0xece0",
+  "log-out-sharp": "0xece1",
+  "log-out": "0xece2",
+  "logo-alipay": "0xece3",
+  "logo-amazon": "0xece4",
+  "logo-amplify": "0xece5",
+  "logo-android": "0xece6",
+  "logo-angular": "0xece7",
+  "logo-appflow": "0xece8",
+  "logo-apple-appstore": "0xece9",
+  "logo-apple-ar": "0xecea",
+  "logo-apple": "0xeceb",
+  "logo-behance": "0xecec",
+  "logo-bitbucket": "0xeced",
+  "logo-bitcoin": "0xecee",
+  "logo-buffer": "0xecef",
+  "logo-capacitor": "0xecf0",
+  "logo-chrome": "0xecf1",
+  "logo-closed-captioning": "0xecf2",
+  "logo-codepen": "0xecf3",
+  "logo-css3": "0xecf4",
+  "logo-designernews": "0xecf5",
+  "logo-deviantart": "0xecf6",
+  "logo-discord": "0xecf7",
+  "logo-docker": "0xecf8",
+  "logo-dribbble": "0xecf9",
+  "logo-dropbox": "0xecfa",
+  "logo-edge": "0xecfb",
+  "logo-electron": "0xecfc",
+  "logo-euro": "0xecfd",
+  "logo-facebook": "0xecfe",
+  "logo-figma": "0xecff",
+  "logo-firebase": "0xed00",
+  "logo-firefox": "0xed01",
+  "logo-flickr": "0xed02",
+  "logo-foursquare": "0xed03",
+  "logo-github": "0xed04",
+  "logo-gitlab": "0xed05",
+  "logo-google-playstore": "0xed06",
+  "logo-google": "0xed07",
+  "logo-hackernews": "0xed08",
+  "logo-html5": "0xed09",
+  "logo-instagram": "0xed0a",
+  "logo-ionic": "0xed0b",
+  "logo-ionitron": "0xed0c",
+  "logo-javascript": "0xed0d",
+  "logo-laravel": "0xed0e",
+  "logo-linkedin": "0xed0f",
+  "logo-markdown": "0xed10",
+  "logo-mastodon": "0xed11",
+  "logo-medium": "0xed12",
+  "logo-microsoft": "0xed13",
+  "logo-no-smoking": "0xed14",
+  "logo-nodejs": "0xed15",
+  "logo-npm": "0xed16",
+  "logo-octocat": "0xed17",
+  "logo-paypal": "0xed18",
+  "logo-pinterest": "0xed19",
+  "logo-playstation": "0xed1a",
+  "logo-pwa": "0xed1b",
+  "logo-python": "0xed1c",
+  "logo-react": "0xed1d",
+  "logo-reddit": "0xed1e",
+  "logo-rss": "0xed1f",
+  "logo-sass": "0xed20",
+  "logo-skype": "0xed21",
+  "logo-slack": "0xed22",
+  "logo-snapchat": "0xed23",
+  "logo-soundcloud": "0xed24",
+  "logo-stackoverflow": "0xed25",
+  "logo-steam": "0xed26",
+  "logo-stencil": "0xed27",
+  "logo-tableau": "0xed28",
+  "logo-tiktok": "0xed29",
+  "logo-trapeze": "0xed2a",
+  "logo-tumblr": "0xed2b",
+  "logo-tux": "0xed2c",
+  "logo-twitch": "0xed2d",
+  "logo-twitter": "0xed2e",
+  "logo-usd": "0xed2f",
+  "logo-venmo": "0xed30",
+  "logo-vercel": "0xed31",
+  "logo-vimeo": "0xed32",
+  "logo-vk": "0xed33",
+  "logo-vue": "0xed34",
+  "logo-web-component": "0xed35",
+  "logo-wechat": "0xed36",
+  "logo-whatsapp": "0xed37",
+  "logo-windows": "0xed38",
+  "logo-wordpress": "0xed39",
+  "logo-x": "0xed3a",
+  "logo-xbox": "0xed3b",
+  "logo-xing": "0xed3c",
+  "logo-yahoo": "0xed3d",
+  "logo-yen": "0xed3e",
+  "logo-youtube": "0xed3f",
+  "magnet-outline": "0xed40",
+  "magnet-sharp": "0xed41",
+  "magnet": "0xed42",
+  "mail-open-outline": "0xed43",
+  "mail-open-sharp": "0xed44",
+  "mail-open": "0xed45",
+  "mail-outline": "0xed46",
+  "mail-sharp": "0xed47",
+  "mail-unread-outline": "0xed48",
+  "mail-unread-sharp": "0xed49",
+  "mail-unread": "0xed4a",
+  "mail": "0xed4b",
+  "male-female-outline": "0xed4c",
+  "male-female-sharp": "0xed4d",
+  "male-female": "0xed4e",
+  "male-outline": "0xed4f",
+  "male-sharp": "0xed50",
+  "male": "0xed51",
+  "man-outline": "0xed52",
+  "man-sharp": "0xed53",
+  "man": "0xed54",
+  "map-outline": "0xed55",
+  "map-sharp": "0xed56",
+  "map": "0xed57",
+  "medal-outline": "0xed58",
+  "medal-sharp": "0xed59",
+  "medal": "0xed5a",
+  "medical-outline": "0xed5b",
+  "medical-sharp": "0xed5c",
+  "medical": "0xed5d",
+  "medkit-outline": "0xed5e",
+  "medkit-sharp": "0xed5f",
+  "medkit": "0xed60",
+  "megaphone-outline": "0xed61",
+  "megaphone-sharp": "0xed62",
+  "megaphone": "0xed63",
+  "menu-outline": "0xed64",
+  "menu-sharp": "0xed65",
+  "menu": "0xed66",
+  "mic-circle-outline": "0xed67",
+  "mic-circle-sharp": "0xed68",
+  "mic-circle": "0xed69",
+  "mic-off-circle-outline": "0xed6a",
+  "mic-off-circle-sharp": "0xed6b",
+  "mic-off-circle": "0xed6c",
+  "mic-off-outline": "0xed6d",
+  "mic-off-sharp": "0xed6e",
+  "mic-off": "0xed6f",
+  "mic-outline": "0xed70",
+  "mic-sharp": "0xed71",
+  "mic": "0xed72",
+  "moon-outline": "0xed73",
+  "moon-sharp": "0xed74",
+  "moon": "0xed75",
+  "move-outline": "0xed76",
+  "move-sharp": "0xed77",
+  "move": "0xed78",
+  "musical-note-outline": "0xed79",
+  "musical-note-sharp": "0xed7a",
+  "musical-note": "0xed7b",
+  "musical-notes-outline": "0xed7c",
+  "musical-notes-sharp": "0xed7d",
+  "musical-notes": "0xed7e",
+  "navigate-circle-outline": "0xed7f",
+  "navigate-circle-sharp": "0xed80",
+  "navigate-circle": "0xed81",
+  "navigate-outline": "0xed82",
+  "navigate-sharp": "0xed83",
+  "navigate": "0xed84",
+  "newspaper-outline": "0xed85",
+  "newspaper-sharp": "0xed86",
+  "newspaper": "0xed87",
+  "notifications-circle-outline": "0xed88",
+  "notifications-circle-sharp": "0xed89",
+  "notifications-circle": "0xed8a",
+  "notifications-off-circle-outline": "0xed8b",
+  "notifications-off-circle-sharp": "0xed8c",
+  "notifications-off-circle": "0xed8d",
+  "notifications-off-outline": "0xed8e",
+  "notifications-off-sharp": "0xed8f",
+  "notifications-off": "0xed90",
+  "notifications-outline": "0xed91",
+  "notifications-sharp": "0xed92",
+  "notifications": "0xed93",
+  "nuclear-outline": "0xed94",
+  "nuclear-sharp": "0xed95",
+  "nuclear": "0xed96",
+  "nutrition-outline": "0xed97",
+  "nutrition-sharp": "0xed98",
+  "nutrition": "0xed99",
+  "open-outline": "0xed9a",
+  "open-sharp": "0xed9b",
+  "open": "0xed9c",
+  "options-outline": "0xed9d",
+  "options-sharp": "0xed9e",
+  "options": "0xed9f",
+  "paper-plane-outline": "0xeda0",
+  "paper-plane-sharp": "0xeda1",
+  "paper-plane": "0xeda2",
+  "partly-sunny-outline": "0xeda3",
+  "partly-sunny-sharp": "0xeda4",
+  "partly-sunny": "0xeda5",
+  "pause-circle-outline": "0xeda6",
+  "pause-circle-sharp": "0xeda7",
+  "pause-circle": "0xeda8",
+  "pause-outline": "0xeda9",
+  "pause-sharp": "0xedaa",
+  "pause": "0xedab",
+  "paw-outline": "0xedac",
+  "paw-sharp": "0xedad",
+  "paw": "0xedae",
+  "pencil-outline": "0xedaf",
+  "pencil-sharp": "0xedb0",
+  "pencil": "0xedb1",
+  "people-circle-outline": "0xedb2",
+  "people-circle-sharp": "0xedb3",
+  "people-circle": "0xedb4",
+  "people-outline": "0xedb5",
+  "people-sharp": "0xedb6",
+  "people": "0xedb7",
+  "person-add-outline": "0xedb8",
+  "person-add-sharp": "0xedb9",
+  "person-add": "0xedba",
+  "person-circle-outline": "0xedbb",
+  "person-circle-sharp": "0xedbc",
+  "person-circle": "0xedbd",
+  "person-outline": "0xedbe",
+  "person-remove-outline": "0xedbf",
+  "person-remove-sharp": "0xedc0",
+  "person-remove": "0xedc1",
+  "person-sharp": "0xedc2",
+  "person": "0xedc3",
+  "phone-landscape-outline": "0xedc4",
+  "phone-landscape-sharp": "0xedc5",
+  "phone-landscape": "0xedc6",
+  "phone-portrait-outline": "0xedc7",
+  "phone-portrait-sharp": "0xedc8",
+  "phone-portrait": "0xedc9",
+  "pie-chart-outline": "0xedca",
+  "pie-chart-sharp": "0xedcb",
+  "pie-chart": "0xedcc",
+  "pin-outline": "0xedcd",
+  "pin-sharp": "0xedce",
+  "pin": "0xedcf",
+  "pint-outline": "0xedd0",
+  "pint-sharp": "0xedd1",
+  "pint": "0xedd2",
+  "pizza-outline": "0xedd3",
+  "pizza-sharp": "0xedd4",
+  "pizza": "0xedd5",
+  "planet-outline": "0xedd6",
+  "planet-sharp": "0xedd7",
+  "planet": "0xedd8",
+  "play-back-circle-outline": "0xedd9",
+  "play-back-circle-sharp": "0xedda",
+  "play-back-circle": "0xeddb",
+  "play-back-outline": "0xeddc",
+  "play-back-sharp": "0xeddd",
+  "play-back": "0xedde",
+  "play-circle-outline": "0xeddf",
+  "play-circle-sharp": "0xede0",
+  "play-circle": "0xede1",
+  "play-forward-circle-outline": "0xede2",
+  "play-forward-circle-sharp": "0xede3",
+  "play-forward-circle": "0xede4",
+  "play-forward-outline": "0xede5",
+  "play-forward-sharp": "0xede6",
+  "play-forward": "0xede7",
+  "play-outline": "0xede8",
+  "play-sharp": "0xede9",
+  "play-skip-back-circle-outline": "0xedea",
+  "play-skip-back-circle-sharp": "0xedeb",
+  "play-skip-back-circle": "0xedec",
+  "play-skip-back-outline": "0xeded",
+  "play-skip-back-sharp": "0xedee",
+  "play-skip-back": "0xedef",
+  "play-skip-forward-circle-outline": "0xedf0",
+  "play-skip-forward-circle-sharp": "0xedf1",
+  "play-skip-forward-circle": "0xedf2",
+  "play-skip-forward-outline": "0xedf3",
+  "play-skip-forward-sharp": "0xedf4",
+  "play-skip-forward": "0xedf5",
+  "play": "0xedf6",
+  "podium-outline": "0xedf7",
+  "podium-sharp": "0xedf8",
+  "podium": "0xedf9",
+  "power-outline": "0xedfa",
+  "power-sharp": "0xedfb",
+  "power": "0xedfc",
+  "pricetag-outline": "0xedfd",
+  "pricetag-sharp": "0xedfe",
+  "pricetag": "0xedff",
+  "pricetags-outline": "0xee00",
+  "pricetags-sharp": "0xee01",
+  "pricetags": "0xee02",
+  "print-outline": "0xee03",
+  "print-sharp": "0xee04",
+  "print": "0xee05",
+  "prism-outline": "0xee06",
+  "prism-sharp": "0xee07",
+  "prism": "0xee08",
+  "pulse-outline": "0xee09",
+  "pulse-sharp": "0xee0a",
+  "pulse": "0xee0b",
+  "push-outline": "0xee0c",
+  "push-sharp": "0xee0d",
+  "push": "0xee0e",
+  "qr-code-outline": "0xee0f",
+  "qr-code-sharp": "0xee10",
+  "qr-code": "0xee11",
+  "radio-button-off-outline": "0xee12",
+  "radio-button-off-sharp": "0xee13",
+  "radio-button-off": "0xee14",
+  "radio-button-on-outline": "0xee15",
+  "radio-button-on-sharp": "0xee16",
+  "radio-button-on": "0xee17",
+  "radio-outline": "0xee18",
+  "radio-sharp": "0xee19",
+  "radio": "0xee1a",
+  "rainy-outline": "0xee1b",
+  "rainy-sharp": "0xee1c",
+  "rainy": "0xee1d",
+  "reader-outline": "0xee1e",
+  "reader-sharp": "0xee1f",
+  "reader": "0xee20",
+  "receipt-outline": "0xee21",
+  "receipt-sharp": "0xee22",
+  "receipt": "0xee23",
+  "recording-outline": "0xee24",
+  "recording-sharp": "0xee25",
+  "recording": "0xee26",
+  "refresh-circle-outline": "0xee27",
+  "refresh-circle-sharp": "0xee28",
+  "refresh-circle": "0xee29",
+  "refresh-outline": "0xee2a",
+  "refresh-sharp": "0xee2b",
+  "refresh": "0xee2c",
+  "reload-circle-outline": "0xee2d",
+  "reload-circle-sharp": "0xee2e",
+  "reload-circle": "0xee2f",
+  "reload-outline": "0xee30",
+  "reload-sharp": "0xee31",
+  "reload": "0xee32",
+  "remove-circle-outline": "0xee33",
+  "remove-circle-sharp": "0xee34",
+  "remove-circle": "0xee35",
+  "remove-outline": "0xee36",
+  "remove-sharp": "0xee37",
+  "remove": "0xee38",
+  "reorder-four-outline": "0xee39",
+  "reorder-four-sharp": "0xee3a",
+  "reorder-four": "0xee3b",
+  "reorder-three-outline": "0xee3c",
+  "reorder-three-sharp": "0xee3d",
+  "reorder-three": "0xee3e",
+  "reorder-two-outline": "0xee3f",
+  "reorder-two-sharp": "0xee40",
+  "reorder-two": "0xee41",
+  "repeat-outline": "0xee42",
+  "repeat-sharp": "0xee43",
+  "repeat": "0xee44",
+  "resize-outline": "0xee45",
+  "resize-sharp": "0xee46",
+  "resize": "0xee47",
+  "restaurant-outline": "0xee48",
+  "restaurant-sharp": "0xee49",
+  "restaurant": "0xee4a",
+  "return-down-back-outline": "0xee4b",
+  "return-down-back-sharp": "0xee4c",
+  "return-down-back": "0xee4d",
+  "return-down-forward-outline": "0xee4e",
+  "return-down-forward-sharp": "0xee4f",
+  "return-down-forward": "0xee50",
+  "return-up-back-outline": "0xee51",
+  "return-up-back-sharp": "0xee52",
+  "return-up-back": "0xee53",
+  "return-up-forward-outline": "0xee54",
+  "return-up-forward-sharp": "0xee55",
+  "return-up-forward": "0xee56",
+  "ribbon-outline": "0xee57",
+  "ribbon-sharp": "0xee58",
+  "ribbon": "0xee59",
+  "rocket-outline": "0xee5a",
+  "rocket-sharp": "0xee5b",
+  "rocket": "0xee5c",
+  "rose-outline": "0xee5d",
+  "rose-sharp": "0xee5e",
+  "rose": "0xee5f",
+  "sad-outline": "0xee60",
+  "sad-sharp": "0xee61",
+  "sad": "0xee62",
+  "save-outline": "0xee63",
+  "save-sharp": "0xee64",
+  "save": "0xee65",
+  "scale-outline": "0xee66",
+  "scale-sharp": "0xee67",
+  "scale": "0xee68",
+  "scan-circle-outline": "0xee69",
+  "scan-circle-sharp": "0xee6a",
+  "scan-circle": "0xee6b",
+  "scan-outline": "0xee6c",
+  "scan-sharp": "0xee6d",
+  "scan": "0xee6e",
+  "school-outline": "0xee6f",
+  "school-sharp": "0xee70",
+  "school": "0xee71",
+  "search-circle-outline": "0xee72",
+  "search-circle-sharp": "0xee73",
+  "search-circle": "0xee74",
+  "search-outline": "0xee75",
+  "search-sharp": "0xee76",
+  "search": "0xee77",
+  "send-outline": "0xee78",
+  "send-sharp": "0xee79",
+  "send": "0xee7a",
+  "server-outline": "0xee7b",
+  "server-sharp": "0xee7c",
+  "server": "0xee7d",
+  "settings-outline": "0xee7e",
+  "settings-sharp": "0xee7f",
+  "settings": "0xee80",
+  "shapes-outline": "0xee81",
+  "shapes-sharp": "0xee82",
+  "shapes": "0xee83",
+  "share-outline": "0xee84",
+  "share-sharp": "0xee85",
+  "share-social-outline": "0xee86",
+  "share-social-sharp": "0xee87",
+  "share-social": "0xee88",
+  "share": "0xee89",
+  "shield-checkmark-outline": "0xee8a",
+  "shield-checkmark-sharp": "0xee8b",
+  "shield-checkmark": "0xee8c",
+  "shield-half-outline": "0xee8d",
+  "shield-half-sharp": "0xee8e",
+  "shield-half": "0xee8f",
+  "shield-outline": "0xee90",
+  "shield-sharp": "0xee91",
+  "shield": "0xee92",
+  "shirt-outline": "0xee93",
+  "shirt-sharp": "0xee94",
+  "shirt": "0xee95",
+  "shuffle-outline": "0xee96",
+  "shuffle-sharp": "0xee97",
+  "shuffle": "0xee98",
+  "skull-outline": "0xee99",
+  "skull-sharp": "0xee9a",
+  "skull": "0xee9b",
+  "snow-outline": "0xee9c",
+  "snow-sharp": "0xee9d",
+  "snow": "0xee9e",
+  "sparkles-outline": "0xee9f",
+  "sparkles-sharp": "0xeea0",
+  "sparkles": "0xeea1",
+  "speedometer-outline": "0xeea2",
+  "speedometer-sharp": "0xeea3",
+  "speedometer": "0xeea4",
+  "square-outline": "0xeea5",
+  "square-sharp": "0xeea6",
+  "square": "0xeea7",
+  "star-half-outline": "0xeea8",
+  "star-half-sharp": "0xeea9",
+  "star-half": "0xeeaa",
+  "star-outline": "0xeeab",
+  "star-sharp": "0xeeac",
+  "star": "0xeead",
+  "stats-chart-outline": "0xeeae",
+  "stats-chart-sharp": "0xeeaf",
+  "stats-chart": "0xeeb0",
+  "stop-circle-outline": "0xeeb1",
+  "stop-circle-sharp": "0xeeb2",
+  "stop-circle": "0xeeb3",
+  "stop-outline": "0xeeb4",
+  "stop-sharp": "0xeeb5",
+  "stop": "0xeeb6",
+  "stopwatch-outline": "0xeeb7",
+  "stopwatch-sharp": "0xeeb8",
+  "stopwatch": "0xeeb9",
+  "storefront-outline": "0xeeba",
+  "storefront-sharp": "0xeebb",
+  "storefront": "0xeebc",
+  "subway-outline": "0xeebd",
+  "subway-sharp": "0xeebe",
+  "subway": "0xeebf",
+  "sunny-outline": "0xeec0",
+  "sunny-sharp": "0xeec1",
+  "sunny": "0xeec2",
+  "swap-horizontal-outline": "0xeec3",
+  "swap-horizontal-sharp": "0xeec4",
+  "swap-horizontal": "0xeec5",
+  "swap-vertical-outline": "0xeec6",
+  "swap-vertical-sharp": "0xeec7",
+  "swap-vertical": "0xeec8",
+  "sync-circle-outline": "0xeec9",
+  "sync-circle-sharp": "0xeeca",
+  "sync-circle": "0xeecb",
+  "sync-outline": "0xeecc",
+  "sync-sharp": "0xeecd",
+  "sync": "0xeece",
+  "tablet-landscape-outline": "0xeecf",
+  "tablet-landscape-sharp": "0xeed0",
+  "tablet-landscape": "0xeed1",
+  "tablet-portrait-outline": "0xeed2",
+  "tablet-portrait-sharp": "0xeed3",
+  "tablet-portrait": "0xeed4",
+  "telescope-outline": "0xeed5",
+  "telescope-sharp": "0xeed6",
+  "telescope": "0xeed7",
+  "tennisball-outline": "0xeed8",
+  "tennisball-sharp": "0xeed9",
+  "tennisball": "0xeeda",
+  "terminal-outline": "0xeedb",
+  "terminal-sharp": "0xeedc",
+  "terminal": "0xeedd",
+  "text-outline": "0xeede",
+  "text-sharp": "0xeedf",
+  "text": "0xeee0",
+  "thermometer-outline": "0xeee1",
+  "thermometer-sharp": "0xeee2",
+  "thermometer": "0xeee3",
+  "thumbs-down-outline": "0xeee4",
+  "thumbs-down-sharp": "0xeee5",
+  "thumbs-down": "0xeee6",
+  "thumbs-up-outline": "0xeee7",
+  "thumbs-up-sharp": "0xeee8",
+  "thumbs-up": "0xeee9",
+  "thunderstorm-outline": "0xeeea",
+  "thunderstorm-sharp": "0xeeeb",
+  "thunderstorm": "0xeeec",
+  "ticket-outline": "0xeeed",
+  "ticket-sharp": "0xeeee",
+  "ticket": "0xeeef",
+  "time-outline": "0xeef0",
+  "time-sharp": "0xeef1",
+  "time": "0xeef2",
+  "timer-outline": "0xeef3",
+  "timer-sharp": "0xeef4",
+  "timer": "0xeef5",
+  "today-outline": "0xeef6",
+  "today-sharp": "0xeef7",
+  "today": "0xeef8",
+  "toggle-outline": "0xeef9",
+  "toggle-sharp": "0xeefa",
+  "toggle": "0xeefb",
+  "trail-sign-outline": "0xeefc",
+  "trail-sign-sharp": "0xeefd",
+  "trail-sign": "0xeefe",
+  "train-outline": "0xeeff",
+  "train-sharp": "0xef00",
+  "train": "0xef01",
+  "transgender-outline": "0xef02",
+  "transgender-sharp": "0xef03",
+  "transgender": "0xef04",
+  "trash-bin-outline": "0xef05",
+  "trash-bin-sharp": "0xef06",
+  "trash-bin": "0xef07",
+  "trash-outline": "0xef08",
+  "trash-sharp": "0xef09",
+  "trash": "0xef0a",
+  "trending-down-outline": "0xef0b",
+  "trending-down-sharp": "0xef0c",
+  "trending-down": "0xef0d",
+  "trending-up-outline": "0xef0e",
+  "trending-up-sharp": "0xef0f",
+  "trending-up": "0xef10",
+  "triangle-outline": "0xef11",
+  "triangle-sharp": "0xef12",
+  "triangle": "0xef13",
+  "trophy-outline": "0xef14",
+  "trophy-sharp": "0xef15",
+  "trophy": "0xef16",
+  "tv-outline": "0xef17",
+  "tv-sharp": "0xef18",
+  "tv": "0xef19",
+  "umbrella-outline": "0xef1a",
+  "umbrella-sharp": "0xef1b",
+  "umbrella": "0xef1c",
+  "unlink-outline": "0xef1d",
+  "unlink-sharp": "0xef1e",
+  "unlink": "0xef1f",
+  "videocam-off-outline": "0xef20",
+  "videocam-off-sharp": "0xef21",
+  "videocam-off": "0xef22",
+  "videocam-outline": "0xef23",
+  "videocam-sharp": "0xef24",
+  "videocam": "0xef25",
+  "volume-high-outline": "0xef26",
+  "volume-high-sharp": "0xef27",
+  "volume-high": "0xef28",
+  "volume-low-outline": "0xef29",
+  "volume-low-sharp": "0xef2a",
+  "volume-low": "0xef2b",
+  "volume-medium-outline": "0xef2c",
+  "volume-medium-sharp": "0xef2d",
+  "volume-medium": "0xef2e",
+  "volume-mute-outline": "0xef2f",
+  "volume-mute-sharp": "0xef30",
+  "volume-mute": "0xef31",
+  "volume-off-outline": "0xef32",
+  "volume-off-sharp": "0xef33",
+  "volume-off": "0xef34",
+  "walk-outline": "0xef35",
+  "walk-sharp": "0xef36",
+  "walk": "0xef37",
+  "wallet-outline": "0xef38",
+  "wallet-sharp": "0xef39",
+  "wallet": "0xef3a",
+  "warning-outline": "0xef3b",
+  "warning-sharp": "0xef3c",
+  "warning": "0xef3d",
+  "watch-outline": "0xef3e",
+  "watch-sharp": "0xef3f",
+  "watch": "0xef40",
+  "water-outline": "0xef41",
+  "water-sharp": "0xef42",
+  "water": "0xef43",
+  "wifi-outline": "0xef44",
+  "wifi-sharp": "0xef45",
+  "wifi": "0xef46",
+  "wine-outline": "0xef47",
+  "wine-sharp": "0xef48",
+  "wine": "0xef49",
+  "woman-outline": "0xef4a",
+  "woman-sharp": "0xef4b",
+  "woman": "0xef4c"
 };

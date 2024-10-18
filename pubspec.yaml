@@ -1,6 +1,6 @@
 name: kmbal_ionicons
 description: Ionicons is a completely open-source icon set with 1k3+ icons crafted for web, iOS, Android, and desktop apps. They have both Material Design and iOS versions.
-version: 0.2.3
+version: 1.0.0
 homepage: https://ionic.io/ionicons
 
 environment:
