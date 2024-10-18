@@ -27,6 +27,7 @@ class MyHomePage extends StatelessWidget {
   final _outlineItems = ValueNotifier<List<MapEntry<String, String>>>([]);
   final _filledItems = ValueNotifier<List<MapEntry<String, String>>>([]);
   final _sharpItems = ValueNotifier<List<MapEntry<String, String>>>([]);
+  final _logoItems = ValueNotifier<List<MapEntry<String, String>>>([]);
 
   MyHomePage({super.key}) {
     _onTextChanged(''); // trigger the search
@@ -43,6 +44,7 @@ class MyHomePage extends StatelessWidget {
             Tab(text: 'Outline'),
             Tab(text: 'Filled'),
             Tab(text: 'Sharp'),
+            Tab(text: 'Logo'),
           ]),
           actions: [
             IconButton(
@@ -89,6 +91,10 @@ class MyHomePage extends StatelessWidget {
                     valueListenable: _sharpItems,
                     builder: (context, value, child) => _ItemList(items: value),
                   ),
+                  ValueListenableBuilder<dynamic>(
+                    valueListenable: _logoItems,
+                    builder: (context, value, child) => _ItemList(items: value),
+                  ),
                 ],
               ),
             ),
@@ -112,6 +118,7 @@ class MyHomePage extends StatelessWidget {
         .where((e) => !(e.key.endsWith('-outline') || e.key.endsWith('-sharp')))
         .toList();
     _sharpItems.value = items.where((e) => e.key.endsWith('-sharp')).toList();
+    _logoItems.value = items.where((e) => e.key.startsWith('logo-')).toList();
   }
 
   /// Handle on pressed GitHub button
@@ -131,7 +138,7 @@ class _ItemList extends StatelessWidget {
 
   final _controller = ScrollController();
 
-  _ItemList({super.key, required this.items});
+  _ItemList({required this.items});
 
   @override
   Widget build(BuildContext context) {
