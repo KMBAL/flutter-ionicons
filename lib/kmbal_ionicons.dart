@@ -3,11 +3,7 @@ import 'package:flutter/widgets.dart';
 /// A description of an icon fulfilled by a font glyph.
 class IoniconsData extends IconData {
   const IoniconsData(int code)
-      : super(
-          code,
-          fontFamily: 'Ionicons',
-          fontPackage: 'kmbal_ionicons',
-        );
+    : super(code, fontFamily: 'Ionicons', fontPackage: 'kmbal_ionicons');
 }
 
 /// Use with the Icon class to show specific icons.
@@ -5437,5 +5433,5 @@ const ioniconsMapping = {
   "wine": "0xef49",
   "woman-outline": "0xef4a",
   "woman-sharp": "0xef4b",
-  "woman": "0xef4c"
+  "woman": "0xef4c",
 };

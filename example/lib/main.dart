@@ -40,12 +40,14 @@ class MyHomePage extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: const Text('Flutter Ionicons'),
-          bottom: const TabBar(tabs: [
-            Tab(text: 'Outline'),
-            Tab(text: 'Filled'),
-            Tab(text: 'Sharp'),
-            Tab(text: 'Logo'),
-          ]),
+          bottom: const TabBar(
+            tabs: [
+              Tab(text: 'Outline'),
+              Tab(text: 'Filled'),
+              Tab(text: 'Sharp'),
+              Tab(text: 'Logo'),
+            ],
+          ),
           actions: [
             IconButton(
               onPressed: _onPressedGitHub,
@@ -109,11 +111,12 @@ class MyHomePage extends StatelessWidget {
     final items = value.isEmpty
         ? ioniconsMapping.entries.toList()
         : ioniconsMapping.entries
-            .where((e) => e.key.contains(value.toLowerCase()))
-            .toList();
+              .where((e) => e.key.contains(value.toLowerCase()))
+              .toList();
 
-    _outlineItems.value =
-        items.where((e) => e.key.endsWith('-outline')).toList();
+    _outlineItems.value = items
+        .where((e) => e.key.endsWith('-outline'))
+        .toList();
     _filledItems.value = items
         .where((e) => !(e.key.endsWith('-outline') || e.key.endsWith('-sharp')))
         .toList();
