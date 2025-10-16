@@ -42,18 +42,13 @@ ifeq ($(wildcard bin/tmp/ionicons-$(IONICON_VERSION)),)
 	unzip bin/tmp/icons.zip -d bin/tmp/
 endif
 
-ifeq ($(shell which oslllo-svg-fixer),)
-	npm i -g oslllo-svg-fixer
-endif
-
-ifeq ($(shell which svgtofont),)
-	npm i -g svgtofont
-endif
-
+	npm ci
+	rm -rf bin/tmp/svg
 	mkdir -p bin/tmp/svg
-	oslllo-svg-fixer --source=bin/tmp/ionicons-$(IONICON_VERSION)/src/svg --destination=bin/tmp/svg --show-progress
+	npx oslllo-svg-fixer --source=bin/tmp/ionicons-$(IONICON_VERSION)/src/svg --destination=bin/tmp/svg --show-progress
+	npx oslllo-svg-fixer --source=src/extra_icons/kmbal --destination=bin/tmp/svg --show-progress
 	# svgo -f bin/tmp/svg/ -o bin/tmp/svg2/
-	svgtofont --sources bin/tmp/svg --output=bin/tmp/fonts/ --fontName=Ionicons
+	npx svgtofont --sources bin/tmp/svg --output=bin/tmp/fonts/ --fontName=Ionicons
 
 	cp bin/tmp/fonts/*.ttf assets/fonts/
 	rm -rf bin/tmp/fonts/react/

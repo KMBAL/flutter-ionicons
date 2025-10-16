@@ -16,7 +16,7 @@ const fs = require('fs');
 // ];
 
 // const kRegexSCSS = /-(.*):before { content: "\\(.*)"; }/g;
-const kRegexSCSS = /\.Ionicons\-(.*):before.*"\\(.*)\";/g;
+const kRegexSCSS = /\.Ionicons\-(.*)::before.*"\\(.*)\";/g;
 
 const args = process.argv.slice(2);
 if (args.length < 2) {
